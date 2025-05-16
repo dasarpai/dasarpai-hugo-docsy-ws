@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ML on Blowfish</title><link>https://localhost:1313/tags/ml/</link><description>Recent content in ML on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Graphics Processing Units (GPUs)</title><link>https://localhost:1313/dsblog/Exploring-GPUs/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Exploring-GPUs/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6188-Exploring-GPUs.jpg" alt="Exploring Graphics Processing Units (GPUs)">&lt;/p>
+&lt;h1 id="exploring-graphics-processing-units-gpus">Exploring Graphics Processing Units (GPUs)&lt;a class="td-heading-self-link" href="#exploring-graphics-processing-units-gpus" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="overall-computational-power-of-gpus">&lt;strong>Overall Computational Power of GPUs&lt;/strong>&lt;a class="td-heading-self-link" href="#overall-computational-power-of-gpus" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>⚡ &lt;strong>Incredible Calculation Speed:&lt;/strong> Modern GPUs can perform tens of trillions of calculations per second (e.g., 36 trillion for Cyberpunk 2077).&lt;/li>
+&lt;li>🌍 &lt;strong>Human Comparison:&lt;/strong> Achieving this manually would require the equivalent of over 4,400 Earths full of people, each doing one calculation every second.&lt;/li>
+&lt;/ul>
+&lt;h2 id="gpu-vs-cpu">&lt;strong>GPU vs. CPU&lt;/strong>&lt;a class="td-heading-self-link" href="#gpu-vs-cpu" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>🚢 &lt;strong>Cargo Ship vs. Airplane Analogy:&lt;/strong> GPUs are like cargo ships (massive capacity, slower), and CPUs are like jets (fast, versatile, fewer tasks at once).&lt;/li>
+&lt;li>⚖️ &lt;strong>Different Strengths:&lt;/strong> CPUs handle operating systems, flexible tasks, and fewer but more complex instructions. GPUs excel at huge amounts of simple, repetitive calculations.&lt;/li>
+&lt;li>🔀 &lt;strong>Parallel vs. General Purpose:&lt;/strong> GPUs are less flexible but highly parallel, CPUs are more general-purpose and can run a wide variety of programs and instructions.&lt;/li>
+&lt;/ul>
+&lt;h2 id="gpu-architecture--components-ga102-example">&lt;strong>GPU Architecture &amp;amp; Components (GA102 Example)&lt;/strong>&lt;a class="td-heading-self-link" href="#gpu-architecture--components-ga102-example" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>💽 &lt;strong>Central GPU Die (GA102):&lt;/strong> A large chip with 28.3 billion transistors organized into Graphics Processing Clusters (GPCs), Streaming Multiprocessors (SMs), and cores.&lt;/li>
+&lt;li>🏗️ &lt;strong>Hierarchical Structure:&lt;/strong> GA102 has 7 GPCs → 12 SMs per GPC → 4 Warps per SM → 32 CUDA Per Wrap and 4 Tensor Per Warmp and 1 Ray Tracing Per GPC.&lt;/li>
+&lt;li>🔢 &lt;strong>Types of Cores:&lt;/strong>
+&lt;ul>
+&lt;li>⚙️ CUDA Cores: Handle basic arithmetic (addition, multiplication) most commonly used in gaming.&lt;/li>
+&lt;li>🧩 Tensor Cores: Perform massive matrix calculations for AI and neural networks.&lt;/li>
+&lt;li>💎 Ray Tracing Cores: Specialized for lighting and reflection calculations in real-time graphics.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="manufacturing--binning">&lt;strong>Manufacturing &amp;amp; Binning&lt;/strong>&lt;a class="td-heading-self-link" href="#manufacturing--binning" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>🔧 &lt;strong>Shared Chip Design:&lt;/strong> Different GPU models (e.g., 3080, 3090, 3090 Ti) share the same GA102 design.&lt;/li>
+&lt;li>🕳️ &lt;strong>Defects &amp;amp; Binning:&lt;/strong> Manufacturing imperfections result in some cores being disabled. This leads to different “tiers” of the same GPU architecture.&lt;/li>
+&lt;/ul>
+&lt;h2 id="cuda-core-internals">&lt;strong>CUDA Core Internals&lt;/strong>&lt;a class="td-heading-self-link" href="#cuda-core-internals" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>➕ &lt;strong>Simple Calculator Design:&lt;/strong> Each CUDA core is basically a tiny calculator that does fused multiply-add (FMA) and a few other operations.&lt;/li>
+&lt;li>💻 &lt;strong>Common Operations:&lt;/strong> Primarily handles 32-bit floating-point and integer arithmetic. More complex math (division, trignometry) is done by fewer, special function units.&lt;/li>
+&lt;/ul>
+&lt;h2 id="memory-systems-gddr6x--gddr7">&lt;strong>Memory Systems: GDDR6X &amp;amp; GDDR7&lt;/strong>&lt;a class="td-heading-self-link" href="#memory-systems-gddr6x--gddr7" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>💾 &lt;strong>Graphics Memory:&lt;/strong> GDDR6X chips (by Micron) feed terabytes of data per second into the GPU’s thousands of cores.&lt;/li>
+&lt;li>🚀 &lt;strong>High Bandwidth:&lt;/strong> GPU memory operates at huge bandwidths (over 1 terabyte/s) compared to typical CPU memory (~64 GB/s).&lt;/li>
+&lt;li>🔢 &lt;strong>Beyond Binary:&lt;/strong> GDDR6X and GDDR7 use multiple voltage levels (PAM-4 and PAM-3) to encode more data per signal, increasing transfer rates.&lt;/li>
+&lt;li>🏗️ &lt;strong>Future Memory Tech:&lt;/strong> Micron also develops HBM (High Bandwidth Memory) for AI accelerators, stacking memory chips in 3D, greatly boosting capacity and speed while reducing power.&lt;/li>
+&lt;/ul>
+&lt;h2 id="parallel-computing-concepts-simd--simt">&lt;strong>Parallel Computing Concepts (SIMD &amp;amp; SIMT)&lt;/strong>&lt;a class="td-heading-self-link" href="#parallel-computing-concepts-simd--simt" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>♻️ &lt;strong>Embarrassingly Parallel:&lt;/strong> Tasks like graphics rendering, Bitcoin mining, or AI training are easily split into millions of independent calculations.&lt;/li>
+&lt;li>📜 &lt;strong>Single Instruction Multiple Data (SIMD):&lt;/strong> Apply the same instruction to many data points at once—perfect for transforming millions of vertices in a 3D scene.&lt;/li>
+&lt;li>🔓 &lt;strong>From SIMD to SIMT:&lt;/strong> Newer GPUs use Single Instruction Multiple Threads (SIMT), allowing threads to progress independently and handle complex branching more efficiently.&lt;/li>
+&lt;/ul>
+&lt;h2 id="thread--warp-organization">&lt;strong>Thread &amp;amp; Warp Organization&lt;/strong>&lt;a class="td-heading-self-link" href="#thread--warp-organization" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>📦 &lt;strong>Thread Hierarchy:&lt;/strong> Threads → Warps (groups of 32 threads) → Thread Blocks → Grids.&lt;/li>
+&lt;li>🎛️ &lt;strong>Gigathread Engine:&lt;/strong> Manages the allocation of thread blocks to streaming multiprocessors, optimizing parallel processing.&lt;/li>
+&lt;/ul>
+&lt;h2 id="practical-applications">&lt;strong>Practical Applications&lt;/strong>&lt;a class="td-heading-self-link" href="#practical-applications" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>🎮 &lt;strong>Video Games:&lt;/strong> GPUs transform coordinates, apply textures, shading, and handle complex rendering pipelines. Millions of identical operations on different vertices and pixels are done in parallel.&lt;/li>
+&lt;li>₿ &lt;strong>Bitcoin Mining:&lt;/strong> GPUs can run the SHA-256 hashing algorithm in parallel many millions of times per second. Though now replaced by ASIC miners, GPUs were initially very efficient at this.&lt;/li>
+&lt;li>🤖 &lt;strong>AI &amp;amp; Neural Networks:&lt;/strong> Tensor cores accelerate matrix multiplications critical for training neural nets and powering generative AI.&lt;/li>
+&lt;li>💡 &lt;strong>Ray Tracing:&lt;/strong> Specialized cores handle ray tracing calculations for realistic lighting and reflections in real-time graphics.&lt;/li>
+&lt;/ul>
+&lt;h2 id="microns-role--advancements">&lt;strong>Micron’s Role &amp;amp; Advancements&lt;/strong>&lt;a class="td-heading-self-link" href="#microns-role--advancements" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>🏭 &lt;strong>Micron Memory Chips:&lt;/strong> GDDR6X and future GDDR7 designed by Micron power high-speed data transfers on GPUs.&lt;/li>
+&lt;li>🔮 &lt;strong>Innovations in Memory:&lt;/strong> High Bandwidth Memory (HBM) for AI chips stacks DRAM vertically, creating high-capacity, high-throughput solutions at lower energy costs.&lt;/li>
+&lt;li>📚 &lt;strong>Technological Marvel:&lt;/strong> Modern graphics cards are a blend of advanced materials, clever architectures, and innovative manufacturing. They enable astonishing levels of visual realism, parallel computation, and AI capabilities.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=h9Z4oGN89MU">How do Graphics Cards Work? Exploring GPU Architecture&lt;/a>&lt;/p></description></item><item><title>AI Models and Creators</title><link>https://localhost:1313/dsblog/AI-Models-and-Creators/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/AI-Models-and-Creators/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6187-ai-models-and-creators.jpg" alt="AI Models and Creators">&lt;/p>
+&lt;h1 id="ai-models-and-creators">AI Models and Creators&lt;a class="td-heading-self-link" href="#ai-models-and-creators" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="popular-models-and-their-creator">Popular Models and Their Creator&lt;a class="td-heading-self-link" href="#popular-models-and-their-creator" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>Nova - Amazon&lt;/li>
+&lt;li>Gemini, Gemma - Google&lt;/li>
+&lt;li>Granite - Oracle&lt;/li>
+&lt;li>GPT - OpenAI&lt;/li>
+&lt;li>Phi - Microsoft Azure&lt;/li>
+&lt;li>Einstein - Salesforce&lt;/li>
+&lt;li>Joule - SAP&lt;/li>
+&lt;li>Grok - X (formerly Twitter)&lt;/li>
+&lt;li>Llama - Meta&lt;/li>
+&lt;li>Qwen - Alibaba&lt;/li>
+&lt;li>Claude - Anthropic&lt;/li>
+&lt;li>Bard - Google&lt;/li>
+&lt;li>PaLM - Google&lt;/li>
+&lt;li>Mistral - Mistral AI&lt;/li>
+&lt;li>Falcon - Technology Innovation Institute (TII), UAE&lt;/li>
+&lt;li>Gato - DeepMind&lt;/li>
+&lt;li>Jasper - Jasper AI&lt;/li>
+&lt;li>Bloom - BigScience (collaborative project)&lt;/li>
+&lt;li>Ernie - Baidu&lt;/li>
+&lt;li>Alpaca - Stanford University (fine-tuned LLaMA model)&lt;/li>
+&lt;li>Stable Diffusion - Stability AI&lt;/li>
+&lt;li>HuggingChat - Hugging Face&lt;/li>
+&lt;li>Cohere of Command&lt;/li>
+&lt;li>Alpha fold of deepmind&lt;/li>
+&lt;/ol>
+&lt;h2 id="models-developed-by-microsoft">Models Developed by Microsoft&lt;a class="td-heading-self-link" href="#models-developed-by-microsoft" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Microsoft has developed or collaborated on several AI models and frameworks, especially as part of its Azure AI ecosystem and its partnership with OpenAI. Below is a list of models and AI systems associated with Microsoft:&lt;/p></description></item><item><title>AI/ML with Oracle Cloud</title><link>https://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</link><pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/AI-ML-With-Oracle-Cloud/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6166-AI-ML-With-Oracle-Cloud.jpg" alt="AI/ML with Oracle Cloud">&lt;/p>
+&lt;h1 id="aiml-with-oracle-cloud">AI/ML with Oracle Cloud&lt;a class="td-heading-self-link" href="#aiml-with-oracle-cloud" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="oracle-infrastructure-services">&lt;a href="https://docs.oracle.com/en-us/iaas/Content/services.htm">Oracle Infrastructure Services&lt;/a>&lt;a class="td-heading-self-link" href="#oracle-infrastructure-services" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Register for &lt;a href="https://www.oracle.com/cloud/free/?source=:ow:o:h:po:OHPPanel1nav0625&amp;amp;intcmp=:ow:o:h:po:OHPPanel1nav0625">Oracle Cloud Free Tier&lt;/a>&lt;/p>
+&lt;h2 id="oracle-ai-main-services">Oracle AI Main services&lt;a class="td-heading-self-link" href="#oracle-ai-main-services" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://cloud.oracle.com/digital-assistant/oda-instances?region=ap-mumbai-1">Digital Assistant&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/document-understanding/using/home.htm">Document Understanding&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/language/using/pretrain-models.htm#lang-detect">Language&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/vision/using/pretrained-model-using-image.htm">Vision&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/speech/home.htm">Speech&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/Content/Streaming/home.htm">Stream&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.oracle.com/en-us/iaas/process-automation/oci-process-automation/overview-oci-process-automation.html">Cloud Infra Automation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="generative-ai">&lt;a href="https://docs.oracle.com/en-us/iaas/Content/generative-ai/home.htm">Generative AI&lt;/a>&lt;a class="td-heading-self-link" href="#generative-ai" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Generative AI is a fully managed Oracle Cloud Infrastructure service that provides a set of state-of-the-art, customizable large language models (LLMs) that cover a wide range of use cases, including chat, text generation, summarization, and creating text embeddings.&lt;/p></description></item></channel></rss>

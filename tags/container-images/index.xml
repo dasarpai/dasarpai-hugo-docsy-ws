@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Container Images on Blowfish</title><link>https://localhost:1313/tags/container-images/</link><description>Recent content in Container Images on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/container-images/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Docker Image</title><link>https://localhost:1313/dsblog/Creating-Docker-Image/</link><pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Creating-Docker-Image/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6122-Creating-Docker-Image.jpg" alt="Creating-Docker-Image">&lt;/p>
+&lt;h1 id="creating-docker-image">Creating Docker Image&lt;a class="td-heading-self-link" href="#creating-docker-image" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="what-is-docker">What is Docker?&lt;a class="td-heading-self-link" href="#what-is-docker" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Docker is an open platform for developing, shipping, and running applications.&lt;/li>
+&lt;li>Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.&lt;/li>
+&lt;li>With Docker, you can manage your infrastructure in the same ways you manage your applications.&lt;/li>
+&lt;li>Docker provides the ability to package and run an application in a loosely isolated environment called a container.&lt;/li>
+&lt;li>The isolation and security lets you run many containers simultaneously on a given host.&lt;/li>
+&lt;li>Containers are lightweight and contain everything needed to run the application, so you don&amp;rsquo;t need to rely on what&amp;rsquo;s installed on the host.&lt;/li>
+&lt;/ul>
+&lt;h2 id="basics-terms-related-to-docker">Basics Terms Related to Docker&lt;a class="td-heading-self-link" href="#basics-terms-related-to-docker" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="the-docker-daemon">The Docker daemon&lt;a class="td-heading-self-link" href="#the-docker-daemon" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LLM on Blowfish</title><link>https://localhost:1313/tags/llm/</link><description>Recent content in LLM on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenAI 12 Days 2024 Announcements</title><link>https://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg" alt="OpenAI 12 Days 2024 Announcements">&lt;/p>
+&lt;h1 id="openai-12-days-2024-announcements">OpenAI 12 Days 2024 Announcements&lt;a class="td-heading-self-link" href="#openai-12-days-2024-announcements" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="day-1--announcements">&lt;a href="https://www.youtube.com/watch?v=iBfQTnA2n2s">Day 1- Announcements&lt;/a>&lt;a class="td-heading-self-link" href="#day-1--announcements" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Launch of o1 Full Version&lt;/strong>: This is an upgraded model designed to be faster, smarter, and multimodal, responding better to instructions. It shows significant improvement over its predecessor, especially in coding and problem-solving tasks.&lt;/p></description></item><item><title>Framework for using LLM</title><link>https://localhost:1313/dsblog/Framework-for-using-LLM/</link><pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Framework-for-using-LLM/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg" alt="Framework for using LLM">&lt;/p>
+&lt;h1 id="maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types">Maximizing Your LLM Project: A Comprehensive Guide to Effective Prompt Types&lt;a class="td-heading-self-link" href="#maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>When working on a project that leverages Large Language Models (LLMs), selecting the right model and prompt type can be daunting. With thousands of models, hundreds of tasks, and numerous output formats available, it&amp;rsquo;s easy to feel overwhelmed. This article aims to simplify your decision-making process by outlining the major types of prompts you can utilize to enhance your project’s effectiveness.&lt;/p></description></item><item><title>AI Models and Creators</title><link>https://localhost:1313/dsblog/AI-Models-and-Creators/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/AI-Models-and-Creators/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6187-ai-models-and-creators.jpg" alt="AI Models and Creators">&lt;/p>
+&lt;h1 id="ai-models-and-creators">AI Models and Creators&lt;a class="td-heading-self-link" href="#ai-models-and-creators" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="popular-models-and-their-creator">Popular Models and Their Creator&lt;a class="td-heading-self-link" href="#popular-models-and-their-creator" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>Nova - Amazon&lt;/li>
+&lt;li>Gemini, Gemma - Google&lt;/li>
+&lt;li>Granite - Oracle&lt;/li>
+&lt;li>GPT - OpenAI&lt;/li>
+&lt;li>Phi - Microsoft Azure&lt;/li>
+&lt;li>Einstein - Salesforce&lt;/li>
+&lt;li>Joule - SAP&lt;/li>
+&lt;li>Grok - X (formerly Twitter)&lt;/li>
+&lt;li>Llama - Meta&lt;/li>
+&lt;li>Qwen - Alibaba&lt;/li>
+&lt;li>Claude - Anthropic&lt;/li>
+&lt;li>Bard - Google&lt;/li>
+&lt;li>PaLM - Google&lt;/li>
+&lt;li>Mistral - Mistral AI&lt;/li>
+&lt;li>Falcon - Technology Innovation Institute (TII), UAE&lt;/li>
+&lt;li>Gato - DeepMind&lt;/li>
+&lt;li>Jasper - Jasper AI&lt;/li>
+&lt;li>Bloom - BigScience (collaborative project)&lt;/li>
+&lt;li>Ernie - Baidu&lt;/li>
+&lt;li>Alpaca - Stanford University (fine-tuned LLaMA model)&lt;/li>
+&lt;li>Stable Diffusion - Stability AI&lt;/li>
+&lt;li>HuggingChat - Hugging Face&lt;/li>
+&lt;li>Cohere of Command&lt;/li>
+&lt;li>Alpha fold of deepmind&lt;/li>
+&lt;/ol>
+&lt;h2 id="models-developed-by-microsoft">Models Developed by Microsoft&lt;a class="td-heading-self-link" href="#models-developed-by-microsoft" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Microsoft has developed or collaborated on several AI models and frameworks, especially as part of its Azure AI ecosystem and its partnership with OpenAI. Below is a list of models and AI systems associated with Microsoft:&lt;/p></description></item><item><title>Exploring AnythingLLM</title><link>https://localhost:1313/dsblog/exploring-anythingllm/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/exploring-anythingllm/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6179-exploring-anythingllm.jpg" alt="Exploring AnythingLLM ">&lt;/p>
+&lt;h1 id="exploring-anythingllm">Exploring AnythingLLM&lt;a class="td-heading-self-link" href="#exploring-anythingllm" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="what-is-anythingllm">What is AnythingLLM?&lt;a class="td-heading-self-link" href="#what-is-anythingllm" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>AnythingLLM is an open-source project developed by Mintplex Labs that offers a highly flexible platform for creating personalized language models and knowledge databases. It operates using Retrieval-Augmented Generation (RAG), which combines language models with data from custom document collections. AnythingLLM supports embedding models (e.g., BERT), language models, and vector databases to index and query data, allowing users to fine-tune or deploy various models tailored to their needs, from local deployments to cloud integrations with OpenAI or Azure OpenAI.&lt;/p></description></item><item><title>Exploring Dense Embedding Models in AI</title><link>https://localhost:1313/dsblog/Exploring-Dense-Embedding-Models-in-AI/</link><pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Exploring-Dense-Embedding-Models-in-AI/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6157-Exploring-Dense-Embedding-Models-in-AI.jpg" alt="Exploring Dense Embedding Models in AI">&lt;/p>
+&lt;h2 id="what-is-dense-embedding-in-ai">What is dense embedding in AI?&lt;a class="td-heading-self-link" href="#what-is-dense-embedding-in-ai" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Dense embeddings are critical in many AI applications, particularly in deep learning, where they help reduce data complexity and enhance the model’s ability to generalize from patterns in data.&lt;/p></description></item><item><title>Introduction to Perplexity AI</title><link>https://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Introduction-to-Perplexity-AI/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6156-Introduction-to-Perplexity-AI.jpg" alt="Introduction to Perplexity AI">&lt;/p>
+&lt;h1 id="introduction-to-perplexity-ai">Introduction to Perplexity AI&lt;a class="td-heading-self-link" href="#introduction-to-perplexity-ai" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="what-is-perplexity-ai">What is Perplexity AI?&lt;a class="td-heading-self-link" href="#what-is-perplexity-ai" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Perplexity AI Founded in 2022 is based in San Francisco, California. Perplexity AI is an AI-powered search engine that uses a large language model to answer questions and provide information. It is a free, open-source search engine that is built on top of the latest advancements in AI and natural language processing. Perplexity AI distinguishes itself as a unique blend of a search engine and an AI chatbot, offering several features that set it apart from traditional search engines like Google and other AI models such as ChatGPT.&lt;/p></description></item><item><title>Exploring Ollama &amp; LM Studio</title><link>https://localhost:1313/dsblog/Exploring-Ollama/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Exploring-Ollama/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6143-Exploring-Ollama.jpg" alt="Exploring Ollama &amp;amp; LM Studio">&lt;/p>
+&lt;h1 id="exploring-ollama--lm-studio">Exploring Ollama &amp;amp; LM Studio&lt;a class="td-heading-self-link" href="#exploring-ollama--lm-studio" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="is-this-article-for-me">Is this article for me?&lt;a class="td-heading-self-link" href="#is-this-article-for-me" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>If you are looking answers to the following questions, then this article is for you:&lt;/p></description></item><item><title>Stanford Alpaca</title><link>https://localhost:1313/dsblog/Stanford-Alpaca/</link><pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Stanford-Alpaca/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6116-Stanford-Alpaca.jpg" alt="Stanford-Alpaca">&lt;/p>
+&lt;h1 id="stanford-alpaca">Stanford Alpaca&lt;a class="td-heading-self-link" href="#stanford-alpaca" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;a href="https://github.com/tatsu-lab/stanford_alpaca">Stanford Alpaca Github Report&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Stanford Alpaca is An &amp;ldquo;Instruction-following&amp;rdquo; LLaMA Model&lt;/li>
+&lt;li>This is the repo aims to build and share an instruction-following LLaMA model. The repo contains:
+&lt;ul>
+&lt;li>The 52K &lt;a href="https://raw.githubusercontent.com/tatsu-lab/stanford_alpaca/main/alpaca_data.json">instruction-following data&lt;/a> used for fine-tuning the model.&lt;/li>
+&lt;li>The code for generating the data.&lt;/li>
+&lt;li>The code for fine-tuning the model.&lt;/li>
+&lt;li>The code for recovering Alpaca-7B weights from our released weight diff.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="overview">Overview&lt;a class="td-heading-self-link" href="#overview" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>The current &amp;ldquo;Alpaca 7B model&amp;rdquo; is fine-tuned from a &amp;ldquo;7B LLaMA&amp;rdquo; model on 52K instruction-following data generated by the techniques in the Self-Instruct paper.&lt;/li>
+&lt;li>Alpaca 7B model behaves similarly to the text-davinci-003 model on the Self-Instruct instruction-following evaluation suite.&lt;/li>
+&lt;li>Alpaca is still under development, and there are many limitations that have to be addressed.&lt;/li>
+&lt;li>Alphaca is not yet fine-tuned to be safe and harmless.&lt;/li>
+&lt;li>Initial release contains the data generation procedure, dataset, and training recipe.&lt;/li>
+&lt;li>Model weights can be released if the creators of LLaMA gives permission.&lt;/li>
+&lt;li>Live demo to help readers better understand the capabilities and limits of Alpaca is available.&lt;/li>
+&lt;li>Based on followin papers:
+&lt;ul>
+&lt;li>LLaMA: Open and Efficient Foundation Language Models. &lt;a href="https://arxiv.org/abs/2302.13971v1">Hugo2023&lt;/a>&lt;/li>
+&lt;li>Self-Instruct: Aligning Language Model with Self Generated Instructions. &lt;a href="https://arxiv.org/abs/2212.10560">Yizhong2022&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Data Release
+&lt;ul>
+&lt;li>alpaca_data.json contains 52K instruction-following data we used for fine-tuning the Alpaca model. This JSON file is a list of dictionaries, each dictionary contains the following fields: Instruction, input, output (text-davinci-003 geneated answer).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="highlevel-activities-of-the-alpaca-project">Highlevel Activities of the Alpaca Project&lt;a class="td-heading-self-link" href="#highlevel-activities-of-the-alpaca-project" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Highlevel Actitivies done by Stanford Alpaca team and Project Output&lt;/p></description></item><item><title>6102#Langchain Summary and Capablities</title><link>https://localhost:1313/dsblog/6102%23Langchain-Summary-and-Capablities/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/6102%23Langchain-Summary-and-Capablities/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6132-6102#Langchain-Summary-and-Capablities.jpg" alt="6102#Langchain-Summary-and-Capablities">&lt;/p>
+&lt;h1 id="6102langchain-summary-and-capablities">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h1 id="6102langchain-summary-and-capablities-1">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h1 id="6102langchain-summary-and-capablities-2">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h1 id="6102langchain-summary-and-capablities-3">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>#6102#Langchain Summary and Capablities&lt;/p>
+&lt;h1 id="langchain-summary-and-capabilities">LangChain Summary and Capabilities&lt;a class="td-heading-self-link" href="#langchain-summary-and-capabilities" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;ul>
+&lt;li>12 chat models&lt;/li>
+&lt;li>100+ document loaders&lt;/li>
+&lt;li>50+ LLM&lt;/li>
+&lt;li>Numerous Retrievers&lt;/li>
+&lt;li>Numerous Embedding Models,&lt;/li>
+&lt;li>Numerous Vector Stores&lt;/li>
+&lt;li>Numerous Tools&lt;/li>
+&lt;/ul></description></item><item><title>6104#Applications of RAG</title><link>https://localhost:1313/dsblog/6104%23Applications-of-RAG/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/6104%23Applications-of-RAG/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6133-6104#Applications-of-RAG.jpg" alt="6104#Applications-of-RAG">&lt;/p>
+&lt;h1 id="6104applications-of-rag">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h1 id="6104applications-of-rag-1">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h1 id="6104applications-of-rag-2">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h1 id="6104applications-of-rag-3">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>#6104#Applications of RAG&lt;/p>
+&lt;h1 id="applications-of-rag">Applications of RAG&lt;a class="td-heading-self-link" href="#applications-of-rag" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>n e-commerce company wants to empower their product-return handlers to have interactive &amp;ldquo;Chats&amp;rdquo; with policy documents to expedite refund decisions. In order to harness the power of longer contexts, they&amp;rsquo;d have to train (not merely fine-tune) models on their exclusive data. This could be very costly and time-consuming affair, even with just 2k context window.&lt;/p></description></item><item><title>Compressing Large Language Model</title><link>https://localhost:1313/dsblog/compressing-llm/</link><pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/compressing-llm/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6099-Compressing-LLM.jpg" alt="Compressing Large Language Model">&lt;/p>
+&lt;h1 id="compressing-large-language-model">Compressing Large Language Model&lt;a class="td-heading-self-link" href="#compressing-large-language-model" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="is-this-article-for-me">Is this article for me?&lt;a class="td-heading-self-link" href="#is-this-article-for-me" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>If you are looking answers to following question then &amp;ldquo;Yes&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>What is LLM compression?&lt;/li>
+&lt;li>Why is LLM compression necessary?&lt;/li>
+&lt;li>What are the different techniques for LLM compression?&lt;/li>
+&lt;li>How does quantization work in LLM compression?&lt;/li>
+&lt;li>What is pruning, and how does it help in compressing LLMs?&lt;/li>
+&lt;li>Can you explain knowledge distillation in the context of LLMs?&lt;/li>
+&lt;li>What is low-rank factorization and its role in LLM compression?&lt;/li>
+&lt;li>How effective are weight sharing techniques in compressing LLMs?&lt;/li>
+&lt;li>What are the trade-offs involved in LLM compression?&lt;/li>
+&lt;li>How does fine-tuning work in the context of compressed LLMs?&lt;/li>
+&lt;li>What are the benefits of fine-tuning in compressed LLMs?&lt;/li>
+&lt;li>What role does hardware play in LLM compression?&lt;/li>
+&lt;li>What are the ethical considerations in LLM compression?&lt;/li>
+&lt;li>What are the future directions in LLM compression?&lt;/li>
+&lt;/ul>
+&lt;h2 id="1-what-is-llm-compression">1. &lt;strong>What is LLM Compression?&lt;/strong>&lt;a class="td-heading-self-link" href="#1-what-is-llm-compression" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>LLM (Large Language Model) compression refers to a set of techniques and methodologies aimed at reducing the size of large language models while maintaining their performance as much as possible. Large language models, such as GPT, BERT, and their variants, often contain hundreds of millions to billions of parameters, making them resource-intensive to deploy and run. The sheer size of these models poses challenges in terms of storage, computation, and real-time inference, especially when deploying on devices with limited hardware resources like mobile phones or edge devices.&lt;/p></description></item><item><title>What is Pinecone</title><link>https://localhost:1313/dsblog/What-is-Pinecone/</link><pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/What-is-Pinecone/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6097-What-is-Pinecone.jpg" alt="What is Pinecone">&lt;/p>
+&lt;h2 id="what-is-pinecone">What is pinecone?&lt;a class="td-heading-self-link" href="#what-is-pinecone" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Pinecone is a managed vector database that provides vector search (or “similarity search”) for developers with a straightforward API and usage-based pricing. It’s free to try. &lt;a href="https://www.pinecone.io/learn/vector-search-basics/">Introduction to Vector Search for Developers&lt;/a>.&lt;/p></description></item><item><title>Important AI Paper List</title><link>https://localhost:1313/dsblog/select-ai-papers/</link><pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/select-ai-papers/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6090-rps-Important-AI-Paper-List.jpg" alt="Important AI Paper List">&lt;/p>
+&lt;h1 id="important-ai-paper-list">Important AI Paper List&lt;a class="td-heading-self-link" href="#important-ai-paper-list" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="introduciton">Introduciton&lt;a class="td-heading-self-link" href="#introduciton" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>In almost all citations it becomes very difficult to read the title of research papers. Why? Because the contributors&amp;rsquo; information is first and most of the time, it is difficult to read the name other than native people. For example, if an Indian find a native name like &amp;ldquo;Vivek Ramaswami, Kartikeyan Karunanidhi&amp;rdquo; it is easy for them to read the name but the same name becomes difficult to read for non-Indian people, and vice-versa. Giving respect to the creator is very important but more than we need to know what have they done. I know from my experience, for almost every researcher, it becomes very difficult to track good AI research papers. For me, it is more difficult because I need to maintain this blog and I want to give references to the work across different webpages. Therefore I am creating a citation key, which includes the Last name of the first researcher + year of presenting that paper. Along with this, I am describing the title of the paper and where it was presented. If you find a particular title interesting for your work you can search that paper on &amp;ldquo;google scholar&amp;rdquo;, Mendeley, sci-hub or other places with which you are familiar and comfortable. Post that you can download and read that paper at your leisure. Hope you find this list of some use for your work.&lt;/p></description></item><item><title>Comprehensive Glossary of LLM, Deep Learning, NLP, and CV Terminology</title><link>https://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg" alt="Comprehensive Glossary of LLM">&lt;/p>
+&lt;h1 id="comprehensive-glossary-of-llm">Comprehensive Glossary of LLM&lt;a class="td-heading-self-link" href="#comprehensive-glossary-of-llm" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug'23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.&lt;/p></description></item><item><title>What is LLM</title><link>https://localhost:1313/dsblog/what-is-llm/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/what-is-llm/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6087-What-is-LLM.jpg" alt="What is LLM">&lt;/p>
+&lt;h1 id="what-is-large-language-model">What is Large Language Model&lt;a class="td-heading-self-link" href="#what-is-large-language-model" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>LLM stands for &lt;strong>Large Language Model&lt;/strong>. It is a type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. This allows LLMs to learn the statistical relationships between words and phrases, and to generate text that is similar to the text that they were trained on.&lt;/p></description></item><item><title>Introduction to Prompt Engineering</title><link>https://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Introduction-to-Prompt-Engineering/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6080-Introduction-to-Prompt-Engineering.jpg" alt="Introduction to Prompt Engineering">&lt;/p>
+&lt;h1 id="introduction-to-prompt-best-engineering">Introduction to Prompt Best Engineering&lt;a class="td-heading-self-link" href="#introduction-to-prompt-best-engineering" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>Prompts can contain questions, instructions, contextual information, examples, and partial input for the model to complete or continue. After the model receives a prompt, depending on the type of model being used, it can generate text, embeddings, code, images, videos, music, and more. Below are &lt;strong>14 examples of good prompts&lt;/strong>.&lt;/p></description></item><item><title>Major LLM Developers Shaping the AI Landscape</title><link>https://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg" alt="Major LLM Developers Shaping the AI Landscape">&lt;/p>
+&lt;h1 id="major-llm-developers-shaping-the-ai-landscape">Major LLM Developers Shaping the AI Landscape&lt;a class="td-heading-self-link" href="#major-llm-developers-shaping-the-ai-landscape" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;strong>From Text to Intelligence: Major LLM Developers Shaping the AI Landscape&lt;/strong>&lt;/p>
+&lt;h2 id="introduction">Introduction:&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>The world of Artificial Intelligence (AI) has experienced an exponential growth, fueled by groundbreaking research and the efforts of innovative developers. Among the key players, Large Language Model (LLM) developers have taken center stage, creating powerful language models that have revolutionized natural language processing and understanding. In this article, we delve into the major LLM developers, their key contributions.&lt;/p></description></item></channel></rss>

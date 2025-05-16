@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Content Creation on Blowfish</title><link>https://localhost:1313/tags/content-creation/</link><description>Recent content in Content Creation on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/content-creation/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating the JavaScript Ecosystem</title><link>https://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</link><pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg" alt="Navigating the JavaScript Ecosystem">&lt;/p>
+&lt;h1 id="navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more">Navigating the JavaScript Ecosystem: npm, Yarn, unpkg, and More&lt;a class="td-heading-self-link" href="#navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>This article is trying to answer following questions.&lt;/p>
+&lt;ol>
+&lt;li>Evoluation of Javascript and Relationship with Java.&lt;/li>
+&lt;li>What are popular javascript libraries?&lt;/li>
+&lt;li>What is Node and Node.js?&lt;/li>
+&lt;li>Key Features of Node.js.&lt;/li>
+&lt;li>How are Node and Node.js Related?&lt;/li>
+&lt;li>What are the Central Repositories of Javascript Packages?&lt;/li>
+&lt;li>What is the difference between npm and npx?&lt;/li>
+&lt;li>What are important npx commands?&lt;/li>
+&lt;li>What is the &amp;rsquo;export&amp;rsquo; keyword in javascript?&lt;/li>
+&lt;li>How to Use the Exported Function?&lt;/li>
+&lt;li>What is the meaning of workspace in Yarn pacakge manager?&lt;/li>
+&lt;li>Key Features of Yarn Workspaces.&lt;/li>
+&lt;li>How to Set Up Yarn Workspaces?&lt;/li>
+&lt;li>Can I use multiple package managers in my Javascript project?&lt;/li>
+&lt;li>What are other Important Languages and their primary purpose?&lt;/li>
+&lt;/ol>
+&lt;h2 id="evoluation-of-javascript-and-relationship-with-java">Evoluation of Javascript and Relationship with Java.&lt;a class="td-heading-self-link" href="#evoluation-of-javascript-and-relationship-with-java" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>There is no relationship between Java and JavaScript.&lt;/p></description></item><item><title>Applications of GenAI</title><link>https://localhost:1313/dsblog/Applications-of-GenAI/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Applications-of-GenAI/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6169-Applications-of-GenAI.jpg" alt="Applications of GenAI">&lt;/p>
+&lt;h1 id="application-of-generative-ai-genai">Application of Generative AI (GenAI)&lt;a class="td-heading-self-link" href="#application-of-generative-ai-genai" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>Generative AI (GenAI) is transforming how we interact with technology by producing human-like text, images, audio, and even code. Leveraging advanced models, especially large language models (LLMs), GenAI offers a wide range of applications across industries and data types. Let&amp;rsquo;s explore some of the key use cases and how different sectors are benefiting from this technology.&lt;/p></description></item></channel></rss>

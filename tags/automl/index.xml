@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AutoML on Blowfish</title><link>https://localhost:1313/tags/automl/</link><description>Recent content in AutoML on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/automl/index.xml" rel="self" type="application/rss+xml"/><item><title>Automated Machine Learning</title><link>https://localhost:1313/dsblog/AutoML-Tools/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/AutoML-Tools/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6150-AutoML-Tools.jpg" alt="What is AutoML">&lt;/p>
+&lt;h1 id="automated-machine-learning">Automated Machine Learning&lt;a class="td-heading-self-link" href="#automated-machine-learning" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="is-this-article-for-me">Is this article for me?&lt;a class="td-heading-self-link" href="#is-this-article-for-me" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This is article is for you, if you know&lt;/p>
+&lt;ul>
+&lt;li>About Machine learning, ML models building&lt;/li>
+&lt;li>That machines are capable of building these models themselves.&lt;/li>
+&lt;/ul>
+&lt;p>But you don&amp;rsquo;t know how it happens and what are different libraries available for this work.&lt;/p></description></item></channel></rss>

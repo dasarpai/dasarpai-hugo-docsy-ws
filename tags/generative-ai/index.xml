@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Generative AI on Blowfish</title><link>https://localhost:1313/tags/generative-ai/</link><description>Recent content in Generative AI on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/generative-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Models and Creators</title><link>https://localhost:1313/dsblog/AI-Models-and-Creators/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/AI-Models-and-Creators/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6187-ai-models-and-creators.jpg" alt="AI Models and Creators">&lt;/p>
+&lt;h1 id="ai-models-and-creators">AI Models and Creators&lt;a class="td-heading-self-link" href="#ai-models-and-creators" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="popular-models-and-their-creator">Popular Models and Their Creator&lt;a class="td-heading-self-link" href="#popular-models-and-their-creator" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>Nova - Amazon&lt;/li>
+&lt;li>Gemini, Gemma - Google&lt;/li>
+&lt;li>Granite - Oracle&lt;/li>
+&lt;li>GPT - OpenAI&lt;/li>
+&lt;li>Phi - Microsoft Azure&lt;/li>
+&lt;li>Einstein - Salesforce&lt;/li>
+&lt;li>Joule - SAP&lt;/li>
+&lt;li>Grok - X (formerly Twitter)&lt;/li>
+&lt;li>Llama - Meta&lt;/li>
+&lt;li>Qwen - Alibaba&lt;/li>
+&lt;li>Claude - Anthropic&lt;/li>
+&lt;li>Bard - Google&lt;/li>
+&lt;li>PaLM - Google&lt;/li>
+&lt;li>Mistral - Mistral AI&lt;/li>
+&lt;li>Falcon - Technology Innovation Institute (TII), UAE&lt;/li>
+&lt;li>Gato - DeepMind&lt;/li>
+&lt;li>Jasper - Jasper AI&lt;/li>
+&lt;li>Bloom - BigScience (collaborative project)&lt;/li>
+&lt;li>Ernie - Baidu&lt;/li>
+&lt;li>Alpaca - Stanford University (fine-tuned LLaMA model)&lt;/li>
+&lt;li>Stable Diffusion - Stability AI&lt;/li>
+&lt;li>HuggingChat - Hugging Face&lt;/li>
+&lt;li>Cohere of Command&lt;/li>
+&lt;li>Alpha fold of deepmind&lt;/li>
+&lt;/ol>
+&lt;h2 id="models-developed-by-microsoft">Models Developed by Microsoft&lt;a class="td-heading-self-link" href="#models-developed-by-microsoft" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Microsoft has developed or collaborated on several AI models and frameworks, especially as part of its Azure AI ecosystem and its partnership with OpenAI. Below is a list of models and AI systems associated with Microsoft:&lt;/p></description></item><item><title>Generative AI for Client and Stakeholder Engagement</title><link>https://localhost:1313/dscourses/GenAI-for-Client-and-Stakeholder-Engagement/</link><pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dscourses/GenAI-for-Client-and-Stakeholder-Engagement/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dscourses/dsc328-GenAI-for-Client-and-Stakeholder-Engagement.jpg" alt="AI Powered Client and Stakeholder Engagement">&lt;/p>
+&lt;h1 id="program-outline-ai-powered-client-and-stakeholder-engagement">Program Outline: AI Powered Client and Stakeholder Engagement&lt;a class="td-heading-self-link" href="#program-outline-ai-powered-client-and-stakeholder-engagement" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="duration">Duration:&lt;a class="td-heading-self-link" href="#duration" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>2 Days&lt;/p>
+&lt;h2 id="course-audience">Course Audience:&lt;a class="td-heading-self-link" href="#course-audience" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Service Delivery Managers, Product Managers, Scrum Masters, NBU Leads/Managers&lt;/p></description></item><item><title>Developing GenAI Solutions with LangChain &amp; LlamaIndex</title><link>https://localhost:1313/dscourses/GenAI-for-Developing-Solutions-with-RAG/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dscourses/GenAI-for-Developing-Solutions-with-RAG/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dscourses/dsc327-GenAI-for-Developing-Solutions-with-RAG.jpg" alt="Developing GenAI Solutions with RAG">&lt;/p>
+&lt;h1 id="program-outline-developing-genai-solutions-with-rag">Program Outline: Developing GenAI Solutions with RAG&lt;a class="td-heading-self-link" href="#program-outline-developing-genai-solutions-with-rag" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="duration">Duration:&lt;a class="td-heading-self-link" href="#duration" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>4 Days&lt;/p>
+&lt;h2 id="course-audience">Course Audience:&lt;a class="td-heading-self-link" href="#course-audience" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Technical Leads, Technical Architects, Service Delivery Managers&lt;/p></description></item><item><title>Generative AI for Sales and Marketing</title><link>https://localhost:1313/dscourses/GenAI-for-Sales-and-Marketing/</link><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dscourses/GenAI-for-Sales-and-Marketing/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dscourses/dsc326-GenAI-for-Sales-and-Marketing.jpg" alt="GenAI for Sales and Marketing">&lt;/p>
+&lt;h1 id="program-outline-generative-ai-for-sales--marketing-team">Program Outline: Generative AI for Sales &amp;amp; Marketing Team&lt;a class="td-heading-self-link" href="#program-outline-generative-ai-for-sales--marketing-team" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="duration">Duration:&lt;a class="td-heading-self-link" href="#duration" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>4 Days&lt;/p>
+&lt;h2 id="course-audience">Course Audience:&lt;a class="td-heading-self-link" href="#course-audience" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Sales &amp;amp; Marketing Leads/Managers&lt;/p>
+&lt;h2 id="target-unit">Target Unit:&lt;a class="td-heading-self-link" href="#target-unit" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Sales and Marketing&lt;/p></description></item><item><title>GenAI for ALL</title><link>https://localhost:1313/dscourses/GenAI-for-ALL/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dscourses/GenAI-for-ALL/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dscourses/dsc323-GenAI-for-ALL.jpg" alt="GenAI for ALL">&lt;/p>
+&lt;h1 id="program-outline-generative-ai-for-all">Program Outline: Generative AI for All&lt;a class="td-heading-self-link" href="#program-outline-generative-ai-for-all" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="duration">Duration:&lt;a class="td-heading-self-link" href="#duration" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>2 Days&lt;/p>
+&lt;h2 id="course-audience">Course Audience:&lt;a class="td-heading-self-link" href="#course-audience" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>QA Leads, Support Leads, Technical Leads, Service Delivery Managers, NBU Leads/Managers&lt;/p></description></item><item><title>Exploring All Dimensions of Application Development</title><link>https://localhost:1313/dsblog/Exploring-All-Dimensions-of-Application-Development/</link><pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Exploring-All-Dimensions-of-Application-Development/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6175-Exploring-All-Dimensions-of-Application-Development.jpg" alt="">&lt;/p>
+&lt;h1 id="exploring-all-dimensions-of-application-development">Exploring All Dimensions of Application Development&lt;a class="td-heading-self-link" href="#exploring-all-dimensions-of-application-development" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>These aspects highlight the diverse areas involved in application development beyond just frontend, backend, or mobile/desktop apps. Each plays a critical role in building, deploying, and maintaining robust, scalable, and user-friendly applications.&lt;/p></description></item><item><title>Exploring LLM Application Development</title><link>https://localhost:1313/dsblog/Exploring-LLM-App-Development/</link><pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Exploring-LLM-App-Development/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6174-Exploring-LLM-App-Development.jpg" alt="Exploring LLM Application Development">&lt;/p>
+&lt;h1 id="exploring-llm-application-development">Exploring LLM Application Development&lt;a class="td-heading-self-link" href="#exploring-llm-application-development" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="what-is-llm-application-development">What is LLM Application Development?&lt;a class="td-heading-self-link" href="#what-is-llm-application-development" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Large Language Model (LLM) application development involves creating applications that leverage pretrained large language models, like GPT (like GPT3.5, GPT4.o), Sonnet, DALLE, SORA, BERT, T5, Gemma, RoBERTa, DINO, Turning-NLG, Phi, Llama, Stable Diffusion, Flang, Einstine, Megatron, StyleGAN, BART, Granite, or others, to perform natural language processing tasks. Unlike classical applications, which operate on explicit programming logic, LLM-based applications rely on trained models to process human language, make predictions, and respond dynamically based on vast amounts of text data.&lt;/p></description></item><item><title>AI Benchmarks Explained</title><link>https://localhost:1313/dsblog/AI-Benchmarks-Explained/</link><pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/AI-Benchmarks-Explained/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6173-AI-Benchmarks-Explained.jpg" alt="AI-Benchmarks-Explained">&lt;/p>
+&lt;h1 id="ai-benchmarks-explained-essential-components-and-leading-llm-evaluation-techniques">AI Benchmarks Explained: Essential Components and Leading LLM Evaluation Techniques&lt;a class="td-heading-self-link" href="#ai-benchmarks-explained-essential-components-and-leading-llm-evaluation-techniques" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="what-is-a-benchmark-in-ai">What is a Benchmark in AI?&lt;a class="td-heading-self-link" href="#what-is-a-benchmark-in-ai" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>A &lt;strong>benchmark&lt;/strong> in AI is like a standard measurement tool that helps researchers and developers assess how well their artificial intelligence models perform. Just like athletes are judged based on their performance against specific standards, AI models are evaluated against predefined tasks and metrics.&lt;/p></description></item><item><title>Transfer Learning Key AI Techniques Explained</title><link>https://localhost:1313/dsblog/Transfer-Learning-Key-AI-Techniques-Explained/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Transfer-Learning-Key-AI-Techniques-Explained/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg" alt="Transfer Learning Key AI Techniques Explained">&lt;/p>
+&lt;h1 id="transfer-learning-key-ai-techniques-explained">Transfer Learning Key AI Techniques Explained&lt;a class="td-heading-self-link" href="#transfer-learning-key-ai-techniques-explained" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>In this article we will understand some important concepts used within machine learning.&lt;/p>
+&lt;ul>
+&lt;li>What is in-context Learning?&lt;/li>
+&lt;li>What is Prompt-Engineering?&lt;/li>
+&lt;li>What is the relationship between Prompt Engineering and In-Context Learning?&lt;/li>
+&lt;li>What is Zero-shot learning?&lt;/li>
+&lt;li>How Zero-shot learning is different from In-context Learning?&lt;/li>
+&lt;li>What is Meta-Learning?&lt;/li>
+&lt;li>What is Few-shot learning?&lt;/li>
+&lt;li>Do we need foundational models for Meta-learning and Few-shot learning?&lt;/li>
+&lt;li>What is transfer learning?&lt;/li>
+&lt;li>How do we do transfer learning from existing model?&lt;/li>
+&lt;li>What is finetuning?&lt;/li>
+&lt;li>Which layers to update, what weight to update during finetuning?&lt;/li>
+&lt;/ul>
+&lt;h2 id="prompt-engineering-in-context-learning-and-zero-shot-learning">Prompt Engineering, In Context Learning and Zero-shot Learning&lt;a class="td-heading-self-link" href="#prompt-engineering-in-context-learning-and-zero-shot-learning" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="what-is-in-context-learning">What is in-context Learning?&lt;a class="td-heading-self-link" href="#what-is-in-context-learning" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>In-Context Learning refers to a model&amp;rsquo;s ability to adapt its responses based on the context provided in the input prompt without updating its parameters or undergoing explicit training. The model uses the examples, instructions, or context given in the input to influence its behavior during inference.&lt;/p></description></item><item><title>Navigating the JavaScript Ecosystem</title><link>https://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</link><pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Navigating-the-JavaScript-Ecosystem/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6170-Navigating-the-JavaScript-Ecosystem.jpg" alt="Navigating the JavaScript Ecosystem">&lt;/p>
+&lt;h1 id="navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more">Navigating the JavaScript Ecosystem: npm, Yarn, unpkg, and More&lt;a class="td-heading-self-link" href="#navigating-the-javascript-ecosystem-npm-yarn-unpkg-and-more" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>This article is trying to answer following questions.&lt;/p>
+&lt;ol>
+&lt;li>Evoluation of Javascript and Relationship with Java.&lt;/li>
+&lt;li>What are popular javascript libraries?&lt;/li>
+&lt;li>What is Node and Node.js?&lt;/li>
+&lt;li>Key Features of Node.js.&lt;/li>
+&lt;li>How are Node and Node.js Related?&lt;/li>
+&lt;li>What are the Central Repositories of Javascript Packages?&lt;/li>
+&lt;li>What is the difference between npm and npx?&lt;/li>
+&lt;li>What are important npx commands?&lt;/li>
+&lt;li>What is the &amp;rsquo;export&amp;rsquo; keyword in javascript?&lt;/li>
+&lt;li>How to Use the Exported Function?&lt;/li>
+&lt;li>What is the meaning of workspace in Yarn pacakge manager?&lt;/li>
+&lt;li>Key Features of Yarn Workspaces.&lt;/li>
+&lt;li>How to Set Up Yarn Workspaces?&lt;/li>
+&lt;li>Can I use multiple package managers in my Javascript project?&lt;/li>
+&lt;li>What are other Important Languages and their primary purpose?&lt;/li>
+&lt;/ol>
+&lt;h2 id="evoluation-of-javascript-and-relationship-with-java">Evoluation of Javascript and Relationship with Java.&lt;a class="td-heading-self-link" href="#evoluation-of-javascript-and-relationship-with-java" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>There is no relationship between Java and JavaScript.&lt;/p></description></item><item><title>Applications of GenAI</title><link>https://localhost:1313/dsblog/Applications-of-GenAI/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Applications-of-GenAI/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6169-Applications-of-GenAI.jpg" alt="Applications of GenAI">&lt;/p>
+&lt;h1 id="application-of-generative-ai-genai">Application of Generative AI (GenAI)&lt;a class="td-heading-self-link" href="#application-of-generative-ai-genai" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>Generative AI (GenAI) is transforming how we interact with technology by producing human-like text, images, audio, and even code. Leveraging advanced models, especially large language models (LLMs), GenAI offers a wide range of applications across industries and data types. Let&amp;rsquo;s explore some of the key use cases and how different sectors are benefiting from this technology.&lt;/p></description></item><item><title>GenAI Capabilities from AWS, Azure and GCP</title><link>https://localhost:1313/dsblog/GenAI-Capabilities-from-AWS+GCP+Azure/</link><pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/GenAI-Capabilities-from-AWS+GCP+Azure/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg" alt="GenAI Capabilities from AWS, Azure, and Google Cloud">&lt;/p>
+&lt;h1 id="the-battle-for-ai-supremacy-genai-capabilities-from-aws-azure-and-google-cloud">The Battle for AI Supremacy: GenAI Capabilities from AWS, Azure, and Google Cloud&lt;a class="td-heading-self-link" href="#the-battle-for-ai-supremacy-genai-capabilities-from-aws-azure-and-google-cloud" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="is-this-article-for-me">Is this Article for me?&lt;a class="td-heading-self-link" href="#is-this-article-for-me" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>If you are looking for answer of following questions then this article is for you, else you can skip this.&lt;/p></description></item><item><title>What is GAN?</title><link>https://localhost:1313/dsblog/What-is-GAN/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/What-is-GAN/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6043-gan.jpg" alt="Partial Dependence Plots">&lt;/p>
+&lt;h1 id="what-is-gan">What is GAN?&lt;a class="td-heading-self-link" href="#what-is-gan" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="what-is-gan-generative-adversarial-network">What is GAN (Generative Adversarial Network)?&lt;a class="td-heading-self-link" href="#what-is-gan-generative-adversarial-network" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Generative adversarial networks (GANs) are besing used to generate images, videos, text, audio and music. GAN is a class of machine-learning models introduced by Ian Goodfellow and his colleagues in 2014. The GANs became popular among researchers quickly because of their property to generate new data with the same statistics as the input training set. It can be applied to images, videos, textual data, tabular data and more, proving useful for semi-supervised, fully supervised, and reinforcement learning.&lt;/p></description></item></channel></rss>

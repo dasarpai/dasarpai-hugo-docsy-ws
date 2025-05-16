@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Projects on Blowfish</title><link>https://localhost:1313/pmbok6/</link><description>Recent content in My Projects on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Wed, 17 Feb 2021 19:06:32 +0000</lastBuildDate><atom:link href="https://localhost:1313/pmbok6/index.xml" rel="self" type="application/rss+xml"/><item><title>Monitoring and Controlling Process Group</title><link>https://localhost:1313/pmbok6/Monitoring-and-Controlling-Process-Group/</link><pubDate>Wed, 17 Feb 2021 19:06:32 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Monitoring-and-Controlling-Process-Group/</guid><description>&lt;h2 id="monitoring-and-controlling-process-group">Monitoring and Controlling Process Group&lt;a class="td-heading-self-link" href="#monitoring-and-controlling-process-group" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Monitoring and Controlling Process Group of PMBOK 6th Edition has following 12 processes.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/monitor-and-control-project-work">Monitor and Control Project Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/perform-integrated-change-control">Perform Integrated Change Control&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/validate-scope">Validate Scope&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/control-scope">Control Scope&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/control-schedule">Control Schedule&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/control-costs">Control Costs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/control-quality">Control Quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/control-resources">Control Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/monitor-communications">Monitor Communications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/monitor-risks">Monitor Risks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/control-procurements">Control Procurements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/monitor-stakeholder-engagement">Monitor Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Executing Process Group</title><link>https://localhost:1313/pmbok6/Executing-Process-Group/</link><pubDate>Wed, 17 Feb 2021 19:02:24 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Executing-Process-Group/</guid><description>&lt;h2 id="executing-process-group">Executing Process Group&lt;a class="td-heading-self-link" href="#executing-process-group" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Executing Process Group has the following 10 processes in PMBOK 6th Edition.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/direct-and-manage-project-work">Direct and Manage Project Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/manage-project-knowledge">Manage Project Knowledge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/manage-quality">Manage Quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/acquire-resources">Acquire Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/develop-team">Develop Team&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/manage-team">Manage Team&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/manage-communications">Manage Communications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/implement-risk-responses">Implement Risk Responses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/conduct-procurements">Conduct Procurements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/manage-stakeholder-engagement">Manage Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Planning Process Group</title><link>https://localhost:1313/pmbok6/Planning-Process-Group/</link><pubDate>Wed, 17 Feb 2021 18:57:47 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Planning-Process-Group/</guid><description>&lt;h2 id="planning-process-group">Planning Process Group&lt;a class="td-heading-self-link" href="#planning-process-group" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Planning Process Group in PMBOK 6 has following 24 processes.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/develop-project-management-plan">Develop Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-scope-management">Plan Scope Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/collect-requirements">Collect Requirements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/define-scope">Define Scope&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/create-wbs">Create WBS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-schedule-management">Plan Schedule Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/define-activities">Define Activities&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/sequence-activities">Sequence Activities&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/estimate-activity-durations">Estimate Activity Durations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/develop-schedule">Develop Schedule&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-cost-management">Plan Cost Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/estimate-costs">Estimate Costs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/determine-budget">Determine Budget&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-quality-management">Plan Quality Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-resource-management">Plan Resource Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/estimate-activity-resources">Estimate Activity Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-communications-management">Plan Communications Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-risk-management">Plan Risk Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/identify-risks">Identify Risks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/perform-qualitative-risk-analysis">Perform Qualitative Risk Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/perform-quantitative-risk-analysis">Perform Quantitative Risk Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-risk-responses">Plan Risk Responses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-procurement-management">Plan Procurement Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-stakeholder-engagement">Plan Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Project Stakeholder Management</title><link>https://localhost:1313/pmbok6/Project-Stakeholder-Management/</link><pubDate>Tue, 16 Feb 2021 18:49:23 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Stakeholder-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/pmbok6//assets/images/pmlogy/Project-Stakeholder-Management.jpg" alt="">&lt;/p>
+&lt;h2 id="project-stakeholder-management">Project Stakeholder Management&lt;a class="td-heading-self-link" href="#project-stakeholder-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Different people, organization, or interest group have their vested interests in the success or failure of a project. They work as a force either against or in favor of the project. Project Stakeholder Management has processes which helps the project manager in identifying these forces on time and manage their expectation, monitor their behavior and interests. Project managers need to timely engage with these stakeholders in the project lifecycle. This knowledge area has 4 processes.&lt;/p></description></item><item><title>Project Risk Management</title><link>https://localhost:1313/pmbok6/Project-Risk-Management/</link><pubDate>Tue, 16 Feb 2021 18:24:01 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Risk-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/Project-Risk-Management.jpg" alt="">&lt;/p>
+&lt;h2 id="project-risk-management">Project Risk Management&lt;a class="td-heading-self-link" href="#project-risk-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project Risk Management knowledge area has the processes required for conducting risk management planning, identification, analysis, response planning, and monitoring and control on a project. This knowledge area has 7 processes.&lt;/p></description></item><item><title>Project Quality Management</title><link>https://localhost:1313/pmbok6/Project-Quality-Management/</link><pubDate>Tue, 16 Feb 2021 18:13:34 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Quality-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/Project-Quality-Management.jpg" alt="">&lt;/p>
+&lt;h2 id="project-quality-management">Project Quality Management&lt;a class="td-heading-self-link" href="#project-quality-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project Quality Management knowledge area has processes and activities of the performing organization that determines quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken. It has processes related to quality planning, quality control, and quality assurance. This knowledge area has 3 processes.&lt;/p></description></item><item><title>Project Schedule Management</title><link>https://localhost:1313/pmbok6/Project-Schedule-Management/</link><pubDate>Tue, 16 Feb 2021 17:51:15 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Schedule-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/pmbok6//assets/images/pmlogy/Project-Schedule-Management.jpg" alt="">&lt;/p>
+&lt;h2 id="project-schedule-management">Project Schedule Management&lt;a class="td-heading-self-link" href="#project-schedule-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project Schedule Management knowledge area has processes that are required for establishing the policies, procedures, and documentation for planning, developing, managing, executing, and controlling the project schedule. This knowledge area has 6 processes.&lt;/p></description></item><item><title>Project Integration Management</title><link>https://localhost:1313/pmbok6/Project-Integration-Management/</link><pubDate>Tue, 16 Feb 2021 16:35:41 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Integration-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/Project-Integration-Management.jpg" alt="">&lt;/p>
+&lt;h2 id="project-integration-management">Project Integration Management&lt;a class="td-heading-self-link" href="#project-integration-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>All the processes and activities needed to &lt;strong>identify, define, combine, unify, and coordinate&lt;/strong> the various processes and project management activities within the Project Management Process Groups are part of this knowledge area. This knowledge area has 7 processes.&lt;/p></description></item><item><title>Decision Making</title><link>https://localhost:1313/pmbok6/Decision-Making/</link><pubDate>Tue, 16 Feb 2021 16:12:11 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Decision-Making/</guid><description>&lt;h2 id="decision-making">Decision Making&lt;a class="td-heading-self-link" href="#decision-making" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Decision-making tool &amp;amp; technique is used for prioritization/ranking of actions/ requirements/ alternatives etc. This tool and technique is used in the following processes of PMBOK6.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/monitor-and-control-project-work">Monitor and Control Project Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/perform-integrated-change-control">Perform Integrated Change Control&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/collect-requirements">Collect Requirements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/define-scope">Define Scope&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/validate-scope">Validate Scope&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/estimate-activity-durations">Estimate Activity Durations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/estimate-costs">Estimate Costs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-quality-management">Plan Quality Management&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/manage-quality">Manage Quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/acquire-resources">Acquire Resources&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-risk-responses">Plan Risk Responses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/plan-stakeholder-engagement">Plan Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/monitor-stakeholder-engagement">Monitor Stakeholder Engagement&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Primarily there are two main techniques of making decision.&lt;/strong>&lt;/p></description></item><item><title>Project Management Information System</title><link>https://localhost:1313/pmbok6/Project-Management-Information-System/</link><pubDate>Tue, 16 Feb 2021 15:58:04 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Management-Information-System/</guid><description>&lt;h2 id="project-management-information-system">Project Management Information System&lt;a class="td-heading-self-link" href="#project-management-information-system" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project Management Information System (PMIS) Tools &amp;amp; Technique can be any software or physical system used to manage the project information. If your project is extremely simple and small duration then your project diary can serve the purpose. But when a project becomes larger, complex, and involves multiple stakeholders, multiple geographies, complex technology, and business requirements then we need to depend upon software tools. Keep in mind we do not include any design, development, IDE tools as PMIS if they are designed only for that purpose. But luckily today’s design and development tools are integrating the project management aspects so that the project team need not duplicate the work of data entry. Broadly they can be grouped into the following categories.&lt;/p></description></item><item><title>Procurement Documentation Updates</title><link>https://localhost:1313/pmbok6/Procurement-Documentation-Updates/</link><pubDate>Tue, 16 Feb 2021 15:37:16 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Procurement-Documentation-Updates/</guid><description>&lt;p>Refer to &lt;a href="https://localhost:1313/pmbok6/procurement-documentation">Procurement Documentation&lt;/a>&lt;/p></description></item><item><title>Procurement Documentation</title><link>https://localhost:1313/pmbok6/Procurement-Documentation/</link><pubDate>Tue, 16 Feb 2021 15:30:37 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Procurement-Documentation/</guid><description>&lt;h2 id="procurement-documentation">Procurement Documentation&lt;a class="td-heading-self-link" href="#procurement-documentation" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>If the project is procuring services or products from other organization then we project team needs to create some documents which help them in knowing the answer of many questions like below, but not limited to these.&lt;/p></description></item><item><title>Agreements</title><link>https://localhost:1313/pmbok6/Agreements/</link><pubDate>Tue, 16 Feb 2021 11:36:21 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Agreements/</guid><description>&lt;h2 id="agreements">Agreements&lt;a class="td-heading-self-link" href="#agreements" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Agreements are input or output in PMBOK processes. An agreement is a document that is signed between two parties. The agreement may be a legal document (where the legal system is involved) or a mutual document (where two parties are involved bypassing the legal system of the land). If the Agreement is legal then legal experts, advocates, and courts are involved in signing a document. For example, some place rent agreements for a building can be mutual agreements between landlord and tenant but at other places, it can be a court registered agreement. Examples of agreements in the project management world can be&lt;/p></description></item><item><title>Work Performance Information</title><link>https://localhost:1313/pmbok6/Work-Performance-Information/</link><pubDate>Tue, 16 Feb 2021 11:17:53 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Work-Performance-Information/</guid><description>&lt;h2 id="work-performance-information">Work Performance Information&lt;a class="td-heading-self-link" href="#work-performance-information" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Work Performance Information is the input and output of the PMBOK processes. When &lt;a href="work-performance-data/">Work Performance Data&lt;/a> is collected in the monitoring and controlling process, it is analyzed in the context of the process, events, situation, etc. After this, we get some insight, we can conclude some meaning from it. We come to know whether it is good for the project, bad for the project, or it can be ignored. Now it is called Work Performance Information. We can make decisions, take action based on this analyzed data. Examples of the work performance information (WPI) are as follows.&lt;/p></description></item><item><title>Work Performance Data</title><link>https://localhost:1313/pmbok6/Work-Performance-Data/</link><pubDate>Tue, 16 Feb 2021 11:05:43 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Work-Performance-Data/</guid><description>&lt;h2 id="work-performance-data">Work Performance Data&lt;a class="td-heading-self-link" href="#work-performance-data" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Work Performance Data is input or output in PMBOK processes. It is a raw observation while the process is being performed. There is no meaning of this data. To bring the meaning you need to bring the entire context and analyze the data in that context. Some examples of this can be as follows.&lt;/p></description></item><item><title>Input-Output List of PMBOK6</title><link>https://localhost:1313/pmbok6/Input-Output-List-of-PMBOK6/</link><pubDate>Mon, 15 Feb 2021 18:33:40 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Input-Output-List-of-PMBOK6/</guid><description>&lt;p>Input-output of a process can be a subsidiary plan, status (like Approved Change Request ), or project document. Below is the list of input-output name and their frequency of use in PMBOK 6th edition. The frequency of a document below shows the number of times that document is used/modified/created across different processes.&lt;/p></description></item><item><title>PMBOK 6 Tools and Techniques</title><link>https://localhost:1313/pmbok6/PMBOK-6-Tools-and-Techniques/</link><pubDate>Mon, 15 Feb 2021 18:16:03 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/PMBOK-6-Tools-and-Techniques/</guid><description>&lt;h2 id="pmbok-6-tools-and-techniques">PMBOK 6 Tools and Techniques&lt;a class="td-heading-self-link" href="#pmbok-6-tools-and-techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>PMBOK 6th Edition refers to the following 65 broad techniques to manage a project. If you detail these 65 tools and techniques then you may easily end with a list of 200+ tools and techniques. For example, if you detail the “Data Analysis” tool and technique then you will have another list of &lt;a href="https://localhost:1313/pmbok6/data-analysis/">27 Tools and Techniques of Data Analysis&lt;/a>.&lt;/p></description></item><item><title>Data Gathering</title><link>https://localhost:1313/pmbok6/Data-Gathering/</link><pubDate>Mon, 15 Feb 2021 17:53:59 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Data-Gathering/</guid><description>&lt;h2 id="data-gathering">Data Gathering&lt;a class="td-heading-self-link" href="#data-gathering" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Data Gathering is a tool and technique used by the project team. Based on the process name and process context it can mean any of the following.&lt;/p></description></item><item><title>Meetings</title><link>https://localhost:1313/pmbok6/Meetings/</link><pubDate>Mon, 15 Feb 2021 17:48:43 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Meetings/</guid><description>&lt;h2 id="meetings">Meetings&lt;a class="td-heading-self-link" href="#meetings" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Meetings with stakeholders help us understand their viewpoint which is critical for making decisions. There are different types of meeting in a project. Whenever PMBOK is referring to Meeting as a tool and technique it may be any of the following meetings.&lt;/p></description></item><item><title>Interpersonal and Team Skills</title><link>https://localhost:1313/pmbok6/Interpersonal-and-Team-Skills/</link><pubDate>Mon, 15 Feb 2021 17:42:11 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Interpersonal-and-Team-Skills/</guid><description>&lt;h2 id="interpersonal-and-team-skills">Interpersonal and Team Skills&lt;a class="td-heading-self-link" href="#interpersonal-and-team-skills" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>“Interpersonal and Team Skills” is one of the most powerful tools and techniques of a project manager. This is used in 20 processes of PMBOK 6th Edition. PMBOK standard expects a project manager to be aware of these techniques and practice them effectively whenever the of these arises in a project life cycle. Interpersonal and Team Skills means following skills.&lt;/p></description></item><item><title>Data Representation</title><link>https://localhost:1313/pmbok6/Data-Representation/</link><pubDate>Mon, 15 Feb 2021 17:33:52 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Data-Representation/</guid><description>&lt;h2 id="data-representation">Data Representation&lt;a class="td-heading-self-link" href="#data-representation" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Data Representation is a tool and technique used in 11 processes (PMBOK6). Based on the process name, context of the process it can mean any of the following techniques.&lt;/p></description></item><item><title>Data Analysis</title><link>https://localhost:1313/pmbok6/Data-Analysis/</link><pubDate>Mon, 15 Feb 2021 17:26:13 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Data-Analysis/</guid><description>&lt;h2 id="data-analysis">Data Analysis&lt;a class="td-heading-self-link" href="#data-analysis" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Data Analysis is a tool and technique used in 32 out of 49 processes (PMBOK 6th Edition). Based no the process name and context in which process is being applied it can mean any of the following or multiple tools simultaneously.&lt;/p></description></item><item><title>Benefits Management Plan</title><link>https://localhost:1313/pmbok6/Benefits-Management-Plan/</link><pubDate>Mon, 15 Feb 2021 17:18:33 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Benefits-Management-Plan/</guid><description>&lt;h2 id="benefits-management-plan">Benefits Management Plan&lt;a class="td-heading-self-link" href="#benefits-management-plan" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project Benefits Management Plan is one of the subsidiary plan. This plan can include the following sections.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Target benefits&lt;/strong> (e.g., the expected tangible and intangible value to be gained by the implementation of the project; financial value is expressed as net present value);&lt;/li>
+&lt;li>&lt;strong>Strategic alignment&lt;/strong> (e.g., how well the project benefits align to the business strategies of the organization);&lt;/li>
+&lt;li>&lt;strong>Timeframe for realizing benefits&lt;/strong> (e.g., benefits by phase, short-term, long-term, and ongoing);&lt;/li>
+&lt;li>&lt;strong>Benefits owner&lt;/strong> (e.g., the accountable person to monitor, record, and report realized benefits throughout the timeframe established in the plan);&lt;/li>
+&lt;li>&lt;strong>Metrics&lt;/strong> (e.g., the measures to be used to show benefits realized, direct measures, and indirect measures);&lt;/li>
+&lt;li>&lt;strong>Assumptions&lt;/strong> (e.g., factors expected to be in place or to be in evidence); and&lt;/li>
+&lt;li>&lt;strong>Risks&lt;/strong> (e.g., risks on the way of realization of benefits).&lt;/li>
+&lt;/ul></description></item><item><title>Business Documents</title><link>https://localhost:1313/pmbok6/Business-Documents/</link><pubDate>Mon, 15 Feb 2021 17:10:44 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Business-Documents/</guid><description>&lt;h2 id="business-documents">Business Documents&lt;a class="td-heading-self-link" href="#business-documents" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Business Document is input at many places in PMBOK processes. Based on the process name or process context (industry, project size, organization procedures) this may refer to one of multiple of the following documents.&lt;/p></description></item><item><title>Project Management Plan Updates</title><link>https://localhost:1313/pmbok6/Project-Management-Plan-Updates/</link><pubDate>Mon, 15 Feb 2021 16:44:39 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Management-Plan-Updates/</guid><description>&lt;p>Refer to &lt;a href="https://localhost:1313/pmbok6/Project-Management-Plan">Project Management Plan&lt;/a>&lt;/p></description></item><item><title>Project Documents Updates</title><link>https://localhost:1313/pmbok6/Project-Documents-Updates/</link><pubDate>Mon, 15 Feb 2021 16:40:28 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Documents-Updates/</guid><description>&lt;p>Refer to &lt;a href="https://localhost:1313/pmbok6/Project-Documents">Project Documents&lt;/a>&lt;/p></description></item><item><title>Organizational Process Assets Updates</title><link>https://localhost:1313/pmbok6/Organizational-Process-Assets-Updates/</link><pubDate>Mon, 15 Feb 2021 16:38:31 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Organizational-Process-Assets-Updates/</guid><description>&lt;p>Refer to &lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/p></description></item><item><title>Change Requests</title><link>https://localhost:1313/pmbok6/Change-Requests/</link><pubDate>Mon, 15 Feb 2021 16:34:11 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Change-Requests/</guid><description>&lt;h2 id="change-requests">Change Requests&lt;a class="td-heading-self-link" href="#change-requests" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project is an instrument of change. Hence during the project lifecycle changes are inevitable. Therefore &lt;strong>Change Request&lt;/strong> in Project Management is an extremely important process in any project.&lt;/p></description></item><item><title>Plan Stakeholder Engagement</title><link>https://localhost:1313/pmbok6/Plan-Stakeholder-Engagement/</link><pubDate>Mon, 15 Feb 2021 09:44:31 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Stakeholder-Engagement/</guid><description>&lt;h2 id="plan-stakeholder-engagement-process-summary">Plan Stakeholder Engagement (Process Summary)&lt;a class="td-heading-self-link" href="#plan-stakeholder-engagement-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org/">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">Inputs&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/agreements">Agreements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-charter">Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">Tools &amp;amp; Techniques&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/decision-making">Decision Making&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">Outputs&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/stakeholder-engagement-plan">Stakeholder Engagement Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Cost-cutting tools</title><link>https://localhost:1313/pmbok6/Cost-cutting-tools/</link><pubDate>Mon, 15 Feb 2021 09:21:57 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Cost-cutting-tools/</guid><description>&lt;h2 id="cost-cutting-tools">Cost-cutting tools&lt;a class="td-heading-self-link" href="#cost-cutting-tools" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Tools that help top management in reducing the cost of running operations of the company with minimal or no negative impact on brand image, product quality, and employee motivation. Three top cost-cutting tools used by the top management are.&lt;/p></description></item><item><title>Variance Analysis</title><link>https://localhost:1313/pmbok6/Variance-Analysis/</link><pubDate>Mon, 15 Feb 2021 09:13:36 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Variance-Analysis/</guid><description>&lt;h2 id="variance-analysis">Variance Analysis&lt;a class="td-heading-self-link" href="#variance-analysis" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Variance analysis is a technique for determining the cause and degree of difference between the baseline and actual performance. Project performance measurement metrics are used to assess the magnitude of variation from the original scope baseline.&lt;/p></description></item><item><title>Tools of Global Executives</title><link>https://localhost:1313/pmbok6/Tools-of-Global-Executives/</link><pubDate>Mon, 15 Feb 2021 07:08:08 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Tools-of-Global-Executives/</guid><description>&lt;h2 id="tools-of-global-executives">Tools of Global Executives&lt;a class="td-heading-self-link" href="#tools-of-global-executives" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This is the interest of any new global executive or would be global executive to know what tools I need to use to perform my job effectively. Below is the list of tools that global executives use mostly.&lt;/p></description></item><item><title>Initiating Process Group</title><link>https://localhost:1313/pmbok6/Initiating-Process-Group/</link><pubDate>Mon, 15 Feb 2021 07:05:43 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Initiating-Process-Group/</guid><description>&lt;h2 id="initiating-process-group">Initiating Process Group&lt;a class="td-heading-self-link" href="#initiating-process-group" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Initiating Process Group is the first process group in the PMBOK. But it does not mean all the activities of the processes of this process group are done only once and that too at the start. Some of the activities under the 2 processes of this process group are done during the project life-cycle. Some of the activities of the processes of this process group which are done even during the project life-cycle are as following.&lt;/p></description></item><item><title>Closing Process Group</title><link>https://localhost:1313/pmbok6/Closing-Process-Group/</link><pubDate>Mon, 15 Feb 2021 07:01:57 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Closing-Process-Group/</guid><description>&lt;h2 id="closing-process-group">Closing Process Group&lt;a class="td-heading-self-link" href="#closing-process-group" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Closing Process Group is the last process group in the PMBOK. But it does not mean all the activities of the processes of this process group are done last. Many of the activities under the only one process of this process group are done during the project life-cycle. Some of the activities of the processes of this process group which are done during the project life-cycle are as following.&lt;/p></description></item><item><title>Project Charter</title><link>https://localhost:1313/pmbok6/Project-Charter/</link><pubDate>Mon, 15 Feb 2021 06:56:38 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Charter/</guid><description>&lt;p>&lt;img src="https://localhost:1313/pmbok6//assets/images/pmlogy/PMBOK-Process-DPC.png" alt="">&lt;/p>
+&lt;h2 id="project-charter">Project Charter&lt;a class="td-heading-self-link" href="#project-charter" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>The project charter document is prepared and signed by the project sponsor. Due to any reason if a project sponsor is not handing over this document to the project manager at the start of the project then the first thing a project manager does is make this document with all the information available with him and get this document signed by Project Sponsor.&lt;/p></description></item><item><title>Analytical Techniques</title><link>https://localhost:1313/pmbok6/Analytical-Techniques/</link><pubDate>Mon, 15 Feb 2021 06:50:06 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Analytical-Techniques/</guid><description>&lt;h2 id="analytical-techniques">Analytical Techniques&lt;a class="td-heading-self-link" href="#analytical-techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Due to environmental factors, a project execution may vary from the plan. It is the project manager’s responsibility to identify the amount of variance in comparison to the original plan, determine the root cause, and forecast potential outcomes considering the amount of variance and environmental variables. This work is called “Analytical Techniques”. In PMBOK this is defined as tool and technique. Below is a list of examples of Analytical Techniques.&lt;/p></description></item><item><title>Project Cost Management</title><link>https://localhost:1313/pmbok6/Project-Cost-Management/</link><pubDate>Mon, 15 Feb 2021 06:37:30 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Cost-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/pmbok6//assets/images/pmlogy/Project-Cost-Management-min.jpg" alt="">&lt;/p>
+&lt;h2 id="project-cost-management">Project Cost Management&lt;a class="td-heading-self-link" href="#project-cost-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>A project is not like typical operations which earn money for the organization, during the life of a project. Projects are funded by a sponsor based on the benefits which he perceives. A project exists to create a unique product, service, or results. This output of the project is useful only after the project is complete and the project output (product, service, or result) is handed over to the user. In a long-term project getting needed funding throughout the project lifecycle (PLC) is extremely important for project success. Therefore it necessary for a project manager to understand&lt;/p></description></item><item><title>Project Documents</title><link>https://localhost:1313/pmbok6/Project-Documents/</link><pubDate>Mon, 15 Feb 2021 06:31:07 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Documents/</guid><description>&lt;h2 id="project-documents">Project Documents&lt;a class="td-heading-self-link" href="#project-documents" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>There are many types of project documents and there are different industry-specific names for those. But to avoid confusion and standardize the naming of those document PMBOK has come of with this generic list of project documents. Content of these documents may vary from one organization to another, or one industry to another but purpose does not change.&lt;/p></description></item><item><title>Project Procurement Management</title><link>https://localhost:1313/pmbok6/Project-Procurement-Management/</link><pubDate>Mon, 15 Feb 2021 06:26:44 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Procurement-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmblog/1037-pmbok-general.jpg" alt="">&lt;/p>
+&lt;h2 id="project-procurement-management">Project Procurement Management&lt;a class="td-heading-self-link" href="#project-procurement-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>A project is a catalyst for change. If an organization cannot manage that change independently then they outsource the work to somebody who is more competent or who is the sole supplier of product or services. Sometimes a project can be managed by the organization independently but not by the project manager. He has a dependency on many other departments and his project team cannot complete the project work on his own. This is the place where understanding project procurements become critical. A procurement may be purchasing a testing service, hiring some consultant from a service organization, purchasing some raw material, purchase some machine or equipment, getting some technical training, get help in instructional design work from an expert organization, travel planning, food catering services, security services, etc.&lt;/p></description></item><item><title>Enterprise Environmental Factors</title><link>https://localhost:1313/pmbok6/Enterprise-Environmental-Factors/</link><pubDate>Mon, 15 Feb 2021 04:28:04 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Enterprise-Environmental-Factors/</guid><description>&lt;h2 id="enterprise-environmental-factors">Enterprise Environmental Factors&lt;a class="td-heading-self-link" href="#enterprise-environmental-factors" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Enterprise Environmental Factors (EEF) are constraints imposed by the project’s environment on the project. The project environment may be related to vendors, customers any other partners, or a project management company. Constraints imposed restricts the options to be exercised by the project team to make decisions or do the project work in a specific way. It may negatively or positively influence a project. A project manager must thoroughly constraints all the consider and plan accordingly because in project management “ignorance is not bliss”. Ignoring or not being aware of some constraints can lead to a big loss/chaos/conflit to the project. Some examples of Enterprise Environmental Factors are as below.&lt;/p></description></item><item><title>Project Resource Management</title><link>https://localhost:1313/pmbok6/Project-Resource-Management/</link><pubDate>Mon, 15 Feb 2021 04:24:51 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Resource-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/pmbok6//assets/images/pmblog/1037-pmbok-general.jpg" alt="">&lt;/p>
+&lt;h2 id="project-resource-management">Project Resource Management&lt;a class="td-heading-self-link" href="#project-resource-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>&lt;a>&lt;img src="https://localhost:1313/pmbok6/" alt="">&lt;/a>&lt;/p>
+&lt;p>PMBOK 6 Changes the name of the knowledge area from “Project Human Resource Management” (PMBOK 5) to “Project Resource Management”. Therefore the scope of this knowledge area extends from Human resources to other resources like material, machines, etc. This knowledge also takes care of the process required to plan, acquire. and control the resources that are not human resources.&lt;/p></description></item><item><title>Project Management Plan</title><link>https://localhost:1313/pmbok6/Project-Management-Plan/</link><pubDate>Mon, 15 Feb 2021 03:26:05 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Management-Plan/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/PMBOK-Process-DPMP.png" alt="">&lt;/p>
+&lt;h2 id="project-management-plan">Project Management Plan&lt;a class="td-heading-self-link" href="#project-management-plan" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h2 id="template-project-management-plan-detail">Template Project Management Plan Detail&lt;a class="td-heading-self-link" href="#template-project-management-plan-detail" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project Management Plan may not be a physically single document but a collection of many documents. This consolidation is done in &lt;a href="https://localhost:1313/pmbok6/Develop-Project-Management-Plan">Develop Project Management Plan&lt;/a> process. A Project Management Plan should include the following items.&lt;/p></description></item><item><title>Expert Judgement</title><link>https://localhost:1313/pmbok6/expert-judgement/</link><pubDate>Mon, 15 Feb 2021 03:09:21 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/expert-judgement/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/PMBOK-TT-Expert-Judgement-min.png" alt="">&lt;/p>
+&lt;h2 id="expert-judgement">Expert Judgement&lt;a class="td-heading-self-link" href="#expert-judgement" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>PMBOK is an industry-agnostic project management standard. PMBOK 6th Edition defines 49 processes to manage a project. Every process has defined input, output, &lt;a href="https://localhost:1313/pmbok6/pmbok-tools-techniques">tools &amp;amp; techniques&lt;/a>. But we know that the tools and techniques required to manage a project also depend upon the industry for which we are doing a project. To do the industry-specific work PMI has come up with a beautiful concept called “Expert Judgement”. This term is heavily used in the PMBOK in fact 28 processes out of 47, i.e. 60% of the processes use this term as a tool and technique. But the meaning and purpose of this change from process to process and industry to industry. Broadly expert judgement can be bucketed into the following groups.&lt;/p></description></item><item><title>Organizational Process Assets</title><link>https://localhost:1313/pmbok6/Organizational-Process-Assets/</link><pubDate>Mon, 15 Feb 2021 02:43:33 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Organizational-Process-Assets/</guid><description>&lt;h2 id="organizational-process-assets">Organizational Process Assets&lt;a class="td-heading-self-link" href="#organizational-process-assets" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>We need to learn from our experiences in the project and others’ experiences within the team and the organization. Otherwise, in today’s cutting edge technology we cannot effort to build everything from the scratch. Organization Process Assets (OPA) is the collection of all the learning at the organization level. Beyond the project, the organizational learning (knowledge) is managed centrally so that future projects can take advantage of the past work of the organization. Some departments should be custodians of these assets. These assets are created, refined, preserved, protected, shared, made available to authorized people by the people of this department. Mainly OPA is categorized into 3 groups.&lt;/p></description></item><item><title>Manage Stakeholder Engagement</title><link>https://localhost:1313/pmbok6/Manage-Stakeholder-Engagement/</link><pubDate>Sun, 14 Feb 2021 18:21:32 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Manage-Stakeholder-Engagement/</guid><description>&lt;h2 id="manage-stakeholder-engagement-process-summary">Manage Stakeholder Engagement (Process Summary)&lt;a class="td-heading-self-link" href="#manage-stakeholder-engagement-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org/">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-skills">Communication Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/ground-rules">Ground Rules&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Plan Risk Responses</title><link>https://localhost:1313/pmbok6/Plan-Risk-Responses/</link><pubDate>Sun, 14 Feb 2021 18:07:06 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Risk-Responses/</guid><description>&lt;h2 id="plan-risk-responses-process-summary">Plan Risk Responses (Process Summary)&lt;a class="td-heading-self-link" href="#plan-risk-responses-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/contingent-response-strategies">Contingent Response Strategies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/decision-making">Decision Making&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/strategies-for-opportunities">Strategies For Opportunities&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/strategies-for-overall-project-risk">Strategies For Overall Project Risk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/strategies-for-threats">Strategies For Threats&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Develop Project Management Plan</title><link>https://localhost:1313/pmbok6/Develop-Project-Management-Plan/</link><pubDate>Sun, 14 Feb 2021 17:54:54 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Develop-Project-Management-Plan/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/PMBOK-Process-DPMP.png" alt="">&lt;/p>
+&lt;h2 id="develop-project-management-plan">Develop Project Management Plan&lt;a class="td-heading-self-link" href="#develop-project-management-plan" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>The process of defining, preparing, and coordinating all subsidiary plans and integrating them into a comprehensive project management plan.&lt;/p>
+&lt;p>A project Management Plan includes&lt;/p></description></item><item><title>Develop Project Charter</title><link>https://localhost:1313/pmbok6/Develop-Project-Charter/</link><pubDate>Sun, 14 Feb 2021 17:51:20 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Develop-Project-Charter/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/PMBOK-Process-DPC.png" alt="">&lt;/p>
+&lt;h2 id="develop-project-charter">Develop Project Charter&lt;a class="td-heading-self-link" href="#develop-project-charter" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Develop Project Charter process is performed by the &lt;a href="https://localhost:1313/pmbok6/project-sponsor">project sponsor&lt;/a>. This process is the first process to kick start any project. The primary output of this process is Project Charter. Through this document, the &lt;a href="https://localhost:1313/pmbok6/project-sponsor">project sponsor&lt;/a> formally authorizes a project manager to apply organizational resources for the success of the project or project phase, whatever is the scope of the project charter. If the project charter is missing then the project manager does not have a mandate to use organization resources, neither s/he knows where s/he should go in the case of trouble or where should s/he go to get the money.&lt;/p></description></item><item><title>Control Resources</title><link>https://localhost:1313/pmbok6/Control-Resources/</link><pubDate>Sun, 14 Feb 2021 17:40:33 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Control-Resources/</guid><description>&lt;h2 id="control-resources-process-summary">Control Resources (Process Summary)&lt;a class="td-heading-self-link" href="#control-resources-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/agreements">Agreements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-data">Work Performance Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/problem-solving">Problem Solving&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-information-system">Project Management Information System&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-information">Work Performance Information&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Perform Integrated Change Control</title><link>https://localhost:1313/pmbok6/Perform-Integrated-Change-Control/</link><pubDate>Sun, 14 Feb 2021 17:28:44 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Perform-Integrated-Change-Control/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/PICC.jpg" alt="">&lt;/p>
+&lt;h2 id="perform-integrated-change-control">Perform Integrated Change Control&lt;a class="td-heading-self-link" href="#perform-integrated-change-control" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>A project exists to address the change. Project Management is influenced heavily by change management. It is almost impossible to complete a project successfully without taking a change request. But if you do not control the changes in a systematic way, then you will never to able to complete the project successfully. So at the heart of project management lies an art and science of managing and negotiating changes. PMBOK centralizes all the change requests through this process. Make as simple or as complicated your change request process as is the need of the project but there is only one channel through which any change can be handled and that is this process called “Perform Integrated Change Control’. Define your change management processes clearly, communicate and educate all the stakeholders and especially the project team that how we handle changes to the approved work.&lt;/p></description></item><item><title>Implement Risk Responses</title><link>https://localhost:1313/pmbok6/Implement-Risk-Responses/</link><pubDate>Sun, 14 Feb 2021 17:13:17 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Implement-Risk-Responses/</guid><description>&lt;h2 id="implement-risk-responses-process-summary">Implement Risk Responses (Process Summary)&lt;a class="td-heading-self-link" href="#implement-risk-responses-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-information-system">Project Management Information System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Acquire Resources</title><link>https://localhost:1313/pmbok6/Acquire-Resources/</link><pubDate>Sun, 14 Feb 2021 17:10:22 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Acquire-Resources/</guid><description>&lt;h2 id="acquire-resources-process-summary">Acquire Resources (Process Summary)&lt;a class="td-heading-self-link" href="#acquire-resources-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/decision-making">Decision Making&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/pre-assignment">Pre-Assignment&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/virtual-teams">Virtual Teams&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors-updates">Enterprise Environmental Factors Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets-updates">Organizational Process Assets Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/physical-resource-assignments">Physical Resource Assignments&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-team-assignments">Project Team Assignments&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/resource-calendars">Resource Calendars&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Manage Project Knowledge</title><link>https://localhost:1313/pmbok6/Manage-Project-Knowledge/</link><pubDate>Sun, 14 Feb 2021 17:08:15 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Manage-Project-Knowledge/</guid><description>&lt;h2 id="manage-project-knowledge">Manage Project Knowledge&lt;a class="td-heading-self-link" href="#manage-project-knowledge" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>We know the OPA (Organizational Process Assets) of the organizations contains precious knowledge but the problem is how to use that knowledge that is lying on some servers? &lt;strong>Manage Project Knowledge&lt;/strong> process enables that knowledge so that it is easily able to the project team. You may have noticed that somebody creates some document/ template/ guide with a great effort hoping that other people will be able to use it or I will reuse this in the future, but when we/our team need that document we spend more time in searching than it took to create! Either we want to access the knowledge created by others in the organization or we want to access our own knowledge base we need a system where it is easy to engage with the content provider, creator. It should be accessible in human natural language rather than depending upon exact metadata keywords.&lt;/p></description></item><item><title>Plan Resource Management</title><link>https://localhost:1313/pmbok6/Plan-Resource-Management/</link><pubDate>Sun, 14 Feb 2021 16:58:23 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Resource-Management/</guid><description>&lt;h2 id="plan-resource-management-process-summary">Plan Resource Management (Process Summary)&lt;a class="td-heading-self-link" href="#plan-resource-management-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-charter">Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-theory">Organizational Theory&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/resource-management-plan">Resource Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/team-charter">Team Charter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Control Quality</title><link>https://localhost:1313/pmbok6/Control-Quality/</link><pubDate>Sun, 14 Feb 2021 16:56:25 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Control-Quality/</guid><description>&lt;h2 id="quality-control-process-summary">Quality Control (Process Summary)&lt;a class="td-heading-self-link" href="#quality-control-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/approved-change-requests">Approved Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/deliverables">Deliverables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-data">Work Performance Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/inspection">Inspection&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/testing/product-evaluations">Testing/Product Evaluations&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/quality-control-measurements">Quality Control Measurements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/verified-deliverables">Verified Deliverables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-information">Work Performance Information&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Identify Stakeholders</title><link>https://localhost:1313/pmbok6/Identify-Stakeholders/</link><pubDate>Sun, 14 Feb 2021 16:51:54 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Identify-Stakeholders/</guid><description>&lt;h2 id="identify-stakeholders-process-summary">Identify Stakeholders (Process Summary)&lt;a class="td-heading-self-link" href="#identify-stakeholders-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org/">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/agreements">Agreements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/business-documents">Business Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-charter">Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/stakeholder-register">Stakeholder Register&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Conduct Procurements</title><link>https://localhost:1313/pmbok6/Conduct-Procurements/</link><pubDate>Sun, 14 Feb 2021 16:49:26 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Conduct-Procurements/</guid><description>&lt;h2 id="conduct-procurements-process-summary">Conduct Procurements (Process Summary)&lt;a class="td-heading-self-link" href="#conduct-procurements-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/procurement-documentation">Procurement Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/seller-proposals">Seller Proposals&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/advertising">Advertising&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/bidder-conferences">Bidder Conferences&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/agreements">Agreements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets-updates">Organizational Process Assets Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/selected-sellers">Selected Sellers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://localhost:1313/pmbok6/process-groups-and-processes-in-pmbok6/">&lt;strong>PMBOK 6th Edition Process Summary Table&lt;/strong>&lt;/a>&lt;/p></description></item><item><title>Control Procurements</title><link>https://localhost:1313/pmbok6/Control-Procurements/</link><pubDate>Sun, 14 Feb 2021 16:47:39 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Control-Procurements/</guid><description>&lt;h2 id="control-procurements-process-summary">Control Procurements (Process Summary)&lt;a class="td-heading-self-link" href="#control-procurements-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/agreements">Agreements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/approved-change-requests">Approved Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/procurement-documentation">Procurement Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-data">Work Performance Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/audits">Audits&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/claims-administration">Claims Administration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/inspection">Inspection&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/closed-procurements">Closed Procurements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets-updates">Organizational Process Assets Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/procurement-documentation-updates">Procurement Documentation Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-information">Work Performance Information&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Plan Procurement Management</title><link>https://localhost:1313/pmbok6/Plan-Procurement-Management/</link><pubDate>Sun, 14 Feb 2021 16:45:11 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Procurement-Management/</guid><description>&lt;h2 id="plan-procurement-management-process-summary">Plan Procurement Management (Process Summary)&lt;a class="td-heading-self-link" href="#plan-procurement-management-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/business-documents">Business Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-charter">Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/source-selection-analysis">Source Selection Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/bid-documents">Bid Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/independent-cost-estimates">Independent Cost Estimates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/make-or-buy-decisions">Make-Or-Buy Decisions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets-updates">Organizational Process Assets Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/procurement-management-plan">Procurement Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/procurement-statement-of-work">Procurement Statement Of Work&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/procurement-strategy">Procurement Strategy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/source-selection-criteria">Source Selection Criteria&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Monitor Risks</title><link>https://localhost:1313/pmbok6/Monitor-Risks/</link><pubDate>Sun, 14 Feb 2021 16:30:11 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Monitor-Risks/</guid><description>&lt;h2 id="monitor-risks-process-summary">Monitor Risks (Process Summary)&lt;a class="td-heading-self-link" href="#monitor-risks-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-data">Work Performance Data&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-reports">Work Performance Reports&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/audits">Audits&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets-updates">Organizational Process Assets Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-information">Work Performance Information&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Perform Quantitative Risk Analysis</title><link>https://localhost:1313/pmbok6/Perform-Quantitative-Risk-Analysis/</link><pubDate>Sun, 14 Feb 2021 16:26:28 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Perform-Quantitative-Risk-Analysis/</guid><description>&lt;h2 id="perform-quantitative-risk-analysis-process-summary">Perform Quantitative Risk Analysis (Process Summary)&lt;a class="td-heading-self-link" href="#perform-quantitative-risk-analysis-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/representations-of-uncertainty">Representations Of Uncertainty&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Perform Qualitative Risk Analysis</title><link>https://localhost:1313/pmbok6/Perform-Qualitative-Risk-Analysis/</link><pubDate>Sun, 14 Feb 2021 16:24:38 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Perform-Qualitative-Risk-Analysis/</guid><description>&lt;h2 id="perform-qualitative-risk-analysis-process-summary">Perform Qualitative Risk Analysis (Process Summary)&lt;a class="td-heading-self-link" href="#perform-qualitative-risk-analysis-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/risk-categorization">Risk Categorization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Identify Risks</title><link>https://localhost:1313/pmbok6/Identify-Risks/</link><pubDate>Sun, 14 Feb 2021 16:22:37 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Identify-Risks/</guid><description>&lt;h2 id="identify-risks-process-summary">Identify Risks (Process Summary)&lt;a class="td-heading-self-link" href="#identify-risks-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/agreements">Agreements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/procurement-documentation">Procurement Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/prompt-lists">Prompt Lists&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/risk-register">Risk Register&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/risk-report">Risk Report&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Plan Risk Management</title><link>https://localhost:1313/pmbok6/Plan-Risk-Management/</link><pubDate>Sun, 14 Feb 2021 16:20:30 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Risk-Management/</guid><description>&lt;h2 id="plan-risk-management-process-summary">Plan Risk Management (Process Summary)&lt;a class="td-heading-self-link" href="#plan-risk-management-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-charter">Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/risk-management-plan">Risk Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Monitor Communications</title><link>https://localhost:1313/pmbok6/Monitor-Communications/</link><pubDate>Sun, 14 Feb 2021 16:18:30 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Monitor-Communications/</guid><description>&lt;h2 id="monitor-communications-process-summary">Monitor Communications (Process Summary)&lt;a class="td-heading-self-link" href="#monitor-communications-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-data">Work Performance Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-information-system">Project Management Information System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-information">Work Performance Information&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Manage Communications</title><link>https://localhost:1313/pmbok6/Manage-Communications/</link><pubDate>Sun, 14 Feb 2021 16:16:31 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Manage-Communications/</guid><description>&lt;h2 id="manage-communications-process-summary">Manage Communications (Process Summary)&lt;a class="td-heading-self-link" href="#manage-communications-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-reports">Work Performance Reports&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-methods">Communication Methods&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-skills">Communication Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-technology">Communication Technology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-information-system">Project Management Information System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-reporting">Project Reporting&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets-updates">Organizational Process Assets Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-communications">Project Communications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Manage Quality</title><link>https://localhost:1313/pmbok6/Manage-Quality/</link><pubDate>Sun, 14 Feb 2021 16:13:47 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Manage-Quality/</guid><description>&lt;h2 id="manage-quality-process-summary">Manage Quality (Process Summary)&lt;a class="td-heading-self-link" href="#manage-quality-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/audits">Audits&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/decision-making">Decision Making&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/design-for-x">Design For X&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/problem-solving">Problem Solving&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/quality-improvement-methods">Quality Improvement Methods&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/quality-reports">Quality Reports&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/test-and-evaluation-documents">Test And Evaluation Documents&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Control Costs</title><link>https://localhost:1313/pmbok6/Control-Costs/</link><pubDate>Sun, 14 Feb 2021 16:10:13 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Control-Costs/</guid><description>&lt;h2 id="control-cost-process-summary">Control Cost (Process Summary)&lt;a class="td-heading-self-link" href="#control-cost-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-funding-requirements">Project Funding Requirements&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-data">Work Performance Data&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-information-system">Project Management Information System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/to-complete-performance-index">To-Complete Performance Index&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/cost-forecasts">Cost Forecasts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-information">Work Performance Information&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Determine Budget</title><link>https://localhost:1313/pmbok6/Determine-Budget/</link><pubDate>Sun, 14 Feb 2021 16:07:18 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Determine-Budget/</guid><description>&lt;h2 id="determine-budget">Determine Budget&lt;a class="td-heading-self-link" href="#determine-budget" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This the process we roll-up the activity cost estimates to milestone level. At this stage, we know how much money is required to achieve which milestone, in the project lifecycle when that money will be required? How the money will be realized (the source)? Budget negotiation for funding requirements against funding available happens in the process. After all the negotiations are done successfully project cost is baselines in this process. After the cost/budget has been negotiated, approved and baseline it cannot be changed without approval from the change control board (CCD).&lt;/p></description></item><item><title>Estimate Costs</title><link>https://localhost:1313/pmbok6/Estimate-Costs/</link><pubDate>Sun, 14 Feb 2021 15:58:39 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Estimate-Costs/</guid><description>&lt;h2 id="estimate-costs">Estimate Costs&lt;a class="td-heading-self-link" href="#estimate-costs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This is the second process of the cost management knowledge area. The process of developing an approximation of the monetary resources needed to complete the project activities. Following activities should be done as a part of this process.&lt;/p></description></item><item><title>Plan Cost Management</title><link>https://localhost:1313/pmbok6/Plan-Cost-Management/</link><pubDate>Sun, 14 Feb 2021 15:54:35 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Cost-Management/</guid><description>&lt;h2 id="plan-cost-management">Plan Cost Management&lt;a class="td-heading-self-link" href="#plan-cost-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Plan cost management is the first process of the cost management knowledge area. This process documents the answer to the following questions.&lt;/p>
+&lt;ul>
+&lt;li>How the estimation of the planned activities will be performed?&lt;/li>
+&lt;li>How the budget will be prepared?&lt;/li>
+&lt;li>What are the different types of costs that should be part of the cost baseline?&lt;/li>
+&lt;li>What will be the cost tolerance?&lt;/li>
+&lt;li>How to determine the budget to manage risks?&lt;/li>
+&lt;li>The scope of cost estimation, should we estimate the cost of the entire project or of a part of the project?&lt;/li>
+&lt;li>What are tools, techniques, templates, reference estimation sources required for estimation?&lt;/li>
+&lt;li>What are the metrics to report the cost performance of the project?&lt;/li>
+&lt;li>How to monitor &amp;amp; control the cost (process, system, tools, people, training, etc)?&lt;/li>
+&lt;li>Accounting code allocated by finance department for billing to customer or to make payments to vendor partners.&lt;/li>
+&lt;/ul>
+&lt;h2 id="plan-cost-management-process-summary">Plan Cost Management (Process Summary)&lt;a class="td-heading-self-link" href="#plan-cost-management-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p></description></item><item><title>Control Schedule</title><link>https://localhost:1313/pmbok6/Control-Schedule/</link><pubDate>Sun, 14 Feb 2021 15:51:16 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Control-Schedule/</guid><description>&lt;h2 id="control-schedule">Control Schedule&lt;a class="td-heading-self-link" href="#control-schedule" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Once the deliverables and schedule have been promised to the stakeholders. The project team should be committed to complete the planned activities as per the schedule. Monitor the actual time taken to complete the activities, measure the schedule variation if any, compare the variation against the allowed limit, analyze the reasons for variation. Prepare a detailed corrective action plan so that whatever possible time can be recovered. Prepare a detailed preventive action plan so that in the future you can avoid certain activities that cause delays. If there is a variation that is causing an overall delay in the deliverables or milestones or phase, then forecast the schedule which is doable.&lt;/p></description></item><item><title>Develop Schedule</title><link>https://localhost:1313/pmbok6/Develop-Schedule/</link><pubDate>Sun, 14 Feb 2021 15:46:57 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Develop-Schedule/</guid><description>&lt;h2 id="develop-schedule">Develop Schedule&lt;a class="td-heading-self-link" href="#develop-schedule" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Develop Schedule is the last planning process of time management knowledge area. So it is the final stage of schedule development. The only purpose of this process is to make a project schedule that is doable and acceptable to all the relevant stakeholders. Thus schedule baseline is the output of this process.&lt;br>
+But you will notice that by this time in earlier 5 processes of time management namely Plan Schedule Management, Define Activities, Sequence Activities, Estimate Activity Resources, Estimate Activity Duration we have not done anything to optimize the overall project schedule. In today’s business environment time is the most critical and scarce resource so we should perform certain activities using some scheduling tools to analyze the robustness of the schedule, to optimize the resource, to optimize the cost, and to optimize the time.&lt;/p></description></item><item><title>Plan Scope Management</title><link>https://localhost:1313/pmbok6/Plan-Scope-Management/</link><pubDate>Sun, 14 Feb 2021 15:45:04 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Scope-Management/</guid><description>&lt;h2 id="plan-scope-management">Plan Scope Management&lt;a class="td-heading-self-link" href="#plan-scope-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Plan scope management is the first process of the Scope Management Knowledge Area. In this process, you need to prepare a plan which will help you managing scope and requirements. The output of this process are &lt;a href="https://localhost:1313/pmbok6/scope-management-plan">scope management plan&lt;/a> &amp;amp; &lt;a href="https://localhost:1313/pmbok6/requirement-management-plan">requirement management plan&lt;/a>. &lt;a href="https://localhost:1313/pmbok6/Scope-management-plan">Scope management plan&lt;/a> describes how, who, when, tool, metrics of scope planning, and scope control. &lt;a href="https://localhost:1313/pmbok6/Requirement-management-plan">Requirement management plan&lt;/a> describes how, who, when, tool, metrics of requirement management, and tracking requirements throughout project life-cycle.&lt;/p></description></item><item><title>Plan Quality Management</title><link>https://localhost:1313/pmbok6/Plan-Quality-Management/</link><pubDate>Sun, 14 Feb 2021 15:42:09 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Quality-Management/</guid><description>&lt;h2 id="plan-quality-management-process-summary">Plan Quality Management (Process Summary)&lt;a class="td-heading-self-link" href="#plan-quality-management-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-charter">Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-analysis">Data Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-gathering">Data Gathering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/decision-making">Decision Making&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/test-and-inspection-planning">Test And Inspection Planning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/quality-management-plan">Quality Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/quality-metrics">Quality Metrics&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Estimate Activity Durations</title><link>https://localhost:1313/pmbok6/Estimate-Activity-Durations/</link><pubDate>Sun, 14 Feb 2021 15:39:35 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Estimate-Activity-Durations/</guid><description>&lt;h2 id="estimate-activity-durations">Estimate Activity Durations&lt;a class="td-heading-self-link" href="#estimate-activity-durations" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Estimating the time required (in hours, days, or weeks). It is suggested that you estimate duration in productive hours. If you are estimating in days or weeks then you should not include non-productive hours, weekly offs, availability of more people to complete the work earlier. For example, to fix a door in the building with the estimated resources (man, material, equipment) you estimated duration as 4 hours. Now for example, if 4 people are required to complete the work then human efforts is 16 hours. It is not 2 days! Nor 1 hour with 16 people! Nor 6 days because work starts on 1-Jan-16 and the first day only 2 hours’ work happens then 4 days off because of any reason (a person will not be available, company off, lead time to complete the work, etc) and remaining 2 hours’ work will be done on 6-Jan-16. So this estimation is neither effort, nor schedule, nor time/resource optimization. This is just about how much duration is required to complete the work with the estimated resources.&lt;/p></description></item><item><title>Estimate Activity Resources</title><link>https://localhost:1313/pmbok6/Estimate-Activity-Resources/</link><pubDate>Sun, 14 Feb 2021 14:23:46 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Estimate-Activity-Resources/</guid><description>&lt;h2 id="estimate-activity-resources">Estimate Activity Resources&lt;a class="td-heading-self-link" href="#estimate-activity-resources" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Estimating the type and number of resources required to perform the identified activities. You may be thinking that why the sequence activities process is earlier than this process. From our experience, we know that the activity’s sequence impacts the type and number of resources required. If two activities A &amp;amp; B, which are of similar type and can be completed by one resource, has must be done in parallel then you need two resources otherwise taking only one resource on the project could have helped us complete the work on time. This is the impact of determining sequence on resource estimation.&lt;br>
+When you are estimating resources (the first time), that time you do not look into your resource pool that how many people you have. But look into the nature of the activity and determine how much minimum you need. You should not focus on time or resource optimization. Do not look into how many resources are required to complete the work in 2 days. Just estimate for this kind of activity what type of resources and how many are required to complete the activity.&lt;/p></description></item><item><title>Sequence Activities</title><link>https://localhost:1313/pmbok6/Sequence-Activities/</link><pubDate>Sun, 14 Feb 2021 14:05:31 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Sequence-Activities/</guid><description>&lt;h2 id="sequence-activities">Sequence Activities&lt;a class="td-heading-self-link" href="#sequence-activities" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>After listing all the activities and identifying &lt;a href="https://localhost:1313/pmbok6/activity-attributes">Activity Attribute&lt;/a> we should sequence the activities based on their attributes and make a dependency diagram of project activities. This is called &lt;a href="https://localhost:1313/pmbok6/project-schedule-network-diagram">project schedule network diagram&lt;/a>. This is one of the cores of the project’s success. If you do not put dependencies correctly or define dependencies based on assumptions or out of ignorance, then project schedule adherence will be a great difficulty. Mark those activities where the sequence can be altered i.e. &lt;a href="https://localhost:1313/pmbok6/soft-dependency">soft dependency&lt;/a>. This information will help you for optimizing resources, negotiating a scheduled timeline, altering the critical path of the project. Therefore, pay high attention and take the help of the experts for determining the dependency, lead or lag time of the activities.&lt;/p></description></item><item><title>Define Activities</title><link>https://localhost:1313/pmbok6/Define-Activities/</link><pubDate>Sun, 14 Feb 2021 14:01:26 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Define-Activities/</guid><description>&lt;h2 id="define-activities">Define Activities&lt;a class="td-heading-self-link" href="#define-activities" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>When you know what needs to be delivered and the customer agrees about the problem and proposed solution then you should make a detailed execution plan. The first step in this journey of making a detailed execution plan is to list the activities and define the activities which need to be done to produce those deliverables. Thus the purpose of this process is to know what work needs to be done by the team and partners. This process also does the listing of all project milestones and attributes of the activities.&lt;/p></description></item><item><title>Plan Schedule Management</title><link>https://localhost:1313/pmbok6/Plan-Schedule-Management/</link><pubDate>Sun, 14 Feb 2021 13:58:33 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Schedule-Management/</guid><description>&lt;h2 id="plan-schedule-management">Plan Schedule Management&lt;a class="td-heading-self-link" href="#plan-schedule-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Plan schedule management is the first process of the Time Management Knowledge Area. In this process, you need to prepare a plan which will help you in preparing and managing the schedule. The output of this process is &lt;a href="https://localhost:1313/pmbok6/pmbok6/schedule-management-plan">schedule management plan&lt;/a>. The schedule management plan describes how, who, when, tools, metrics of schedule planning, tracking, and controlling throughout the project life-cycle. What should be the accepted tolerance limit of the schedule variance for any deliverable, phase, or complete project is also defined in this document called &lt;a href="https://localhost:1313/pmbok6/pmbok/schedule-management-plan">schedule management plan&lt;/a>&lt;/p></description></item><item><title>Validate Scope</title><link>https://localhost:1313/pmbok6/Validate-Scope/</link><pubDate>Sun, 14 Feb 2021 13:55:46 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Validate-Scope/</guid><description>&lt;h2 id="validate-scope">Validate Scope&lt;a class="td-heading-self-link" href="#validate-scope" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Validate Scope process comes in picture when project’s output is shown to the customer or end-user. In this process, a customer validates the requirement against the baseline and his/her need. Sometimes even if the feature displayed to the customer is part of the scope baseline but that does not meet the need of the customer then s/he can request for a change. If everything is fine and fits the need of the customer then s/he can signoff that piece of work. PMBOK does not encourage a one-time big demo for the customer or one big bank sign-off from a customer but based on the complexity of the project keep the customer engaged, schedule, and show demo many times in project lifecycle. As and when some small deliverable is ready it is important to take feedback from the customer and incorporate the change if suggested by customer. Keep in mind that any change has to managed through &lt;a href="https://localhost:1313/pmbok6/Perform-Integrated-Change-Control">Perform Integrated Change Control&lt;/a> process&lt;/p></description></item><item><title>Control Scope</title><link>https://localhost:1313/pmbok6/Control-Scope/</link><pubDate>Sun, 14 Feb 2021 13:51:26 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Control-Scope/</guid><description>&lt;h2 id="control-scope">Control Scope&lt;a class="td-heading-self-link" href="#control-scope" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Control scope is a monitoring and controlling process. In any project especially large, complex, long duration, distributed team project it is possible that changes will go out of control. If the project management team is not able to manage and control the changes then no matter how good your project resources are you will never be able to complete the project successfully. This process is about managing and controlling all the scope and requirement changes. PMBOK’s focus is to emphasize that commit your deliverables and deliver whatever has been committed. It does not encourage project managers to deliver anything more or less than committed. &lt;strong>Anything which is not committed if you are trying to deliver it is called gold-plating.&lt;/strong> Anything which is committed and you do not deliver it is called over-committed or under delivery. Project managers must know how many &lt;a href="https://localhost:1313/pmbok6/change_request">change request&lt;/a>s were rejected and why, how many change requests were accepted, and why? What are the requirements stability and delivery status of the project? This process helps you in achieving all this.&lt;/p></description></item><item><title>Create WBS</title><link>https://localhost:1313/pmbok6/Create-WBS/</link><pubDate>Sun, 14 Feb 2021 13:46:13 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Create-WBS/</guid><description>&lt;h2 id="create-wbs">Create WBS&lt;a class="td-heading-self-link" href="#create-wbs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>A WBS (Work Breakdown Structure) is an extremely important document of any project. This document helps customers, management, and project manager in knowing the overall progress of the project. In the absence of WBS, it is not possible to report the project progress like how much work has been done, how much money or time spent for what work, which component or part of the project has more quality issues. Create WBS process defines the WBS of the project, prepares a WBS dictionary that has the unambiguous definition of each WBS element. This is the process where you should baseline your project scope. A WBS is a hierarchical representation of the deliverables. There are many ways to structure a WBS. If you keep milestones at level one of the WBS hierarchy then it is called milestone-driven WBS, similarly, component-driven WBS, phase-driven WBS can be created. What WBS is best suited for your project? It all depends upon your tracking and reporting needs and project organization structures.&lt;/p></description></item><item><title>Develop Team</title><link>https://localhost:1313/pmbok6/Develop-Team/</link><pubDate>Sun, 14 Feb 2021 13:18:06 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Develop-Team/</guid><description>&lt;h2 id="develop-team-process-summary">Develop Team (Process Summary)&lt;a class="td-heading-self-link" href="#develop-team-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https://www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/colocation">Colocation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-technology">Communication Technology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/individual-and-team-assessments">Individual And Team Assessments&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/recognition-and-rewards">Recognition And Rewards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/training">Training&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/virtual-teams">Virtual Teams&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors-updates">Enterprise Environmental Factors Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets-updates">Organizational Process Assets Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/team-performance-assessments">Team Performance Assessments&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Manage Team</title><link>https://localhost:1313/pmbok6/Manage-Team/</link><pubDate>Sun, 14 Feb 2021 13:15:11 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Manage-Team/</guid><description>&lt;h2 id="manage-team-process-summary">Manage Team (Process Summary)&lt;a class="td-heading-self-link" href="#manage-team-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/team-performance-assessments">Team Performance Assessments&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/work-performance-reports">Work Performance Reports&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-information-system">Project Management Information System&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/change-requests">Change Requests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors-updates">Enterprise Environmental Factors Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-updates">Project Documents Updates&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="https://localhost:1313/pmbok6/process-groups-and-processes-in-pmbok6">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Plan Communications Management</title><link>https://localhost:1313/pmbok6/Plan-Communications-Management/</link><pubDate>Sun, 14 Feb 2021 13:11:33 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Plan-Communications-Management/</guid><description>&lt;h2 id="plan-communications-management-process-summary">Plan Communications Management (Process Summary)&lt;a class="td-heading-self-link" href="#plan-communications-management-process-summary" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This table is based on &lt;a href="https://www.pmi.org/pmbok-guide-standards">PMBOK&lt;/a> 6th Edition of &lt;a href="https:/www.pmi.org">PMI&lt;/a>&lt;/p>
+&lt;h2 id="inputs">&lt;strong>Inputs&lt;/strong>&lt;a class="td-heading-self-link" href="#inputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/enterprise-environmental-factors">Enterprise Environmental Factors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/organizational-process-assets">Organizational Process Assets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-charter">Project Charter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents">Project Documents&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan">Project Management Plan&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools--techniques">&lt;strong>Tools &amp;amp; Techniques&lt;/strong>&lt;a class="td-heading-self-link" href="#tools--techniques" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-methods">Communication Methods&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-models">Communication Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-requirements-analysis">Communication Requirements Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communication-technology">Communication Technology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/data-representation">Data Representation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/interpersonal-and-team-skills">Interpersonal And Team Skills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/meetings">Meetings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/expert-judgement">Expert Judgement&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="outputs">&lt;strong>Outputs&lt;/strong>&lt;a class="td-heading-self-link" href="#outputs" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/communications-management-plan">Communications Management Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-documents-update">Project Documents Update&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://localhost:1313/pmbok6/project-management-plan-updates">Project Management Plan Updates&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>&lt;a href="process-groups-and-processes-in-pmbok6/">PMBOK 6th Edition Process Summary Table&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>Define Scope</title><link>https://localhost:1313/pmbok6/Define-Scope/</link><pubDate>Sun, 14 Feb 2021 11:35:11 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Define-Scope/</guid><description>&lt;h2 id="define-scope">Define Scope&lt;a class="td-heading-self-link" href="#define-scope" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>In this process, the technical team analyzes the requirements from the solution perspective. They need to come up with a clear and unambiguous list of deliverables, acceptance criteria, solution, design, and the architecture of the final system. What is possible or not possible, discussing and negotiating solutions with technical team and customer is also done in this process. What is out of the scope is clearly marked out in the process and a lot of documents get generated here. Collectively all these documents are called &lt;a href="https://localhost:1313/pmbok6/project_scope_statement">project scope statement&lt;/a>. If the solution is really complex or the project is large this may not be the one-time process in the project life-cycle. There may be multiple phases or multiple iterations in each phase to prepare a &lt;a href="https://localhost:1313/pmbok6/project_scope_statement">project scope statement&lt;/a>.&lt;/p></description></item><item><title>Collect Requirements</title><link>https://localhost:1313/pmbok6/Collect-Requirements/</link><pubDate>Sun, 14 Feb 2021 11:33:48 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Collect-Requirements/</guid><description>&lt;h2 id="collect-requirements">Collect Requirements&lt;a class="td-heading-self-link" href="#collect-requirements" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>In this process assigned person(s) needs to collect requirements from the stakeholders. All functional, non-functional, technical, system, quality requirements are collected and documented. All those documents where requirements are documented are collectively called &lt;a href="https://localhost:1313/pmbok6/requirement_documentation">requirement documentation&lt;/a>. Depending on the availability of the stakeholders, technical nature of the project, clarity of scope and requirements, various techniques are used by the team for requirement collection and elicitation.&lt;/p></description></item><item><title>Close Project or Phase</title><link>https://localhost:1313/pmbok6/Close-Project-or-Phase/</link><pubDate>Sun, 14 Feb 2021 11:32:10 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Close-Project-or-Phase/</guid><description>&lt;h2 id="close-project-or-phase">Close Project or Phase&lt;a class="td-heading-self-link" href="#close-project-or-phase" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>This is the process of finalizing all activities across all the project management process groups to formally complete the project or phase&lt;/p>
+&lt;p>The project manager needs to ensure that the following activities are completed before a project is declared as closed.&lt;/p></description></item><item><title>Monitor and Control Project Work</title><link>https://localhost:1313/pmbok6/Monitor-and-Control-Project-Work/</link><pubDate>Sun, 14 Feb 2021 11:30:27 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Monitor-and-Control-Project-Work/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/PMBOK-Process-MCPW.jpg" alt="">&lt;/p>
+&lt;h2 id="monitor-and-control-project-work">Monitor and Control Project Work&lt;a class="td-heading-self-link" href="#monitor-and-control-project-work" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>How the management or customer or you will come to know that whether the project is going as per the approved plan? The only way is to monitor the progress against the plan. Where is the plan for monitoring? In the project management plan! The project management plan includes the plan of project execution, project monitoring and controlling, and project closure. So you need to prepare the performance report of the project work, perform an analysis of the data collected, and make a decision if there is a variance from the base plan. The decision is a change request. A change request can lead to defect repair or preventive action or corrective action.&lt;/p></description></item><item><title>Direct and Manage Project Work</title><link>https://localhost:1313/pmbok6/Direct-and-Manage-Project-Work/</link><pubDate>Sun, 14 Feb 2021 11:21:23 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Direct-and-Manage-Project-Work/</guid><description>&lt;h2 id="direct-and-manage-project-work">Direct and Manage Project Work&lt;a class="td-heading-self-link" href="#direct-and-manage-project-work" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>The process of leading and performing the Work defined in the project management plan and implementing approved change requests to achieve the project’s objectives.&lt;/p></description></item><item><title>Project Scope Management</title><link>https://localhost:1313/pmbok6/Project-Scope-Management/</link><pubDate>Sat, 02 Jan 2021 17:47:21 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Scope-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/Project-Scope-Management.jpg" alt="">&lt;/p>
+&lt;h2 id="project-scope-management">Project Scope Management&lt;a class="td-heading-self-link" href="#project-scope-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Project Scope Management Knowledge Area has the processes which outline both, the project scope and product scope. &lt;strong>Project Scope&lt;/strong> is the work that needs to be accomplished to deliver a product, service, or result with the specified features and functions. &lt;strong>Product Scope&lt;/strong> is The features and functions that characterize a product, service, or result. This knowledge area processes required to ensure that the project includes all the work required, and ONLY the work required to complete the project successfully.&lt;/p></description></item><item><title>Project Communication Management</title><link>https://localhost:1313/pmbok6/Project-Communication-Management/</link><pubDate>Fri, 01 Jan 2021 06:42:23 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/pmbok6/Project-Communication-Management/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/pmlogy/Project-Communication-Management-min.jpg" alt="">&lt;/p>
+&lt;h2 id="project-communication-management">Project Communication Management&lt;a class="td-heading-self-link" href="#project-communication-management" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Most of the time project managers spend in communication. Communication does not mean only writing, speaking, explaining, justifying, and defending. It is just one part of communication. Communication means listening, comprehending, analyzing, and then responding. For effective communication, a project manager needs to understand the following aspects of communication&lt;/p></description></item></channel></rss>

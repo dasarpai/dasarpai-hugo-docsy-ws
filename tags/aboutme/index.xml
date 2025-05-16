@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aboutme on Blowfish</title><link>https://localhost:1313/tags/aboutme/</link><description>Recent content in Aboutme on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/aboutme/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://localhost:1313/aboutme/</link><pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/aboutme/</guid><description>&lt;h2 id="dr-hari-thapliyal">Dr. Hari Thapliyal&lt;a class="td-heading-self-link" href="#dr-hari-thapliyal" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">for&lt;/span> &lt;span class="n">problem&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">all_problems&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">problem&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">data&lt;/span> &lt;span class="ow">is&lt;/span> &lt;span class="n">very_small&lt;/span> &lt;span class="ow">or&lt;/span> &lt;span class="n">problem&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">data&lt;/span> &lt;span class="n">not_availale&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;You don&amp;#39;t need AI solution&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;!--
+Photo Gallery
+===
+![](/images/dasarpAI-Banner-LI.jpg)
+-->
+&lt;h2 id="personal-information">Personal information&lt;a class="td-heading-self-link" href="#personal-information" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>Linkedin - &lt;a href="https://www.linkedin.com/in/harithapliyal/">@harithapliyal&lt;/a>&lt;/li>
+&lt;li>Instagram - &lt;a href="https://www.instagram.com/dasarpai/">@dasarpai&lt;/a>&lt;/li>
+&lt;li>Twitter - &lt;a href="https://twitter.com/dasarpai">@dasarpai&lt;/a>&lt;/li>
+&lt;li>Facebook - &lt;a href="https://www.facebook.com/dasarpai/">@dasarpai&lt;/a>&lt;/li>
+&lt;li>Gmail (General) - &lt;a href="mailto:hari@dasarpai.com">hari@dasarpai.com&lt;/a>&lt;/li>
+&lt;li>Github - &lt;a href="https://github.com/dasarpai">github.com/dasarpai&lt;/a>&lt;/li>
+&lt;li>WhatsApp: +91 9535-999336&lt;/li>
+&lt;/ul>
+&lt;p>Scan Me - &lt;img src="https://localhost:1313/assets/images/dasarpai-qrcode.png" alt="QR Code">{: width=&amp;ldquo;100&amp;rdquo;}&lt;/p></description></item></channel></rss>

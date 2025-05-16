@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basic Statistics on Blowfish</title><link>https://localhost:1313/tags/basic-statistics/</link><description>Recent content in Basic Statistics on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/basic-statistics/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Statistics for Data Science</title><link>https://localhost:1313/dsblog/basic-statistics-for-data-science/</link><pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/basic-statistics-for-data-science/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg" alt="Basic Statistics for Data Science">&lt;/p>
+&lt;h1 id="basic-statistics-for-data-science">Basic Statistics for Data Science&lt;a class="td-heading-self-link" href="#basic-statistics-for-data-science" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="important-webpages-on-statistics">Important Webpages on Statistics&lt;a class="td-heading-self-link" href="#important-webpages-on-statistics" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.sciencedirect.com/topics/neuroscience/statistical-inference">Statistical Inference – an overview - ScienceDirect Topics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datajournalismhandbook.org/1.0/en/index.html">Welcome – The Data Journalism Handbook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://math.tutorvista.com/calculus.html">Calculus – Get Help from Online Calculus Tutor - Math@TutorVista.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mathsisfun.com/data/probability.html">Probability&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mathopolis.com/questions/q.php?id=700&amp;amp;site=1&amp;amp;ref=/data/probability.html&amp;amp;qs=700_701_702_1475_1476_1477_2175_2176_2177_2178">Mathopolis Question Database&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mathgoodies.com/lessons/vol6/addition_rules">Addition Rules for Probability - Math Goodies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.calculatorsoup.com/calculators/discretemathematics/combinations.php">Combinations Calculator (nCr)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.statisticshowto.datasciencecentral.com/large-enough-sample-condition/">Large Enough Sample Condition – Statistics How To&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ztable.net/">Z Table - Z Table&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dataquest.io/blog/basic-statistics-in-python-probability/">Probability in Python – Dataquest&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.evolytics.com/resources/calculators/zscore-calculator/">Z Score to Confidence Level Calculator – Evolytics - Data Analytics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/confidence-interval/">How to Find a Confidence Interval: The Easy Way! – Statistics How To&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://newonlinecourses.science.psu.edu/stat414/node/93/">Lesson 17: Distributions of Two Discrete Random Variables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.optimizely.com/optimization-glossary/">Optipedia: Glossary of CRO Terms &amp;amp; Acronyms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.khanacademy.org/math/ap-statistics/chi-square-tests/chi-square-goodness-fit/v/goodness-of-fit-example">Chi-square statistic for hypothesis testing (video) - Khan Academy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dummies.com/education/math/statistics/statistics-workbook-for-dummies-cheat-sheet/">Statistics Workbook For Dummies Cheat Sheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://byjus.com/maths/polynomial/?utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=K12-Search-Traffic-Desktop-Class9-Maths-May29&amp;amp;utm_term=%2Bpolynomials&amp;amp;gclid=CjwKCAjwsIbpBRBNEiwAZF8-z2rFLubD9w8tdE3t2urJiDzVmXZRbq1RSKCSnTGtFaf3gF5pslnRcxoCXhYQAvD_BwE">Polynomials – Definition, Types, Degree and Solved Examples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mathplanet.com/education/algebra-1">Algebra 1 – Mathplanet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mathplanet.com/">Mathplanet&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="websites-to-learn-basic-statistics">Websites to Learn Basic Statistics&lt;a class="td-heading-self-link" href="#websites-to-learn-basic-statistics" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://byjus.com">https://byjus.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://calculatorsoup.com">https://calculatorsoup.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datajournalismhandbook.org">https://datajournalismhandbook.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dataquest.io">https://dataquest.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dummies.com">https://dummies.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://evolytics.com">https://evolytics.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://khanacademy.org">https://khanacademy.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://math.tutorvista.com">https://math.tutorvista.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mathgoodies.com">https://mathgoodies.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mathopolis.com">https://mathopolis.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mathplanet.com">https://mathplanet.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mathsisfun.com">https://mathsisfun.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://newonlinecourses.science.psu.edu">https://newonlinecourses.science.psu.edu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://optimizely.com">https://optimizely.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sciencedirect.com">https://sciencedirect.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://statisticshowto.datasciencecentral.com">https://statisticshowto.datasciencecentral.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ztable.net">https://ztable.net&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Basic Statistics for Data Science</title><link>https://localhost:1313/dsresources/basic-statistics-for-data-science/</link><pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsresources/basic-statistics-for-data-science/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dsresources/dsr118-Basic-Statistics-for-Data-Science.jpg" alt="Basic Statistics for Data Science">&lt;/p>
+&lt;p>I am sorry, this page has moved to different location. &lt;a href="https://localhost:1313/dsblog/basic-statistics-for-data-science">Click me to go there&lt;/a>&lt;/p></description></item></channel></rss>

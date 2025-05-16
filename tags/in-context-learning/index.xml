@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>In Context Learning on Blowfish</title><link>https://localhost:1313/tags/in-context-learning/</link><description>Recent content in In Context Learning on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/in-context-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Transfer Learning Key AI Techniques Explained</title><link>https://localhost:1313/dsblog/Transfer-Learning-Key-AI-Techniques-Explained/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/Transfer-Learning-Key-AI-Techniques-Explained/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6172-Transfer-Learning-Key-AI-Techniques-Explained.jpg" alt="Transfer Learning Key AI Techniques Explained">&lt;/p>
+&lt;h1 id="transfer-learning-key-ai-techniques-explained">Transfer Learning Key AI Techniques Explained&lt;a class="td-heading-self-link" href="#transfer-learning-key-ai-techniques-explained" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>In this article we will understand some important concepts used within machine learning.&lt;/p>
+&lt;ul>
+&lt;li>What is in-context Learning?&lt;/li>
+&lt;li>What is Prompt-Engineering?&lt;/li>
+&lt;li>What is the relationship between Prompt Engineering and In-Context Learning?&lt;/li>
+&lt;li>What is Zero-shot learning?&lt;/li>
+&lt;li>How Zero-shot learning is different from In-context Learning?&lt;/li>
+&lt;li>What is Meta-Learning?&lt;/li>
+&lt;li>What is Few-shot learning?&lt;/li>
+&lt;li>Do we need foundational models for Meta-learning and Few-shot learning?&lt;/li>
+&lt;li>What is transfer learning?&lt;/li>
+&lt;li>How do we do transfer learning from existing model?&lt;/li>
+&lt;li>What is finetuning?&lt;/li>
+&lt;li>Which layers to update, what weight to update during finetuning?&lt;/li>
+&lt;/ul>
+&lt;h2 id="prompt-engineering-in-context-learning-and-zero-shot-learning">Prompt Engineering, In Context Learning and Zero-shot Learning&lt;a class="td-heading-self-link" href="#prompt-engineering-in-context-learning-and-zero-shot-learning" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="what-is-in-context-learning">What is in-context Learning?&lt;a class="td-heading-self-link" href="#what-is-in-context-learning" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>In-Context Learning refers to a model&amp;rsquo;s ability to adapt its responses based on the context provided in the input prompt without updating its parameters or undergoing explicit training. The model uses the examples, instructions, or context given in the input to influence its behavior during inference.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantization on Blowfish</title><link>https://localhost:1313/tags/quantization/</link><description>Recent content in Quantization on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/quantization/index.xml" rel="self" type="application/rss+xml"/><item><title>Compressing Large Language Model</title><link>https://localhost:1313/dsblog/compressing-llm/</link><pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/compressing-llm/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dspost/dsp6099-Compressing-LLM.jpg" alt="Compressing Large Language Model">&lt;/p>
+&lt;h1 id="compressing-large-language-model">Compressing Large Language Model&lt;a class="td-heading-self-link" href="#compressing-large-language-model" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="is-this-article-for-me">Is this article for me?&lt;a class="td-heading-self-link" href="#is-this-article-for-me" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>If you are looking answers to following question then &amp;ldquo;Yes&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>What is LLM compression?&lt;/li>
+&lt;li>Why is LLM compression necessary?&lt;/li>
+&lt;li>What are the different techniques for LLM compression?&lt;/li>
+&lt;li>How does quantization work in LLM compression?&lt;/li>
+&lt;li>What is pruning, and how does it help in compressing LLMs?&lt;/li>
+&lt;li>Can you explain knowledge distillation in the context of LLMs?&lt;/li>
+&lt;li>What is low-rank factorization and its role in LLM compression?&lt;/li>
+&lt;li>How effective are weight sharing techniques in compressing LLMs?&lt;/li>
+&lt;li>What are the trade-offs involved in LLM compression?&lt;/li>
+&lt;li>How does fine-tuning work in the context of compressed LLMs?&lt;/li>
+&lt;li>What are the benefits of fine-tuning in compressed LLMs?&lt;/li>
+&lt;li>What role does hardware play in LLM compression?&lt;/li>
+&lt;li>What are the ethical considerations in LLM compression?&lt;/li>
+&lt;li>What are the future directions in LLM compression?&lt;/li>
+&lt;/ul>
+&lt;h2 id="1-what-is-llm-compression">1. &lt;strong>What is LLM Compression?&lt;/strong>&lt;a class="td-heading-self-link" href="#1-what-is-llm-compression" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>LLM (Large Language Model) compression refers to a set of techniques and methodologies aimed at reducing the size of large language models while maintaining their performance as much as possible. Large language models, such as GPT, BERT, and their variants, often contain hundreds of millions to billions of parameters, making them resource-intensive to deploy and run. The sheer size of these models poses challenges in terms of storage, computation, and real-time inference, especially when deploying on devices with limited hardware resources like mobile phones or edge devices.&lt;/p></description></item></channel></rss>

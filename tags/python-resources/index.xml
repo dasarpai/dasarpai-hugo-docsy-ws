@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python Resources on Blowfish</title><link>https://localhost:1313/tags/python-resources/</link><description>Recent content in Python Resources on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/python-resources/index.xml" rel="self" type="application/rss+xml"/><item><title>Best Resources to Learn Python</title><link>https://localhost:1313/dsblog/best-resources-to-learn-python/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsblog/best-resources-to-learn-python/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg" alt="Best Resources to Learn Python">&lt;/p>
+&lt;h1 id="best-resources-to-learn-python">Best Resources to Learn Python&lt;a class="td-heading-self-link" href="#best-resources-to-learn-python" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;h2 id="best-python-resources">Best Python Resources&lt;a class="td-heading-self-link" href="#best-python-resources" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://learnpythonthehardway.org/book/">Learn Python the Hard Way&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://anandology.com/python-practice-book/index.html">Python Practice Book — Python Practice Book&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://inventwithpython.com/pygame/chapters/">Making Games with Python &amp;amp; Pygame&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pythonprogramming.net/">Python Programming Tutorials&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/github/jmportilla/">Jupyter Notebook Viewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/">nbviewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/github/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Final%20Capstone%20Project%20Ideas.ipynb">Jupyter Notebook Viewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Projects-Solutions/Solution%20Links.md">Complete-Python-Bootcamp/Solution Links.md at master&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python-guide.org/intro/learning/">Learning Python – The Hitchhiker’s Guide to Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/3/library/index.html">The Python Standard Library – Python 3.7.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.udemy.com/complete-python-bootcamp/learn/v4/t/lecture/9523126?start=0">Complete Python Bootcamp: Go from zero to hero in Python 3 - Udemy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pymbook.readthedocs.io/en/latest/">Welcome to Python for you and me&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://interactivepython.org/runestone/static/pythonds/index.html">Problem Solving with Algorithms and Data Structures using Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codingbat.com/python">CodingBat Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.python.org/moin/GuiProgramming">GuiProgramming – Python Wiki&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/">The 10 most popular coding challenge websites for 2017&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.learnpython.org/">Learn Python – Free Interactive Python Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.python.org/">Welcome to Python.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/3/library/functions.html#dir">Built-in Functions — Python 3.7.3 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.learnpython.org/en/Hello,_World!">Hello, World! – Learn Python – Free Interactive Python Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/3/tutorial/">The Python Tutorial — Python 3.7.3 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/">Quick Guide to Boosting Algorithms in Machine Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.analyticsvidhya.com/blog/">Analytics Community - Analytics Discussions - Big Data Discussion&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://data-flair.training/blogs/python-tutorials-home/">Learn Python – Python Tutorials – DataFlair&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="best-numpy-resources">Best Numpy Resources&lt;a class="td-heading-self-link" href="#best-numpy-resources" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists">arrays – What are the advantages of NumPy over regular Python lists? – Stack Overflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast">python – Why are NumPy arrays so fast? – Stack Overflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.scipy.org/doc/">Numpy and Scipy Documentation – Numpy and Scipy documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.numpy.org/">NumPy – NumPy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.scipy.org/doc/numpy/">Overview – NumPy v1.16 Manual&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="best-pandas-resources">Best Pandas Resources&lt;a class="td-heading-self-link" href="#best-pandas-resources" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://pandas.pydata.org/">pandas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/reference/frame.html">DataFrame – pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html">Merge, join, and concatenate — pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/reference/series.html#plotting">Series – pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stattrek.com/online-calculator/binomial.aspx">Binomial Probability Calculator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/pandas-docs/stable/reference/series.html#indexing-iteration">Series – pandas 0.24.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blogs.baruch.cuny.edu/cis3100/?p=56">Reshaping in Pandas – Pivot, Pivot-Table, Stack and Unstack explained with Pictures – Python / C++&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://etav.github.io/python/count_basic_freq_plot.html">Counting and Basic Frequency Plots – Python&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="python-visualization-resources">Python Visualization Resources&lt;a class="td-heading-self-link" href="#python-visualization-resources" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://seaborn.pydata.org/api.html">Seaborn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/rougier/matplotlib-tutorial">rougier/matplotlib-tutorial: Matplotlib tutorial for beginner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/a-step-by-step-guide-for-creating-advanced-python-data-visualizations-with-seaborn-matplotlib-1579d6a1a7d0">A step-by-step guide for creating advanced Python data visualizations with Seaborn / Matplotlib&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matplotlib.org/users/pyplot_tutorial.html">Pyplot tutorial — Matplotlib 2.0.2 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/">Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL &amp;amp; Big Data&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="other-resources">Other Resources&lt;a class="td-heading-self-link" href="#other-resources" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://datahack.analyticsvidhya.com/contest/all/">Contests - Analytics Vidhya&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#loading-the-20-newsgroups-dataset">Working With Text Data — scikit-learn 0.20.3 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.w3schools.com/python/python_regex.asp">Python RegEx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.guru99.com/python-regular-expressions-complete-tutorial.html">Python Regex: re.match(), re.search(), re.findall() with Example&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/FakeNewsDetection/FakeBuster">FakeNewsDetection/FakeBuster: Fake News Detection with Machine Learning&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="websites-to-learn-python">Websites to learn Python&lt;a class="td-heading-self-link" href="#websites-to-learn-python" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://interactivepython.org/">https://interactivepython.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://inventwithpython.com/">https://inventwithpython.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://numpy.org/">https://numpy.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/">https://pandas.pydata.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://analyticsvidhya.com/">https://analyticsvidhya.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://anandology.com/">https://anandology.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blogs.baruch.cuny.edu/">https://blogs.baruch.cuny.edu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codingbat.com/">https://codingbat.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://data-flair.training/">https://data-flair.training&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://datahack.analyticsvidhya.com/">https://datahack.analyticsvidhya.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python.org/">https://docs.python.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.python-guide.org/">https://docs.python-guide.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.scipy.org/">https://docs.scipy.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://etav.github.io/">https://etav.github.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://freecodecamp.org/">https://freecodecamp.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/">https://github.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://guru99.com/">https://guru99.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learnpython.org/">https://learnpython.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learnpythonthehardway.org/">https://learnpythonthehardway.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matplotlib.org/">https://matplotlib.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/">https://nbviewer.jupyter.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pandas.pydata.org/">https://pandas.pydata.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pymbook.readthedocs.io/">https://pymbook.readthedocs.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://python.org/">https://python.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pythonprogramming.net/">https://pythonprogramming.net&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://scikit-learn.org/">https://scikit-learn.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seaborn.pydata.org/">https://seaborn.pydata.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/">https://stackoverflow.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stattrek.com/">https://stattrek.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://towardsdatascience.com/">https://towardsdatascience.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://udemy.com/">https://udemy.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://w3schools.com/">https://w3schools.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.python.org/">https://wiki.python.org&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Best Resources to Learn Python</title><link>https://localhost:1313/dsresources/best-resources-to-learn-python/</link><pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/dsresources/best-resources-to-learn-python/</guid><description>&lt;p>&lt;img src="https://localhost:1313/assets/images/dsresources/dsr110-Best-Resources-to-Learn-Python.jpg" alt="Best Resources to Learn Python">&lt;/p>
+&lt;p>I am sorry, this page has moved to different location. &lt;a href="https://localhost:1313/dsblog/best-resources-to-learn-python">Click me to go there&lt;/a>&lt;/p></description></item></channel></rss>

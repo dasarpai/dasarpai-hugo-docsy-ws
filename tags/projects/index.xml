@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Blowfish</title><link>https://localhost:1313/tags/projects/</link><description>Recent content in Projects on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Description of Business Domains</title><link>https://localhost:1313/Description-of-Business-Domains/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/Description-of-Business-Domains/</guid><description>&lt;h1 id="description-of-business-domains">Description of Business Domains&lt;a class="td-heading-self-link" href="#description-of-business-domains" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>Being part of the Software, AI, and Management Consulting industries has given me the opportunity to work across various fields. When organizing my projects by domain, I often find it challenging to place each project in the correct folder/github repo. This can lead to search and configuration management issues later on. I believe many others face similar challenges, which is why I created this page as a way to track my work more easily. By sharing this categorization publicly, I hope it may also benefit others. This is not a formal or standardized classification, and some domain experts may feel that certain areas are not defined perfectly. I’m aware of this and present it as a practical solution to streamline my workflow.&lt;/p></description></item><item><title>Project Index Page</title><link>https://localhost:1313/project-index-page/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/project-index-page/</guid><description>&lt;h1 id="project-index-page">Project Index Page&lt;a class="td-heading-self-link" href="#project-index-page" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>This is &amp;ldquo;master project page&amp;rdquo; therefore it is linking to my different project categories. To know about my work in different domain you can click on the link of your interest.&lt;/p></description></item><item><title>Summary of AI ML Project</title><link>https://localhost:1313/summary-of-al-ml-projects/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/summary-of-al-ml-projects/</guid><description>&lt;h1 id="aiml---industries---developed-created-expanded-work">AI/ML - Industries - Developed/ Created/ Expanded work&lt;a class="td-heading-self-link" href="#aiml---industries---developed-created-expanded-work" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;strong>Projects in this section are listed according to Industry/Business Domain.&lt;/strong>
+Sometimes it is difficult for me to find out in what domain a particular project falls into, therefore I have created &lt;a href="https://localhost:1313/Description-of-Business-Domains">this page&lt;/a> to decide the domain.&lt;/p></description></item><item><title>Summary of Management Project</title><link>https://localhost:1313/summary-of-management-projects/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/summary-of-management-projects/</guid><description>&lt;h1 id="management">Management&lt;a class="td-heading-self-link" href="#management" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;ul>
+&lt;li>Management-PMO (github repo)
+&lt;ol>
+&lt;li>PM-Templates&lt;/li>
+&lt;li>PMO&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Management-PMIPrep (github repo)&lt;/li>
+&lt;li>Training-Feedbacks (github repo)&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-management---standard-training-courses">Project Management - Standard Training Courses&lt;a class="td-heading-self-link" href="#project-management---standard-training-courses" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Hundreds of Openhouse and Inhouse Training done on these topics for various partners.&lt;/p></description></item><item><title>Summary of My Technology Stacks</title><link>https://localhost:1313/summary-of-my-technology-stacks/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/summary-of-my-technology-stacks/</guid><description>&lt;h1 id="my-technology-stack---developed-created-expended-work">My Technology Stack - Developed/ Created/ Expended work&lt;a class="td-heading-self-link" href="#my-technology-stack---developed-created-expended-work" aria-label="Heading self-link">&lt;/a>&lt;/h1>
+&lt;p>&lt;strong>Works in this section are listed according to Technology/Tech Product/POC&lt;/strong>&lt;/p>
+&lt;h2 id="llmagentic-ai">LLM/Agentic AI&lt;a class="td-heading-self-link" href="#llmagentic-ai" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="crewai">&lt;font color=green> CrewAI&lt;/font>&lt;a class="td-heading-self-link" href="#crewai" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/Crewai_Creating_Search_agent">Github Repo - Crewai_Creating_Search_agent&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/crewai-enterprise-sales-pdf-template">Github Repo - Crewai_Enterprise-Sales-PDF-Creation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="agentic-llm">&lt;font color=green> Agentic-LLM&lt;/font>&lt;a class="td-heading-self-link" href="#agentic-llm" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Agentic-LLM/Bee-Agentic-Framework">Github Repo - Agentic-LLM/Bee-Agentic-Framework&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Agentic-LLM/Create-Custom-Audio-Summaries">Github Repo - Agentic-LLM/Create-Custom-Audio-Summaries&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="bigscience">&lt;font color=green> BigScience&lt;/font>&lt;a class="td-heading-self-link" href="#bigscience" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/BigScience/finetune-bloom-7b">Github Repo - BigScience/finetune-bloom-7b&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cloud-aws">&lt;font color=green> Cloud-AWS&lt;/font>&lt;a class="td-heading-self-link" href="#cloud-aws" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-AWS/AWS-Amazon-Bedrock-for-Serverless-LLM">Github Repo - Cloud-AWS/AWS-Amazon-Bedrock-for-Serverless-LLM&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-AWS/AWS-Amplify">Github Repo - Cloud-AWS/AWS-Amplify&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-AWS/AWS-Runner">Github Repo - Cloud-AWS/AWS-Runner&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-AWS/AWS-SageMaker">Github Repo - Cloud-AWS/AWS-SageMaker&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cloud-gcp">&lt;font color=green> Cloud-GCP&lt;/font>&lt;a class="td-heading-self-link" href="#cloud-gcp" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-GCP/gcp-vision">Github Repo - Cloud-GCP/gcp-vision&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-GCP/geminigenai-js">Github Repo - Cloud-GCP/geminigenai-js&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cloud-groq">&lt;font color=green> Cloud-Groq&lt;/font>&lt;a class="td-heading-self-link" href="#cloud-groq" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-Groq/groq-Cloud">Github Repo - Cloud-Groq/groq-Cloud&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Cloud-Groq/groq-whisper-fast">Github Repo - Cloud-Groq/groq-whisper-fast&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="deepseek">&lt;font color=green> Deepseek&lt;/font>&lt;a class="td-heading-self-link" href="#deepseek" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Deepseek/deepseek_v2_tokenizer">Github Repo - Deepseek/deepseek_v2_tokenizer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="eleutherai">&lt;font color=green> EleutherAI&lt;/font>&lt;a class="td-heading-self-link" href="#eleutherai" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/EleutherAI/neo2.7b">Github Repo - EleutherAI/neo2.7b&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="langchain">&lt;font color=green> Langchain&lt;/font>&lt;a class="td-heading-self-link" href="#langchain" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Langchain/Langchain">Github Repo - Langchain/Langchain&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Langchain/langchain-multimodal">Github Repo - Langchain/langchain-multimodal&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="mlops">&lt;font color=green> MLOps&lt;/font>&lt;a class="td-heading-self-link" href="#mlops" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MLOps/ML-Pipelines">Github Repo - MLOps/ML-Pipelines&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MLOps/Pydantic&amp;#43;logfire">Github Repo - MLOps/Pydantic+logfire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MLOps/cog">Github Repo - MLOps/cog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MLOps/comet.com">Github Repo - MLOps/comet.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MLOps/naptune">Github Repo - MLOps/naptune&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="metaai">&lt;font color=green> MetaAI&lt;/font>&lt;a class="td-heading-self-link" href="#metaai" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MetaAI/finetune-llama2">Github Repo - MetaAI/finetune-llama2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MetaAI/finetune-llama3-8b">Github Repo - MetaAI/finetune-llama3-8b&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MetaAI/ollama">Github Repo - MetaAI/ollama&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MetaAI/ts.llamaindex">Github Repo - MetaAI/ts.llamaindex&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="mistralai">&lt;font color=green> MistralAI&lt;/font>&lt;a class="td-heading-self-link" href="#mistralai" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/MistralAI/MistralAI">Github Repo - MistralAI/MistralAI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="rag">&lt;font color=green> RAG&lt;/font>&lt;a class="td-heading-self-link" href="#rag" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/RAG/RAG">Github Repo - RAG/RAG&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="stabilityai">&lt;font color=green> StabilityAI&lt;/font>&lt;a class="td-heading-self-link" href="#stabilityai" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/StabilityAI/StabilityAI-with-WebUI">Github Repo - StabilityAI/StabilityAI-with-WebUI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="vercel">&lt;font color=green> Vercel&lt;/font>&lt;a class="td-heading-self-link" href="#vercel" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/Vercel/pricing-calculator-with-v0dev">Github Repo - Vercel/pricing-calculator-with-v0dev&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="huggingface">&lt;font color=green> huggingface&lt;/font>&lt;a class="td-heading-self-link" href="#huggingface" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/huggingface/t5-flan-small">Github Repo - huggingface/t5-flan-small&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="lmstudio">&lt;font color=green> lmstudio&lt;/font>&lt;a class="td-heading-self-link" href="#lmstudio" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/lmstudio/qwen1.5-7b">Github Repo - lmstudio/qwen1.5-7b&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="openai">&lt;font color=green> openAI&lt;/font>&lt;a class="td-heading-self-link" href="#openai" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/openAI/open-webui">Github Repo - openAI/open-webui&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/openAI/openAI">Github Repo - openAI/openAI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/openAI/openai-quickstart-python">Github Repo - openAI/openai-quickstart-python&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="otterai">&lt;font color=green> otterai&lt;/font>&lt;a class="td-heading-self-link" href="#otterai" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/otterai/speech-to-text">Github Repo - otterai/speech-to-text&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="quantization">&lt;font color=green> quantization&lt;/font>&lt;a class="td-heading-self-link" href="#quantization" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LLM/quantization/llama">Github Repo - quantization/llama&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="aiml---technology-stack">AI/ML - Technology Stack&lt;a class="td-heading-self-link" href="#aiml---technology-stack" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="api-development">&lt;font color=green> API-Development&lt;/font>&lt;a class="td-heading-self-link" href="#api-development" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/API-Development/Python-Jinja">Github Repo - API-Development/Python-Jinja&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/API-Development/curl">Github Repo - API-Development/curl&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/API-Development/fastapi_example">Github Repo - API-Development/fastapi_example&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="analytics">&lt;font color=green> Analytics&lt;/font>&lt;a class="td-heading-self-link" href="#analytics" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/PowerBI">Github Repo - Analytics/PowerBI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/PyGWalker">Github Repo - Analytics/PyGWalker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/bokeh">Github Repo - Analytics/bokeh&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/pandas">Github Repo - Analytics/pandas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/plotly">Github Repo - Analytics/plotly&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Analytics/tableau">Github Repo - Analytics/tableau&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="audio">&lt;font color=green> Audio&lt;/font>&lt;a class="td-heading-self-link" href="#audio" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Audio/GAN-MusicGeneration">Github Repo - Audio/GAN-MusicGeneration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Audio/Speech-Recognition">Github Repo - Audio/Speech-Recognition&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Audio/Music-Vocal-Separation">Github Repo - Music-Vocal-Separation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cicd">&lt;font color=green> CICD&lt;/font>&lt;a class="td-heading-self-link" href="#cicd" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CICD/Git">Github Repo - CICD/Git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cms-content-management-systems">&lt;font color=green> CMS-Content-Management-Systems&lt;/font>&lt;a class="td-heading-self-link" href="#cms-content-management-systems" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CMS-Content-Management-Systems/Jekyll">Github Repo - CMS-Content-Management-Systems/Jekyll&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cuda">&lt;font color=green> CUDA&lt;/font>&lt;a class="td-heading-self-link" href="#cuda" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CUDA/Cuda-Examples">Github Repo - CUDA/Cuda-Examples&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cv">&lt;font color=green> CV&lt;/font>&lt;a class="td-heading-self-link" href="#cv" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CV/Flower-Prediction">Github Repo - CV/Flower-Prediction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CV/ImageAugmentation">Github Repo - CV/ImageAugmentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CV/ImageProcessing">Github Repo - CV/ImageProcessing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CV/MNIST-Experiments">Github Repo - CV/MNIST-Experiments&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/CV/Object-Detection-InBrowser">Github Repo - CV/Object-Detection-InBrowser&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="db-bigdata">&lt;font color=green> DB-Bigdata&lt;/font>&lt;a class="td-heading-self-link" href="#db-bigdata" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DB-Bigdata/Bigdata-HiveScoop">Github Repo - DB-Bigdata/Bigdata-HiveScoop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DB-Bigdata/Bigdata-mySQL">Github Repo - DB-Bigdata/Bigdata-mySQL&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DB-Bigdata/mongodb">Github Repo - DB-Bigdata/mongodb&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="db-databases">&lt;font color=green> DB-Databases&lt;/font>&lt;a class="td-heading-self-link" href="#db-databases" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DB-Databases/ChromaDB">Github Repo - DB-Databases/ChromaDB&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DB-Databases/PostgreSQL">Github Repo - DB-Databases/PostgreSQL&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="de">&lt;font color=green> DE&lt;/font>&lt;a class="td-heading-self-link" href="#de" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DE/DataCleaning">Github Repo - DE/DataCleaning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DE/Datacollection">Github Repo - DE/Datacollection&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/DE/PyWebScrapping">Github Repo - DE/PyWebScrapping&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="docker">&lt;font color=green> Docker&lt;/font>&lt;a class="td-heading-self-link" href="#docker" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/Dockerfile-golang1.21-alpine">Github Repo - Docker/Dockerfile-golang1.21-alpine&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/Dockerfile-php7.2-apache">Github Repo - Docker/Dockerfile-php7.2-apache&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/Dockerfile-python3.9-slim">Github Repo - Docker/Dockerfile-python3.9-slim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/Dockerfile-tensorflow-latest">Github Repo - Docker/Dockerfile-tensorflow-latest&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/Gemini-Docker-by-Hari">Github Repo - Docker/Gemini-Docker-by-Hari&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/Jupyter-from-Docker-with-GPU">Github Repo - Docker/Jupyter-from-Docker-with-GPU&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/Jupyter-from-Docker-wo-GPU">Github Repo - Docker/Jupyter-from-Docker-wo-GPU&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/bindmount-apps">Github Repo - Docker/bindmount-apps&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/colab-in-docker-in-local">Github Repo - Docker/colab-in-docker-in-local&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/count-program">Github Repo - Docker/count-program&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/demo1">Github Repo - Docker/demo1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Docker/welcome-to-docker">Github Repo - Docker/welcome-to-docker&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="iot">&lt;font color=green> IOT&lt;/font>&lt;a class="td-heading-self-link" href="#iot" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/IOT/BOLTIOT">Github Repo - IOT/BOLTIOT&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="latex">&lt;font color=green> LaTex&lt;/font>&lt;a class="td-heading-self-link" href="#latex" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/LaTex/TexStudio">Github Repo - LaTex/TexStudio&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ml">&lt;font color=green> ML&lt;/font>&lt;a class="td-heading-self-link" href="#ml" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/Classification">Github Repo - ML/Classification&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/Clustering">Github Repo - ML/Clustering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/DataImbalance">Github Repo - ML/DataImbalance&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/ML-Retraining">Github Repo - ML/ML-Retraining&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/ROC">Github Repo - ML/ROC&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/ML/Regression">Github Repo - ML/Regression&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="mlframeworks">&lt;font color=green> MLFrameworks&lt;/font>&lt;a class="td-heading-self-link" href="#mlframeworks" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLFrameworks/TensorFlow-ImageRecognition">Github Repo - MLFrameworks/TensorFlow-ImageRecognition&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLFrameworks/mobilenet-v2">Github Repo - MLFrameworks/mobilenet-v2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLFrameworks/tensorflow-js">Github Repo - MLFrameworks/tensorflow-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/MLFrameworks/tensorflow-lite">Github Repo - MLFrameworks/tensorflow-lite&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="nlp">&lt;font color=green> NLP&lt;/font>&lt;a class="td-heading-self-link" href="#nlp" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/Embedding">Github Repo - NLP/Embedding&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Concepts">Github Repo - NLP/NLP-Concepts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Hindi-Bible">Github Repo - NLP/NLP-Hindi-Bible&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Misc">Github Repo - NLP/NLP-Misc&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-Plugin20Event">Github Repo - NLP/NLP-Plugin20Event&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-SanskritTrans">Github Repo - NLP/NLP-SanskritTrans&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/NLP/NLP-rasa">Github Repo - NLP/NLP-rasa&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="python-automation">&lt;font color=green> Python-Automation&lt;/font>&lt;a class="td-heading-self-link" href="#python-automation" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation/1.Table-Extraction">Github Repo - Python-Automation/1.Table-Extraction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation/2.Automate-The-News">Github Repo - Python-Automation/2.Automate-The-News&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation/3.Excel-Report">Github Repo - Python-Automation/3.Excel-Report&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation/4.WhatsApp">Github Repo - Python-Automation/4.WhatsApp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation/datasets">Github Repo - Python-Automation/datasets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation/spanish">Github Repo - Python-Automation/spanish&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Python-Automation/test-folder">Github Repo - Python-Automation/test-folder&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="pythonicway">&lt;font color=green> PythonicWay&lt;/font>&lt;a class="td-heading-self-link" href="#pythonicway" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/PythonicWay/8things-you-must-know">Github Repo - PythonicWay/8things-you-must-know&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/PythonicWay/ManagingPythonProjects">Github Repo - PythonicWay/ManagingPythonProjects&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/PythonicWay/python_pkg">Github Repo - PythonicWay/python_pkg&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="r-projects">&lt;font color=green> R-Projects&lt;/font>&lt;a class="td-heading-self-link" href="#r-projects" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/R-Projects/R-Demo-Classification">Github Repo - R-Projects/R-Demo-Classification&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="rl">&lt;font color=green> RL&lt;/font>&lt;a class="td-heading-self-link" href="#rl" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/RL/pytennis">Github Repo - RL/pytennis&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="stats">&lt;font color=green> Stats&lt;/font>&lt;a class="td-heading-self-link" href="#stats" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Stats/distributions">Github Repo - Stats/distributions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="timeseries">&lt;font color=green> Timeseries&lt;/font>&lt;a class="td-heading-self-link" href="#timeseries" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Timeseries/TS-Smoothing">Github Repo - Timeseries/TS-Smoothing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Timeseries/TS-multivariate">Github Repo - Timeseries/TS-multivariate&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="transfer-learning">&lt;font color=green> Transfer-Learning&lt;/font>&lt;a class="td-heading-self-link" href="#transfer-learning" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Transfer-Learning/Vision">Github Repo - Transfer-Learning/Vision&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ui-design">&lt;font color=green> UI-Design&lt;/font>&lt;a class="td-heading-self-link" href="#ui-design" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/UI-Design/Motion-Design-for-Web">Github Repo - UI-Design/Motion-Design-for-Web&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="webmobile">&lt;font color=green> Web+Mobile&lt;/font>&lt;a class="td-heading-self-link" href="#webmobile" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Web&amp;#43;Mobile/Android">Github Repo - Web+Mobile/Android&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Web&amp;#43;Mobile/JS">Github Repo - Web+Mobile/JS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Web&amp;#43;Mobile/Java">Github Repo - Web+Mobile/Java&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Web&amp;#43;Mobile/Nodejs">Github Repo - Web+Mobile/Nodejs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Web&amp;#43;Mobile/nginx-web-app">Github Repo - Web+Mobile/nginx-web-app&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="aiml---forked">AI/ML - Forked&lt;a class="td-heading-self-link" href="#aiml---forked" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/dasarpai/100Days-ML">Github Repo - 100Days-ML&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/AgenticAI-agent-zero">Github Repo - AgenticAI-agent-zero&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/automl-mljar-supervised">Github Repo - automl-mljar-supervised&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/automl-pycaret">Github Repo - automl-pycaret&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/automl-tpot">Github Repo - automl-tpot&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/bolt.diy">Github Repo - bolt.diy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/evalml">Github Repo - evalml&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/gcp-python-docs-samples">Github Repo - gcp-python-docs-samples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/GFPGAN">Github Repo - GFPGAN&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/google-ai-edge-litert-samples">Github Repo - google-ai-edge-litert-samples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/google-gemini-cookbook">Github Repo - google-gemini-cookbook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/intel-scikit-learn-intelex">Github Repo - intel-scikit-learn-intelex&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/langchain">Github Repo - langchain&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/langchain-ai-langchain-academy">Github Repo - langchain-ai-langchain-academy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/langgraph">Github Repo - langgraph&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/Learning-Pandas-Second-Edition">Github Repo - Learning-Pandas-Second-Edition&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/LeetCode-js">Github Repo - LeetCode-js&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/microsoft-generative-ai-for-beginners">Github Repo - microsoft-generative-ai-for-beginners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/ML&amp;#43;DL-Code-for-my-YouTube-Channel-Rohan">Github Repo - ML+DL-Code-for-my-YouTube-Channel-Rohan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/mlops-logfire">Github Repo - mlops-logfire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/packages">Github Repo - packages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/Pyramid-Flow">Github Repo - Pyramid-Flow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/Sandhi_Prakarana">Github Repo - Sandhi_Prakarana&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/stanford_alpaca">Github Repo - stanford_alpaca&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/supabase">Github Repo - supabase&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/tensorboard">Github Repo - tensorboard&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/tensorflow">Github Repo - tensorflow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/tensorflow-examples">Github Repo - tensorflow-examples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/tensorflow-tfjs-examples">Github Repo - tensorflow-tfjs-examples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/tensorflow-tfjs-models">Github Repo - tensorflow-tfjs-models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/vector-admin">Github Repo - vector-admin&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/visualization-forks">Github Repo - visualization-forks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dasarpai/browser-use">Github Repo - Browse-use&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="webmobile-app-development---poc-work">&lt;a href="https://github.com/dasarpai/DAI-Techstack-All/tree/main/Web%2BMobile">Web+Mobile App Development - POC Work&lt;/a>&lt;a class="td-heading-self-link" href="#webmobile-app-development---poc-work" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>Android&lt;/li>
+&lt;li>Falcon_Android&lt;/li>
+&lt;li>ImageRecognition&lt;/li>
+&lt;li>Java&lt;/li>
+&lt;li>nodejs&lt;/li>
+&lt;li>react&lt;/li>
+&lt;/ol></description></item></channel></rss>

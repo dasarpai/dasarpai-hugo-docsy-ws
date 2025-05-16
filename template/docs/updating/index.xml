@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update Docsy on Blowfish</title><link>https://localhost:1313/template/docs/updating/</link><description>Recent content in Update Docsy on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><atom:link href="https://localhost:1313/template/docs/updating/index.xml" rel="self" type="application/rss+xml"/><item><title>Update your Docsy Hugo Module</title><link>https://localhost:1313/template/docs/updating/updating-hugo-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/template/docs/updating/updating-hugo-module/</guid><description>&lt;p>When using the Docsy theme as a Hugo Module, updating your theme is really easy.&lt;/p>
+&lt;p>At the command prompt, change to the root directory of your existing site.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> /path/to/my-existing-site
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then invoke hugo&amp;rsquo;s module &lt;code>get&lt;/code> subcommand with the update flag:&lt;/p></description></item><item><title>Update Docsy without Hugo Modules</title><link>https://localhost:1313/template/docs/updating/updating-submodules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/template/docs/updating/updating-submodules/</guid><description>&lt;p>If you aren&amp;rsquo;t using Hugo Modules, depending on how you chose to install Docsy on your existing site, use one of the following two procedures to update your theme.&lt;/p>
+&lt;div
+&lt;pre>&lt;code>class=&amp;quot;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&amp;quot;
+&lt;/code>&lt;/pre>
+&lt;blockquote>
+&lt;/blockquote>
+&lt;p>&amp;lt;span&lt;/p></description></item><item><title>Migrate to Hugo Modules</title><link>https://localhost:1313/template/docs/updating/convert-site-to-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/template/docs/updating/convert-site-to-module/</guid><description>&lt;h2 id="tldr-conversion-for-the-impatient-expert">TL;DR: Conversion for the impatient expert&lt;a class="td-heading-self-link" href="#tldr-conversion-for-the-impatient-expert" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>Run the following from the command line:&lt;/p>
+
+
+
+
+&lt;ul class="nav nav-tabs" id="tabs-0" role="tablist">
+ &lt;li class="nav-item">
+ &lt;button class="nav-link disabled"
+ id="tabs-00-00-tab" data-bs-toggle="tab" data-bs-target="#tabs-00-00" role="tab"
+ aria-controls="tabs-00-00" aria-selected="false">
+ CLI:
+ &lt;/button>
+ &lt;/li>&lt;li class="nav-item">
+ &lt;button class="nav-link active"
+ id="tabs-00-01-tab" data-bs-toggle="tab" data-bs-target="#tabs-00-01" role="tab"
+ data-td-tp-persist="bash" aria-controls="tabs-00-01" aria-selected="true">
+ Unix shell
+ &lt;/button>
+ &lt;/li>&lt;li class="nav-item">
+ &lt;button class="nav-link"
+ id="tabs-00-02-tab" data-bs-toggle="tab" data-bs-target="#tabs-00-02" role="tab"
+ data-td-tp-persist="batchfile" aria-controls="tabs-00-02" aria-selected="false">
+ Windows command line
+ &lt;/button>
+ &lt;/li>
+&lt;/ul>
+
+&lt;div class="tab-content" id="tabs-0-content">
+ &lt;div class="tab-pane fade"
+ id="tabs-00-00" role="tabpanel" aria-labelled-by="tabs-00-00-tab" tabindex="0">
+ &lt;pre tabindex="0">&lt;code>&lt;/code>&lt;/pre>
+ &lt;/div>
+ &lt;div class="tab-pane fade show active"
+ id="tabs-00-01" role="tabpanel" aria-labelled-by="tabs-00-01-tab" tabindex="0">
+ &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Bash" data-lang="Bash">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> /path/to/my-existing-site
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo mod init github.com/me-at-github/my-existing-site
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo mod get github.com/google/docsy@v&lt;span class="o">{{&lt;/span> .Site.Params.version &lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">sed -i &lt;span class="s1">&amp;#39;/theme = \[&amp;#34;docsy&amp;#34;\]/d&amp;#39;&lt;/span> config.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">mv config.toml hugo.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">cat &amp;gt;&amp;gt; hugo.toml &lt;span class="s">&amp;lt;&amp;lt;EOL
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">[module]
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">proxy = &amp;#34;direct&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">[[module.imports]]
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">path = &amp;#34;github.com/google/docsy&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">EOL&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo server&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ &lt;/div>
+ &lt;div class="tab-pane fade"
+ id="tabs-00-02" role="tabpanel" aria-labelled-by="tabs-00-02-tab" tabindex="0">
+ &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Batchfile" data-lang="Batchfile">&lt;span class="line">&lt;span class="cl">&lt;span class="k">cd&lt;/span> my-existing-site
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo mod init github.com/me-at-github/my-existing-site
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo mod get github.com/google/docsy@v{{.Site.Params.version}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">findstr /v /c:&lt;span class="s2">&amp;#34;theme = [\&amp;#34;&lt;/span>docsy\&lt;span class="s2">&amp;#34;]&amp;#34;&lt;/span> config.toml &lt;span class="p">&amp;gt;&lt;/span> hugo.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">(&lt;/span>&lt;span class="k">echo&lt;/span> [module]&lt;span class="se">^
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">&lt;/span>proxy = &lt;span class="s2">&amp;#34;direct&amp;#34;&lt;/span>&lt;span class="se">^
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">&lt;/span>[[module.imports]]&lt;span class="se">^
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">&lt;/span>path = &lt;span class="s2">&amp;#34;github.com/google/docsy&amp;#34;&lt;/span>&lt;span class="p">)&amp;gt;&amp;gt;&lt;/span>hugo.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo server&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;h2 id="detailed-conversion-instructions">Detailed conversion instructions&lt;a class="td-heading-self-link" href="#detailed-conversion-instructions" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="import-the-docsy-theme-module-as-a-dependency-of-your-site">Import the Docsy theme module as a dependency of your site&lt;a class="td-heading-self-link" href="#import-the-docsy-theme-module-as-a-dependency-of-your-site" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>At the command prompt, change to the root directory of your existing site.&lt;/p></description></item></channel></rss>
