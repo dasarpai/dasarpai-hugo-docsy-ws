@@ -1,7 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Feature Engineering on Blowfish</title><link>https://dasarpai.github.io/tags/feature-engineering/</link><description>Recent content in Feature Engineering on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/feature-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Machine Learning Key Concepts</title><link>https://dasarpai.github.io/dsblog/Machine-Learning-Key-Concepts/</link><pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Machine-Learning-Key-Concepts/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg" alt="Exploring Docker and VS Code Integration">&lt;/p>
-&lt;h1 id="machine-learning-key-concepts">Machine Learning Key Concepts&lt;a class="td-heading-self-link" href="#machine-learning-key-concepts" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>In this article Essential Machine Learning Techniques/Concepts are Explained, some of them are are Cross-Validation, Hyperparameter Optimization, Machine learning types and much More.&lt;/p></description></item><item><title>Domain Knowledge in Machine Learning</title><link>https://dasarpai.github.io/dsblog/Domain-Knowledge-in-Machine-Learning/</link><pubDate>Sat, 15 Oct 2022 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Domain-Knowledge-in-Machine-Learning/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg" alt="Domain Knowledge in Machine Learning">&lt;/p>
-&lt;h1 id="domain-knowledge-in-machine-learning">Domain Knowledge in Machine Learning&lt;a class="td-heading-self-link" href="#domain-knowledge-in-machine-learning" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>Let’s say the domain is a restaurant kitchen. A dataset with 3 variables. Two predictors and one predicted. Predictor variables are flour in kilograms and water in liters. A predicted variable is the number of roti/ bread. You know the model will be something like this.&lt;/p></description></item><item><title>EDA &amp; Feature Engineering 101</title><link>https://dasarpai.github.io/dsblog/EDA-Feature-Engineering-101/</link><pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/EDA-Feature-Engineering-101/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6008-EDA101.jpg" alt="EDA &amp;amp; Feature Engineering">&lt;/p>
-&lt;h2 id="what-is-eda">What is EDA?&lt;a class="td-heading-self-link" href="#what-is-eda" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Engineering on </title>
+    <link>https://localhost:1313/tags/feature-engineering/</link>
+    <description>Recent content in Feature Engineering on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/feature-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Machine Learning Key Concepts</title>
+      <link>https://localhost:1313/dsblog/Machine-Learning-Key-Concepts/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Machine-Learning-Key-Concepts/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6152-Machine-Learning-Key-Concepts.jpg&#34; alt=&#34;Exploring Docker and VS Code Integration&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Machine Learning Key Concepts 
+    &lt;div id=&#34;machine-learning-key-concepts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#machine-learning-key-concepts&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In this article Essential Machine Learning Techniques/Concepts are Explained, some of them are are Cross-Validation, Hyperparameter Optimization, Machine learning types and much More.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Domain Knowledge in Machine Learning</title>
+      <link>https://localhost:1313/dsblog/Domain-Knowledge-in-Machine-Learning/</link>
+      <pubDate>Sat, 15 Oct 2022 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Domain-Knowledge-in-Machine-Learning/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6015-domain-knowledge-in-machine-learning.jpg&#34; alt=&#34;Domain Knowledge in Machine Learning&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Domain Knowledge in Machine Learning 
+    &lt;div id=&#34;domain-knowledge-in-machine-learning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#domain-knowledge-in-machine-learning&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Let’s say the domain is a restaurant kitchen. A dataset with 3 variables. Two predictors and one predicted. Predictor variables are flour in kilograms and water in liters.  A predicted variable is the number of roti/ bread. You know the model will be something like this.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>EDA &amp; Feature Engineering 101</title>
+      <link>https://localhost:1313/dsblog/EDA-Feature-Engineering-101/</link>
+      <pubDate>Mon, 24 Aug 2020 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/EDA-Feature-Engineering-101/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6008-EDA101.jpg&#34; alt=&#34;EDA &amp;amp; Feature Engineering&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is EDA? 
+    &lt;div id=&#34;what-is-eda&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-eda&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;EDA means Exploratory Data Analysis. The purpose of data analysis is to explore. Exploration means try to understand what kind of data I have in my hand. Using EDA we try to get the answer to the following questions.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

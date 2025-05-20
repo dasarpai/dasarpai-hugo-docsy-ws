@@ -1,5 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Serverless LLM on Blowfish</title><link>https://dasarpai.github.io/tags/serverless-llm/</link><description>Recent content in Serverless LLM on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/serverless-llm/index.xml" rel="self" type="application/rss+xml"/><item><title>Serverless LLM Deployment Platform</title><link>https://dasarpai.github.io/dsblog/serverless-llm-deployment/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/serverless-llm-deployment/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg" alt="Serverless-LLM-Deployment">&lt;/p>
-&lt;h1 id="serverless-llm-deployment-platform">Serverless LLM Deployment Platform&lt;a class="td-heading-self-link" href="#serverless-llm-deployment-platform" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="microsoft">&lt;strong>Microsoft&amp;rsquo;s Serverless LLM Deployment Platform&lt;/strong>&lt;a class="td-heading-self-link" href="#microsoft" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h3 id="azure-openai-service">&lt;strong>Azure OpenAI Service&lt;/strong>&lt;a class="td-heading-self-link" href="#azure-openai-service" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>Azure OpenAI Service&lt;/strong> is Microsoft&amp;rsquo;s answer to serverless LLM deployment. It provides access to powerful language models, including OpenAI&amp;rsquo;s GPT-4, GPT-3.5, Codex, and DALL-E, within the Azure ecosystem. It simplifies the process of integrating and deploying LLMs in a serverless manner.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless LLM on </title>
+    <link>https://localhost:1313/tags/serverless-llm/</link>
+    <description>Recent content in Serverless LLM on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/serverless-llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Serverless LLM Deployment Platform</title>
+      <link>https://localhost:1313/dsblog/serverless-llm-deployment/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/serverless-llm-deployment/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6185-Serverless-LLM-Deployment.jpg&#34; alt=&#34;Serverless-LLM-Deployment&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Serverless LLM Deployment Platform 
+    &lt;div id=&#34;serverless-llm-deployment-platform&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#serverless-llm-deployment-platform&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Microsoft&amp;rsquo;s Serverless LLM Deployment Platform&lt;/strong&gt; 
+    &lt;div id=&#34;microsoft&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#microsoft&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; 
+    &lt;div id=&#34;azure-openai-service&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#azure-openai-service&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Azure OpenAI Service&lt;/strong&gt; is Microsoft&amp;rsquo;s answer to serverless LLM deployment. It provides access to powerful language models, including OpenAI&amp;rsquo;s GPT-4, GPT-3.5, Codex, and DALL-E, within the Azure ecosystem. It simplifies the process of integrating and deploying LLMs in a serverless manner.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

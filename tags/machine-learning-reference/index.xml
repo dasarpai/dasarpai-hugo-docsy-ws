@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning Reference on Blowfish</title><link>https://dasarpai.github.io/tags/machine-learning-reference/</link><description>Recent content in Machine Learning Reference on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/machine-learning-reference/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Science Cheatsheets</title><link>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/data-science-cheatsheets/</guid><description>&lt;p>&lt;img src="../../assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg" alt="Data Science Cheatsheets">&lt;/p>
-&lt;h1 id="data-science-cheatsheets">Data Science Cheatsheets&lt;a class="td-heading-self-link" href="#data-science-cheatsheets" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>All these cheat sheets are kept at &lt;a href="https://drive.google.com/drive/folders/1dCHf52OYqbB17rXzJODYiBnM8JNneb2_?usp=sharing">my google drive link&lt;/a>. 180+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Reference on </title>
+    <link>https://localhost:1313/tags/machine-learning-reference/</link>
+    <description>Recent content in Machine Learning Reference on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/machine-learning-reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Science Cheatsheets</title>
+      <link>https://localhost:1313/dsblog/data-science-cheatsheets/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/data-science-cheatsheets/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dsresources/dsr103-Data-Science-Cheatsheets.jpg&#34; alt=&#34;Data Science Cheatsheets&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Data Science Cheatsheets 
+    &lt;div id=&#34;data-science-cheatsheets&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#data-science-cheatsheets&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;All these cheat sheets are kept at &lt;a href=&#34;https://drive.google.com/drive/folders/1dCHf52OYqbB17rXzJODYiBnM8JNneb2_?usp=sharing&#34; target=&#34;_blank&#34;&gt;my google drive link&lt;/a&gt;. 180+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

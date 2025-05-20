@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>I/O Peripherals on Blowfish</title><link>https://dasarpai.github.io/tags/i/o-peripherals/</link><description>Recent content in I/O Peripherals on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/i/o-peripherals/index.xml" rel="self" type="application/rss+xml"/><item><title>The Basics of Microprocessor and Microcontroller</title><link>https://dasarpai.github.io/dsblog/basics-of-microprocessor-and-microcontroller/</link><pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/basics-of-microprocessor-and-microcontroller/</guid><description>&lt;p>&lt;img src="../../../assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg" alt="">&lt;/p>
-&lt;h1 id="the-basics-of-microprocessor-and-microcontroller">The Basics of Microprocessor and Microcontroller&lt;a class="td-heading-self-link" href="#the-basics-of-microprocessor-and-microcontroller" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="what-is-a-microcontroller">&lt;strong>What is a Microcontroller?&lt;/strong>&lt;a class="td-heading-self-link" href="#what-is-a-microcontroller" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>A &lt;strong>microcontroller (MCU)&lt;/strong> is a compact, integrated computing device that includes a &lt;strong>processor (CPU), memory (RAM &amp;amp; ROM), and input/output (I/O) peripherals&lt;/strong> on a single chip. It is designed for &lt;strong>specific embedded system applications&lt;/strong> like controlling devices, automation, and real-time processing.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I/O Peripherals on </title>
+    <link>https://localhost:1313/tags/i/o-peripherals/</link>
+    <description>Recent content in I/O Peripherals on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/i/o-peripherals/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Basics of Microprocessor and Microcontroller</title>
+      <link>https://localhost:1313/dsblog/basics-of-microprocessor-and-microcontroller/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/basics-of-microprocessor-and-microcontroller/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6230-Basics-of-Microprocessor-and-Microcontroller.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;The Basics of Microprocessor and Microcontroller 
+    &lt;div id=&#34;the-basics-of-microprocessor-and-microcontroller&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-basics-of-microprocessor-and-microcontroller&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;What is a Microcontroller?&lt;/strong&gt; 
+    &lt;div id=&#34;what-is-a-microcontroller&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-a-microcontroller&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;microcontroller (MCU)&lt;/strong&gt; is a compact, integrated computing device that includes a &lt;strong&gt;processor (CPU), memory (RAM &amp;amp; ROM), and input/output (I/O) peripherals&lt;/strong&gt; on a single chip. It is designed for &lt;strong&gt;specific embedded system applications&lt;/strong&gt; like controlling devices, automation, and real-time processing.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

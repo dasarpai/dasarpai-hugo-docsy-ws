@@ -1,6 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on Blowfish</title><link>https://dasarpai.github.io/tags/research/</link><description>Recent content in Research on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Power of Chinese AI Models</title><link>https://dasarpai.github.io/dsblog/power-of-chinese-ai-models/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/power-of-chinese-ai-models/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg" alt="Power of Chinese AI Models">&lt;/p>
-&lt;h1 id="power-of-chinese-ai-models">Power of Chinese AI Models&lt;a class="td-heading-self-link" href="#power-of-chinese-ai-models" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>After the Deepseek R1 turmoil in the market, there has been a shift in attention towards China. The West is now looking towards the East, and even those in the East are turning their gaze northward.&lt;/p></description></item><item><title>Computer Vision Research Work</title><link>https://dasarpai.github.io/dsblog/computer-vision-research-work/</link><pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/computer-vision-research-work/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg" alt="Computer Vision Research Work&amp;#34;">&lt;/p>
-&lt;h1 id="computer-vision-research-work">Computer Vision Research Work&lt;a class="td-heading-self-link" href="#computer-vision-research-work" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>When we talk about &amp;ldquo;vision&amp;rdquo; capabilities, most people don&amp;rsquo;t understand how complex the brain is in processing the visual spectrum (light signals). What kind of processing happens inside our brain that allows us to understand color, depth, motion, speed, segments, objects, scenes, different kinds of art, drawings, culture, etc.? Until recently, when &amp;ldquo;computer vision&amp;rdquo; became a serious field in AI, only neurology researchers, surgeons, and brain specialists had some insights into these processes. But since 2012 (AlexNet Paper), with new papers being published almost every month, we are constantly learning how far we&amp;rsquo;ve come in computer vision. This article is not only about the chronology of computer vision but also about software engineers, computer scientists, AI engineers, and everyone who wants to understand how their phone performs certain computer visions tasks and becomes intelligent.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on </title>
+    <link>https://localhost:1313/tags/research/</link>
+    <description>Recent content in Research on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Power of Chinese AI Models</title>
+      <link>https://localhost:1313/dsblog/power-of-chinese-ai-models/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/power-of-chinese-ai-models/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6212-Power-of-Chinese-AI-Models.jpg&#34; alt=&#34;Power of Chinese AI Models&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Power of Chinese AI Models 
+    &lt;div id=&#34;power-of-chinese-ai-models&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#power-of-chinese-ai-models&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;After the Deepseek R1 turmoil in the market, there has been a shift in attention towards China. The West is now looking towards the East, and even those in the East are turning their gaze northward.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Vision Research Work</title>
+      <link>https://localhost:1313/dsblog/computer-vision-research-work/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/computer-vision-research-work/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6211-Computer-Vision-Research-Work.jpg&#34; alt=&#34;Computer Vision Research Work&amp;quot;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Computer Vision Research Work 
+    &lt;div id=&#34;computer-vision-research-work&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#computer-vision-research-work&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;When we talk about &amp;ldquo;vision&amp;rdquo; capabilities, most people don&amp;rsquo;t understand how complex the brain is in processing the visual spectrum (light signals). What kind of processing happens inside our brain that allows us to understand color, depth, motion, speed, segments, objects, scenes, different kinds of art, drawings, culture, etc.? Until recently, when &amp;ldquo;computer vision&amp;rdquo; became a serious field in AI, only neurology researchers, surgeons, and brain specialists had some insights into these processes. But since 2012 (AlexNet Paper), with new papers being published almost every month, we are constantly learning how far we&amp;rsquo;ve come in computer vision. This article is not only about the chronology of computer vision but also about software engineers, computer scientists, AI engineers, and everyone who wants to understand how their phone performs certain computer visions tasks and becomes intelligent.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

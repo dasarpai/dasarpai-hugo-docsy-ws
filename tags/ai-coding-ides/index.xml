@@ -1,8 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Coding IDEs on Blowfish</title><link>https://dasarpai.github.io/tags/ai-coding-ides/</link><description>Recent content in AI Coding IDEs on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/ai-coding-ides/index.xml" rel="self" type="application/rss+xml"/><item><title>Future of Programming - Capabilities of AI Coding IDEs</title><link>https://dasarpai.github.io/dsblog/future-of-programming/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/future-of-programming/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6259-future-of-programming.jpg" alt="future-of-programming">&lt;/p>
-&lt;h1 id="future-of-programming">Future of Programming&lt;a class="td-heading-self-link" href="#future-of-programming" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>As of April&amp;rsquo; 2025, AI coding IDEs like windsurf, cursor, cline, copilot etc. has these capabilities.&lt;/p>
-&lt;h2 id="capabilities-of-ai-coding-ides">Capabilities of AI Coding IDEs&lt;a class="td-heading-self-link" href="#capabilities-of-ai-coding-ides" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h3 id="purpose-built-models-">Purpose-Built Models 🧠&lt;a class="td-heading-self-link" href="#purpose-built-models-" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>These are AI models specifically trained or fine-tuned for software development tasks like code generation, debugging, or code understanding.&lt;br>
-&lt;strong>Example:&lt;/strong> Instead of using a general-purpose LLM like GPT-4, Windsurf might use a model trained on GitHub repositories to understand code structure, naming conventions, or common patterns in Python projects.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Coding IDEs on </title>
+    <link>https://localhost:1313/tags/ai-coding-ides/</link>
+    <description>Recent content in AI Coding IDEs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/ai-coding-ides/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Future of Programming - Capabilities of AI Coding IDEs</title>
+      <link>https://localhost:1313/dsblog/future-of-programming/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/future-of-programming/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6259-future-of-programming.jpg&#34; alt=&#34;future-of-programming&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Future of Programming 
+    &lt;div id=&#34;future-of-programming&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#future-of-programming&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;As of April&amp;rsquo; 2025, AI coding IDEs like windsurf, cursor, cline, copilot etc. has these capabilities.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

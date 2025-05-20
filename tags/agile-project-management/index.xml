@@ -1,344 +1,520 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agile Project Management on Blowfish</title><link>https://dasarpai.github.io/tags/agile-project-management/</link><description>Recent content in Agile Project Management on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Wed, 14 Apr 2021 06:37:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/agile-project-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Agile Practices</title><link>https://dasarpai.github.io/pmblog/Agile-Practices/</link><pubDate>Wed, 14 Apr 2021 06:37:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/pmblog/Agile-Practices/</guid><description>&lt;p>SA – Scrum Alliance&lt;br>
-MG – Mountain Goat&lt;br>
-JS – James Shore&lt;br>
-AM – Agile Modelling&lt;br>
-CG – Cunningham&lt;br>
-IXP – Industrial XP&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Sno&lt;/th>
- &lt;th>Agile Practices&lt;/th>
- &lt;th>Reference and Detail of the Practice&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>1&lt;/td>
- &lt;td>Product Vision / Vision Statement&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>2&lt;/td>
- &lt;td>Product Backlog&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>3&lt;/td>
- &lt;td>User Stories&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/User_story">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>4&lt;/td>
- &lt;td>Use Cases&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Use_Case">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>5&lt;/td>
- &lt;td>Usage Scenarios&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>6&lt;/td>
- &lt;td>Personas&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Personas">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>7&lt;/td>
- &lt;td>Planning Poker&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Planning_poker">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>8&lt;/td>
- &lt;td>Requirement Prioritization&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Requirement_prioritization">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>9&lt;/td>
- &lt;td>Design&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>10&lt;/td>
- &lt;td>Architectural Spikes / Spike Solutions&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>11&lt;/td>
- &lt;td>Domain Driven Design&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Domain_driven_design">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>12&lt;/td>
- &lt;td>Emergent Design / Evolutionary Design&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Emergent_Design">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>13&lt;/td>
- &lt;td>CRC Cards&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Class-Responsibility-Collaboration_card">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>14&lt;/td>
- &lt;td>Design by Contract&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Design_by_Contract">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>15&lt;/td>
- &lt;td>System Metaphor&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>16&lt;/td>
- &lt;td>Construction&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>17&lt;/td>
- &lt;td>Coding Style / Coding Guidelines / Coding Standard&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Coding_style">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>18&lt;/td>
- &lt;td>Test Driven Development&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Test-driven_development">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>19&lt;/td>
- &lt;td>Behavior Driven Development&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Behavior_Driven_Development">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>20&lt;/td>
- &lt;td>Pair-Programming / Pairing&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Pair_programming">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>21&lt;/td>
- &lt;td>Refactoring&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Code_refactoring">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>22&lt;/td>
- &lt;td>Collective Code Ownership&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>23&lt;/td>
- &lt;td>Daily Builds / Automated Builds / Ten-Minute Builds&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Daily_build">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>24&lt;/td>
- &lt;td>Continuous Integration&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Continuous_Integration">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>25&lt;/td>
- &lt;td>Code Reviews / Peer Reviews&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Code_review">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>26&lt;/td>
- &lt;td>Software Metrics / Code Metrics &amp;amp; Analysis&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Software_metrics">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>27&lt;/td>
- &lt;td>Source Control / Version Control&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Revision_control">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>28&lt;/td>
- &lt;td>Issue Tracking / Bug Tracking&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Issue_tracking_system">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>29&lt;/td>
- &lt;td>Configuration Management&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Configuration_management">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>30&lt;/td>
- &lt;td>Frequent Delivery / Frequent Releases&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>31&lt;/td>
- &lt;td>Testing&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>32&lt;/td>
- &lt;td>Unit Testing&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Unit_testing">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>33&lt;/td>
- &lt;td>Smoke Testing / Build Verification Test&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Smoke_testing">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>34&lt;/td>
- &lt;td>Integration Testing&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Integration_testing">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>35&lt;/td>
- &lt;td>System Testing&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/System_testing">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>36&lt;/td>
- &lt;td>Exploratory Testing&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Exploratory_testing">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>37&lt;/td>
- &lt;td>Test Automation&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Test_automation">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>38&lt;/td>
- &lt;td>Storytesting / Acceptance Criteria / Acceptance Testing&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Acceptance_testing">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>39&lt;/td>
- &lt;td>Process&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>40&lt;/td>
- &lt;td>Timeboxing / Fixed Sprints / Fixed Iteration Length&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Time_boxing">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>41&lt;/td>
- &lt;td>Release Planning&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>42&lt;/td>
- &lt;td>Iteration Planning / Planning Game / Sprint Planning&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Extreme_Programming_Practices#Planning_game">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>43&lt;/td>
- &lt;td>Sprint Backlog&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>44&lt;/td>
- &lt;td>Task Board&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>45&lt;/td>
- &lt;td>Definition of Done / Done Done&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>46&lt;/td>
- &lt;td>Daily Stand-up Meeting / Daily Scrum&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Stand-up_meeting">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>47&lt;/td>
- &lt;td>Velocity&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>48&lt;/td>
- &lt;td>Sprint Review / Iteration Demo&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>49&lt;/td>
- &lt;td>Value Stream Mapping&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Value_Stream_Mapping">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>50&lt;/td>
- &lt;td>Root Cause Analysis / 5 Whys&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Root_cause_analysis">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>51&lt;/td>
- &lt;td>Burn Down Charts / Burn Up Charts&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Burn_down_chart">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>52&lt;/td>
- &lt;td>Big Visible Charts / Information Radiators&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>53&lt;/td>
- &lt;td>Retrospective / Reflection Workshop&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Retrospective">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>54&lt;/td>
- &lt;td>Organization&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>55&lt;/td>
- &lt;td>Small Team&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>56&lt;/td>
- &lt;td>Cross-Functional Team&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Cross-functional_team">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>57&lt;/td>
- &lt;td>Self-Organizing Team / Scrum Team&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>58&lt;/td>
- &lt;td>Colocated Team / Sitting Together / Common Workspace&lt;/td>
- &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Colocation_%28business%29">Wiki&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>59&lt;/td>
- &lt;td>On-Site Customer / Product Owner&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>60&lt;/td>
- &lt;td>Scrum Master&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>61&lt;/td>
- &lt;td>Sustainable Pace&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>62&lt;/td>
- &lt;td>Move People Around&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>63&lt;/td>
- &lt;td>Scrum of Scrums&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>Agile Project Management for HR Professionals</title><link>https://dasarpai.github.io/pmblog/Agile-Project-Management-for-HR-Professionals/</link><pubDate>Tue, 04 Sep 2018 06:44:57 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/pmblog/Agile-Project-Management-for-HR-Professionals/</guid><description>&lt;p>&lt;img src="../../assets/images/pmblog/1035-Agile-HR-min.png" alt="Agile Project Management for HR Professionals">&lt;/p>
-&lt;h1 id="agile-hr">Agile HR&lt;a class="td-heading-self-link" href="#agile-hr" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="background">Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Being in IT Industry for around 25+ years and played all kinds of roles from a programmer, analyst, leader, manager, delivery head, trainer, coach, and consultant I have observed the relationship between a Project Delivery team and HR team very closely. I have seen a change in this relationship; a change in expectations from each other and changing role of HR within the organizations.&lt;/p></description></item><item><title>PMI ACP Exam</title><link>https://dasarpai.github.io/pmblog/PMI-ACP-Exam/</link><pubDate>Thu, 01 Jun 2017 07:54:47 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/pmblog/PMI-ACP-Exam/</guid><description>&lt;p>&lt;img src="../../assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png" alt="">&lt;/p>
-&lt;h1 id="workshop-topics-of-pmi-acp-exam">Workshop Topics of PMI-ACP Exam&lt;a class="td-heading-self-link" href="#workshop-topics-of-pmi-acp-exam" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>&lt;strong>PMI ACP exam&lt;/strong> expects from a candidate who is appearing for the exam that he must understand the following topics. It is an exhaustive check of the knowledge, skills, and attitude. This is the reason I love and value this certificate most over other methodology specific certification of the Agile world. This is best for the both coach level and the introduction level. At the introduction level, it helps a team in understanding what is agile in nutshell. At the coach level, it helps the coach to select the best-suited practices for any organization’s need.&lt;/p></description></item><item><title>Why Agile is popular in project management?</title><link>https://dasarpai.github.io/pmblog/Why-Agile-is-popular-in-project-management/</link><pubDate>Wed, 31 Aug 2016 14:09:27 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/pmblog/Why-Agile-is-popular-in-project-management/</guid><description>&lt;p>&lt;img src="../../assets/images/pmblog/1018-Why-APM-is-Popular-min.png" alt="">&lt;/p>
-&lt;h1 id="agile-project-management">Agile Project Management&lt;a class="td-heading-self-link" href="#agile-project-management" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>Why Agile is popular in project management? We know that Agile practices are not new but the relevance of these practices in the 21st century is more. There are 200+ agile practices and all practices cannot be applied to all projects. Due to this reason experts have grouped agile practices and named those groups as different methodology. However the origin of &lt;strong>agile project management&lt;/strong> is in the software industry, but in today’s business environment agile project management is suitable for every industry. Agile is a popular choice of organizations because of the perceived value of agile practices.&lt;/p></description></item><item><title>Waterfall Methodology vs Agile</title><link>https://dasarpai.github.io/pmblog/Waterfall-Methodology-vs-Agile/</link><pubDate>Mon, 29 Aug 2016 08:51:34 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/pmblog/Waterfall-Methodology-vs-Agile/</guid><description>&lt;p>&lt;img src="../../assets/images/pmblog/1015-Agile-Waterfall-min.png" alt="">&lt;/p>
-&lt;h1 id="agile-and-waterfall">Agile and Waterfall&lt;a class="td-heading-self-link" href="#agile-and-waterfall" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>The debate of &lt;strong>Waterfall Methodology vs Agile&lt;/strong> is one of the longest running debate in the project management world. In 20th millennia people supporting waterfall were winning and in 21st millennia people supporting agile are winning.&lt;/p></description></item><item><title>PMI-ACP Exam Preparation Books</title><link>https://dasarpai.github.io/pmblog/PMI-ACP-Exam-Preparation-Books/</link><pubDate>Thu, 22 Aug 2013 05:53:35 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/pmblog/PMI-ACP-Exam-Preparation-Books/</guid><description>&lt;p>&lt;img src="../../assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png" alt="">&lt;/p>
-&lt;h2 id="pmi-acp-exam-preparation-books">PMI-ACP Exam Preparation Books&lt;a class="td-heading-self-link" href="#pmi-acp-exam-preparation-books" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Like PMBOK PMI does not have any guide book or standard for the PMI-ACP exam. PMI has published an exam content outline on their website and as per that you are recommended to study the following 11 books thoroughly before you go for the PMI-ACP exam.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Project Management on </title>
+    <link>https://localhost:1313/tags/agile-project-management/</link>
+    <description>Recent content in Agile Project Management on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Wed, 14 Apr 2021 06:37:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/agile-project-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agile Practices</title>
+      <link>https://localhost:1313/pmblog/Agile-Practices/</link>
+      <pubDate>Wed, 14 Apr 2021 06:37:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/pmblog/Agile-Practices/</guid>
+      <description>&lt;p&gt;SA – Scrum Alliance&lt;br&gt;
+MG – Mountain Goat&lt;br&gt;
+JS – James Shore&lt;br&gt;
+AM – Agile Modelling&lt;br&gt;
+CG – Cunningham&lt;br&gt;
+IXP – Industrial XP&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Sno&lt;/th&gt;
+          &lt;th&gt;Agile Practices&lt;/th&gt;
+          &lt;th&gt;Reference and Detail of the Practice&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Product Vision / Vision Statement&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Product Backlog&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;User Stories&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/User_story&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;Use Cases&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Use_Case&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;Usage Scenarios&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;Personas&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Personas&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;Planning Poker&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Planning_poker&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;Requirement Prioritization&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Requirement_prioritization&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;Design&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;Architectural Spikes / Spike Solutions&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td&gt;Domain Driven Design&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Domain_driven_design&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;Emergent Design / Evolutionary Design&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Emergent_Design&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13&lt;/td&gt;
+          &lt;td&gt;CRC Cards&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Class-Responsibility-Collaboration_card&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14&lt;/td&gt;
+          &lt;td&gt;Design by Contract&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Design_by_Contract&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15&lt;/td&gt;
+          &lt;td&gt;System Metaphor&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16&lt;/td&gt;
+          &lt;td&gt;Construction&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17&lt;/td&gt;
+          &lt;td&gt;Coding Style / Coding Guidelines / Coding Standard&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Coding_style&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;Test Driven Development&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;19&lt;/td&gt;
+          &lt;td&gt;Behavior Driven Development&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Behavior_Driven_Development&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;20&lt;/td&gt;
+          &lt;td&gt;Pair-Programming / Pairing&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Pair_programming&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;21&lt;/td&gt;
+          &lt;td&gt;Refactoring&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_refactoring&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;22&lt;/td&gt;
+          &lt;td&gt;Collective Code Ownership&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;23&lt;/td&gt;
+          &lt;td&gt;Daily Builds / Automated Builds / Ten-Minute Builds&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Daily_build&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;Continuous Integration&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_Integration&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;25&lt;/td&gt;
+          &lt;td&gt;Code Reviews / Peer Reviews&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Code_review&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;26&lt;/td&gt;
+          &lt;td&gt;Software Metrics / Code Metrics &amp;amp; Analysis&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Software_metrics&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;27&lt;/td&gt;
+          &lt;td&gt;Source Control / Version Control&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Revision_control&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;28&lt;/td&gt;
+          &lt;td&gt;Issue Tracking / Bug Tracking&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Issue_tracking_system&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;29&lt;/td&gt;
+          &lt;td&gt;Configuration Management&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Configuration_management&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;30&lt;/td&gt;
+          &lt;td&gt;Frequent Delivery / Frequent Releases&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;31&lt;/td&gt;
+          &lt;td&gt;Testing&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;32&lt;/td&gt;
+          &lt;td&gt;Unit Testing&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Unit_testing&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;33&lt;/td&gt;
+          &lt;td&gt;Smoke Testing / Build Verification Test&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Smoke_testing&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;34&lt;/td&gt;
+          &lt;td&gt;Integration Testing&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Integration_testing&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;35&lt;/td&gt;
+          &lt;td&gt;System Testing&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/System_testing&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;36&lt;/td&gt;
+          &lt;td&gt;Exploratory Testing&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Exploratory_testing&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;37&lt;/td&gt;
+          &lt;td&gt;Test Automation&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Test_automation&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;38&lt;/td&gt;
+          &lt;td&gt;Storytesting / Acceptance Criteria / Acceptance Testing&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Acceptance_testing&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;39&lt;/td&gt;
+          &lt;td&gt;Process&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;40&lt;/td&gt;
+          &lt;td&gt;Timeboxing / Fixed Sprints / Fixed Iteration Length&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Time_boxing&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;41&lt;/td&gt;
+          &lt;td&gt;Release Planning&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;42&lt;/td&gt;
+          &lt;td&gt;Iteration Planning / Planning Game / Sprint Planning&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Extreme_Programming_Practices#Planning_game&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;43&lt;/td&gt;
+          &lt;td&gt;Sprint Backlog&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;44&lt;/td&gt;
+          &lt;td&gt;Task Board&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;45&lt;/td&gt;
+          &lt;td&gt;Definition of Done / Done Done&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;46&lt;/td&gt;
+          &lt;td&gt;Daily Stand-up Meeting / Daily Scrum&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Stand-up_meeting&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;47&lt;/td&gt;
+          &lt;td&gt;Velocity&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;48&lt;/td&gt;
+          &lt;td&gt;Sprint Review / Iteration Demo&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;49&lt;/td&gt;
+          &lt;td&gt;Value Stream Mapping&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Value_Stream_Mapping&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;50&lt;/td&gt;
+          &lt;td&gt;Root Cause Analysis / 5 Whys&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Root_cause_analysis&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;51&lt;/td&gt;
+          &lt;td&gt;Burn Down Charts / Burn Up Charts&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Burn_down_chart&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;52&lt;/td&gt;
+          &lt;td&gt;Big Visible Charts / Information Radiators&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;53&lt;/td&gt;
+          &lt;td&gt;Retrospective / Reflection Workshop&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Retrospective&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;54&lt;/td&gt;
+          &lt;td&gt;Organization&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;55&lt;/td&gt;
+          &lt;td&gt;Small Team&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;56&lt;/td&gt;
+          &lt;td&gt;Cross-Functional Team&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cross-functional_team&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;57&lt;/td&gt;
+          &lt;td&gt;Self-Organizing Team / Scrum Team&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;58&lt;/td&gt;
+          &lt;td&gt;Colocated Team / Sitting Together / Common Workspace&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Colocation_%28business%29&#34; target=&#34;_blank&#34;&gt;Wiki&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;59&lt;/td&gt;
+          &lt;td&gt;On-Site Customer / Product Owner&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;60&lt;/td&gt;
+          &lt;td&gt;Scrum Master&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;61&lt;/td&gt;
+          &lt;td&gt;Sustainable Pace&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;62&lt;/td&gt;
+          &lt;td&gt;Move People Around&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;63&lt;/td&gt;
+          &lt;td&gt;Scrum of Scrums&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Agile Project Management for HR Professionals</title>
+      <link>https://localhost:1313/pmblog/Agile-Project-Management-for-HR-Professionals/</link>
+      <pubDate>Tue, 04 Sep 2018 06:44:57 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/pmblog/Agile-Project-Management-for-HR-Professionals/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/pmblog/1035-Agile-HR-min.png&#34; alt=&#34;Agile Project Management for HR Professionals&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile HR 
+    &lt;div id=&#34;agile-hr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agile-hr&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Background 
+    &lt;div id=&#34;background&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#background&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Being in IT Industry for around 25+ years and played all kinds of roles from a programmer, analyst, leader, manager, delivery head, trainer, coach, and consultant I have observed the relationship between a Project Delivery team and HR team very closely. I have seen a change in this relationship; a change in expectations from each other and changing role of HR within the organizations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>PMI ACP Exam</title>
+      <link>https://localhost:1313/pmblog/PMI-ACP-Exam/</link>
+      <pubDate>Thu, 01 Jun 2017 07:54:47 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/pmblog/PMI-ACP-Exam/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Workshop Topics of PMI-ACP Exam 
+    &lt;div id=&#34;workshop-topics-of-pmi-acp-exam&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#workshop-topics-of-pmi-acp-exam&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PMI ACP exam&lt;/strong&gt; expects from a candidate who is appearing for the exam that he must understand the following topics. It is an exhaustive check of the knowledge, skills, and attitude. This is the reason I love and value this certificate most over other methodology specific certification of the Agile world. This is best for the both coach level and the introduction level. At the introduction level, it helps a team in understanding what is agile in nutshell. At the coach level, it helps the coach to select the best-suited practices for any organization’s need.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Why Agile is popular in project management?</title>
+      <link>https://localhost:1313/pmblog/Why-Agile-is-popular-in-project-management/</link>
+      <pubDate>Wed, 31 Aug 2016 14:09:27 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/pmblog/Why-Agile-is-popular-in-project-management/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/pmblog/1018-Why-APM-is-Popular-min.png&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile Project Management 
+    &lt;div id=&#34;agile-project-management&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agile-project-management&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Why Agile is popular in project management? We know that Agile practices are not new but the relevance of these practices in the 21st century is more. There are 200+ agile practices and all practices cannot be applied to all projects. Due to this reason experts have grouped agile practices and named those groups as different methodology. However the origin of &lt;strong&gt;agile project management&lt;/strong&gt; is in the software industry, but in today’s business environment agile project management is suitable for every industry. Agile is a popular choice of organizations because of the perceived value of agile practices.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Waterfall Methodology vs Agile</title>
+      <link>https://localhost:1313/pmblog/Waterfall-Methodology-vs-Agile/</link>
+      <pubDate>Mon, 29 Aug 2016 08:51:34 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/pmblog/Waterfall-Methodology-vs-Agile/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/pmblog/1015-Agile-Waterfall-min.png&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Agile and Waterfall 
+    &lt;div id=&#34;agile-and-waterfall&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#agile-and-waterfall&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;The debate of &lt;strong&gt;Waterfall Methodology vs Agile&lt;/strong&gt; is one of the longest running debate in the project management world. In 20th millennia people supporting waterfall were winning and in 21st millennia people supporting agile are winning.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>PMI-ACP Exam Preparation Books</title>
+      <link>https://localhost:1313/pmblog/PMI-ACP-Exam-Preparation-Books/</link>
+      <pubDate>Thu, 22 Aug 2013 05:53:35 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/pmblog/PMI-ACP-Exam-Preparation-Books/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/pmblog/1030-PMI-ACP-Exam-Prep-min.png&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;PMI-ACP Exam Preparation Books 
+    &lt;div id=&#34;pmi-acp-exam-preparation-books&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pmi-acp-exam-preparation-books&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Like PMBOK PMI does not have any guide book or standard for the PMI-ACP exam. PMI has published an exam content outline on their website and as per that you are recommended to study the following 11 books thoroughly before you go for the PMI-ACP exam.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Licensing on Blowfish</title><link>https://dasarpai.github.io/tags/licensing/</link><description>Recent content in Licensing on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/licensing/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations</title><link>https://dasarpai.github.io/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link><pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg" alt="">&lt;/p>
-&lt;h1 id="navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations">Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations&lt;a class="td-heading-self-link" href="#navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Software products, at their core, are solutions designed to address specific problems. Just as there are many ways to solve a problem in life, there are numerous ways to design software to tackle the same issue. In software development, you don’t always have to reinvent the wheel—open-source code and third-party APIs provide a wealth of solutions that can be integrated into your project. These resources, developed by various organizations, teams, and individuals over time, can range from generic solutions to highly specialized ones. However, integrating them into your product requires careful thought and consideration.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Licensing on </title>
+    <link>https://localhost:1313/tags/licensing/</link>
+    <description>Recent content in Licensing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/licensing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations</title>
+      <link>https://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/navigating-open-source-licensing-in-the-age-of-ai/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6201-Navigating-Open-Source-Licensing-in-the-Age-of-AI.jpg&#34; alt=&#34;&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Navigating Open-Source Licensing in the Age of AI: Challenges and Considerations 
+    &lt;div id=&#34;navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#navigating-open-source-licensing-in-the-age-of-ai-challenges-and-considerations&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Software products, at their core, are solutions designed to address specific problems. Just as there are many ways to solve a problem in life, there are numerous ways to design software to tackle the same issue. In software development, you don’t always have to reinvent the wheel—open-source code and third-party APIs provide a wealth of solutions that can be integrated into your project. These resources, developed by various organizations, teams, and individuals over time, can range from generic solutions to highly specialized ones. However, integrating them into your product requires careful thought and consideration.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

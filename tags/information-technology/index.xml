@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Information Technology on Blowfish</title><link>https://dasarpai.github.io/tags/information-technology/</link><description>Recent content in Information Technology on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/information-technology/index.xml" rel="self" type="application/rss+xml"/><item><title>Types of Technologies</title><link>https://dasarpai.github.io/dsblog/Types-of-Technologies/</link><pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Types-of-Technologies/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6052-Types-of-Technologies.jpg" alt="Types of Technologies">&lt;/p>
-&lt;h1 id="how-many-types-of-technologies">How Many Types of Technologies?&lt;a class="td-heading-self-link" href="#how-many-types-of-technologies" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Often we hear various jargon of different types of technologies and sometimes during the discussion, it becomes a mouthful of technologies to digest the meaning of these. Many times these technologies are overlapping each other but the speaker mentions that in a certain context. Today I thought let me list the possible technologies which we hear about very frequently. Nowadays AI balloon is flying everywhere and all over, it is impacting our society, business, government, social behavior, lifestyle, and whatnot. In light of this, we find many new technologies are popping up or modifying the way of doing existing businesses. In the interest of brevity, I am keeping a one-liner kind of definition. In the coming time, based on the need I will expand on each topic. Each technology mentioned below deserves a full-length article to understand the possibilities around that and its impact on our businesses, societies, etc.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Technology on </title>
+    <link>https://localhost:1313/tags/information-technology/</link>
+    <description>Recent content in Information Technology on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/information-technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Types of Technologies</title>
+      <link>https://localhost:1313/dsblog/Types-of-Technologies/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Types-of-Technologies/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6052-Types-of-Technologies.jpg&#34; alt=&#34;Types of Technologies&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;How Many Types of Technologies? 
+    &lt;div id=&#34;how-many-types-of-technologies&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#how-many-types-of-technologies&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Often we hear various jargon of different types of technologies and sometimes during the discussion, it becomes a mouthful of technologies to digest the meaning of these. Many times these technologies are overlapping each other but the speaker mentions that in a certain context. Today I thought let me list the possible technologies which we hear about very frequently. Nowadays AI balloon is flying everywhere and all over, it is impacting our society, business, government, social behavior, lifestyle, and whatnot. In light of this, we find many new technologies are popping up or modifying the way of doing existing businesses. In the interest of brevity, I am keeping a one-liner kind of definition. In the coming time, based on the need I will expand on each topic. Each technology mentioned below deserves a full-length article to understand the possibilities around that and its impact on our businesses, societies, etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

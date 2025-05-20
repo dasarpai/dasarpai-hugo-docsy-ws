@@ -1,33 +1,123 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BERT on Blowfish</title><link>https://dasarpai.github.io/tags/bert/</link><description>Recent content in BERT on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/bert/index.xml" rel="self" type="application/rss+xml"/><item><title>Variations of Language Model in Huggingface</title><link>https://dasarpai.github.io/dsblog/Variations-of-Language-Model-in-Huggingface/</link><pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Variations-of-Language-Model-in-Huggingface/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg" alt="Variations-of-LanguageModel">&lt;/p>
-&lt;h1 id="variations-of-language-model-in-huggingface">Variations of Language Model in Huggingface&lt;a class="td-heading-self-link" href="#variations-of-language-model-in-huggingface" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="what-the-model-variable-in-huggingface">What the Model variable in Huggingface?&lt;a class="td-heading-self-link" href="#what-the-model-variable-in-huggingface" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>We know base moels like BERT, T5, GPT2, GPT3 etc are developed by researchers working with different companies. But when we look into huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?&lt;/p></description></item><item><title>Topic Modeling with BERT</title><link>https://dasarpai.github.io/dsblog/topic-modeling-with-bert/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/topic-modeling-with-bert/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg" alt="Topic Modeling with BERT">&lt;/p>
-&lt;h1 id="topic-modeling-with-bert">Topic Modeling with BERT&lt;a class="td-heading-self-link" href="#topic-modeling-with-bert" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>Key steps in BERTopic modelling are as following.&lt;/p>
-&lt;ul>
-&lt;li>Use &amp;ldquo;Sentence Embedding&amp;rdquo; models to embed the sentences of the article&lt;/li>
-&lt;li>Reduce the dimensionality of embedding using UMAP&lt;/li>
-&lt;li>Cluster these documents (reduced dimensions) using HDBSAN&lt;/li>
-&lt;li>Use c-TF-IDF extract keywords, their frequency and IDF for each cluster.&lt;/li>
-&lt;li>MMR: Maximize Candidate Relevance. How many words in a topic can represent the topic?&lt;/li>
-&lt;li>Intertopic Distance Map&lt;/li>
-&lt;li>Use similarity matrix (heatmap), dandogram (hierarchical map), to visualize the topics and key_words.&lt;/li>
-&lt;li>Traction of topic over time period. Some may be irrelevant and for other traction may be increasing or decreasing.&lt;/li>
-&lt;/ul>
-&lt;h1 id="installation">Installation&lt;a class="td-heading-self-link" href="#installation" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Installation, with sentence-transformers, can be done using pypi:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pip&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">bertopic&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># If you want to install BERTopic with other embedding models, you can choose one of the following:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Choose an embedding backend&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pip&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">bertopic&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">flair&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">gensim&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">spacy&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">use&lt;/span>&lt;span class="p">]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Topic modeling with images&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">pip&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">bertopic&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">vision&lt;/span>&lt;span class="p">]&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="supported-topic-modelling-techniques">Supported Topic Modelling Techniques&lt;a class="td-heading-self-link" href="#supported-topic-modelling-techniques" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>BERTopic supports all kinds of topic modeling techniques as below.&lt;/p></description></item><item><title>What is LLM</title><link>https://dasarpai.github.io/dsblog/what-is-llm/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/what-is-llm/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6087-What-is-LLM.jpg" alt="What is LLM">&lt;/p>
-&lt;h1 id="what-is-large-language-model">What is Large Language Model&lt;a class="td-heading-self-link" href="#what-is-large-language-model" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>LLM stands for &lt;strong>Large Language Model&lt;/strong>. It is a type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. This allows LLMs to learn the statistical relationships between words and phrases, and to generate text that is similar to the text that they were trained on.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BERT on </title>
+    <link>https://localhost:1313/tags/bert/</link>
+    <description>Recent content in BERT on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/bert/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Variations of Language Model in Huggingface</title>
+      <link>https://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Variations-of-Language-Model-in-Huggingface/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6138-Variations-of-Language-Model-in-Huggingface.jpg&#34; alt=&#34;Variations-of-LanguageModel&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Variations of Language Model in Huggingface 
+    &lt;div id=&#34;variations-of-language-model-in-huggingface&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#variations-of-language-model-in-huggingface&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What the Model variable in Huggingface? 
+    &lt;div id=&#34;what-the-model-variable-in-huggingface&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-the-model-variable-in-huggingface&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;We know base moels like BERT, T5, GPT2, GPT3 etc are developed by researchers working with different companies. But when we look into huggingface model repository we see other models like GPT2LMHeadModel, GPT2ForSequenceClassification, etc what are these?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Topic Modeling with BERT</title>
+      <link>https://localhost:1313/dsblog/topic-modeling-with-bert/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/topic-modeling-with-bert/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6105-Topic-Modeling-with-BERT.jpg&#34; alt=&#34;Topic Modeling with BERT&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Topic Modeling with BERT 
+    &lt;div id=&#34;topic-modeling-with-bert&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#topic-modeling-with-bert&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Key steps in BERTopic modelling are as following.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is LLM</title>
+      <link>https://localhost:1313/dsblog/what-is-llm/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/what-is-llm/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6087-What-is-LLM.jpg&#34; alt=&#34;What is LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is Large Language Model 
+    &lt;div id=&#34;what-is-large-language-model&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-large-language-model&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;LLM stands for &lt;strong&gt;Large Language Model&lt;/strong&gt;. It is a type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. This allows LLMs to learn the statistical relationships between words and phrases, and to generate text that is similar to the text that they were trained on.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PhD Journey on Blowfish</title><link>https://dasarpai.github.io/tags/phd-journey/</link><description>Recent content in PhD Journey on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/phd-journey/index.xml" rel="self" type="application/rss+xml"/><item><title>My Journey from Master to PhD in Data Science and AI</title><link>https://dasarpai.github.io/dsblog/journey-from-master-to-phd/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/journey-from-master-to-phd/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg" alt="My Journey from Master to PhD in Data Science and AI">&lt;/p>
-&lt;h1 id="my-journey-from-master-to-phd-in-data-science-and-ai">My Journey from Master to PhD in Data Science and AI&lt;a class="td-heading-self-link" href="#my-journey-from-master-to-phd-in-data-science-and-ai" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>I have been in software development between 1993 to 2009. Some of these years were in senior leadership roles in delivery management, project management, CMMI, ISO, ISMS, PMO, etc. In 2010 I moved into project management training and consulting. In 2018, I was considering going back to technology but this time I wanted to pick up a completely new stack of technology. I decided I would move into Data Science and AI. I knew AI as much as any typical software development person in senior management knew about this. It means I was highly confident that I could pick this up quickly. On top of that lots of content is available on the internet, many YouTube channels, and many courses are available. I thought it should be a cakewalk for me. I started learning this technology in my own way in my committed free time. Within 5-6 months after lots of study I started realizing this was the way to get the knowledge but it could not help me get confident to solve the problem. The more I learned, the more I felt that I did not know how much I needed to learn or how far I needed to go.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD Journey on </title>
+    <link>https://localhost:1313/tags/phd-journey/</link>
+    <description>Recent content in PhD Journey on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/phd-journey/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Journey from Master to PhD in Data Science and AI</title>
+      <link>https://localhost:1313/dsblog/journey-from-master-to-phd/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/journey-from-master-to-phd/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6100-Journey-from-MS-to-Phd.jpg&#34; alt=&#34;My Journey from Master to PhD in Data Science and AI&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;My Journey from Master to PhD in Data Science and AI 
+    &lt;div id=&#34;my-journey-from-master-to-phd-in-data-science-and-ai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-journey-from-master-to-phd-in-data-science-and-ai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;I have been in software development between 1993 to 2009. Some of these years were in senior leadership roles in delivery management, project management, CMMI, ISO, ISMS, PMO, etc. In 2010 I moved into project management training and consulting. In 2018, I was considering going back to technology but this time I wanted to pick up a completely new stack of technology. I decided I would move into Data Science and AI. I knew AI as much as any typical software development person in senior management knew about this. It means I was highly confident that I could pick this up quickly. On top of that lots of content is available on the internet, many YouTube channels, and many courses are available. I thought it should be a cakewalk for me. I started learning this technology in my own way in my committed free time. Within 5-6 months after lots of study I started realizing this was the way to get the knowledge but it could not help me get confident to solve the problem. The more I learned, the more I felt that I did not know how much I needed to learn or how far I needed to go.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

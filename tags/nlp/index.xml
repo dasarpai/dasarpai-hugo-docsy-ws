@@ -1,204 +1,548 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NLP on Blowfish</title><link>https://dasarpai.github.io/tags/nlp/</link><description>Recent content in NLP on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Tokenization and Embedding in NLP</title><link>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</link><pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/exploring-tokenization-and-embedding-in-nlp/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg" alt="Exploring Tokenization and Embedding in NLP">&lt;/p>
-&lt;h1 id="exploring-tokenization-and-embedding-in-nlp">Exploring Tokenization and Embedding in NLP&lt;a class="td-heading-self-link" href="#exploring-tokenization-and-embedding-in-nlp" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in the question answer format and addressing following questions.&lt;/p></description></item><item><title>OpenAI 12 Days 2024 Announcements</title><link>https://dasarpai.github.io/dsblog/OpenAI-12-Days-2024-Announcements/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/OpenAI-12-Days-2024-Announcements/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg" alt="OpenAI 12 Days 2024 Announcements">&lt;/p>
-&lt;h1 id="openai-12-days-2024-announcements">OpenAI 12 Days 2024 Announcements&lt;a class="td-heading-self-link" href="#openai-12-days-2024-announcements" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="day-1--announcements">&lt;a href="https://www.youtube.com/watch?v=iBfQTnA2n2s">Day 1- Announcements&lt;/a>&lt;a class="td-heading-self-link" href="#day-1--announcements" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;strong>Launch of o1 Full Version&lt;/strong>: This is an upgraded model designed to be faster, smarter, and multimodal, responding better to instructions. It shows significant improvement over its predecessor, especially in coding and problem-solving tasks.&lt;/p></description></item><item><title>Framework for using LLM</title><link>https://dasarpai.github.io/dsblog/Framework-for-using-LLM/</link><pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Framework-for-using-LLM/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg" alt="Framework for using LLM">&lt;/p>
-&lt;h1 id="maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types">Maximizing Your LLM Project: A Comprehensive Guide to Effective Prompt Types&lt;a class="td-heading-self-link" href="#maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>When working on a project that leverages Large Language Models (LLMs), selecting the right model and prompt type can be daunting. With thousands of models, hundreds of tasks, and numerous output formats available, it&amp;rsquo;s easy to feel overwhelmed. This article aims to simplify your decision-making process by outlining the major types of prompts you can utilize to enhance your project’s effectiveness.&lt;/p></description></item><item><title>AI Imperialism: Western Dominance and the Future of Global Technology</title><link>https://dasarpai.github.io/dsblog/AI-Imperialism/</link><pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/AI-Imperialism/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6191-AI-Imperialism.jpg" alt="AI Imperialism">&lt;/p>
-&lt;h1 id="ai-imperialism-western-dominance-and-the-future-of-global-technology">AI Imperialism: Western Dominance and the Future of Global Technology&lt;a class="td-heading-self-link" href="#ai-imperialism-western-dominance-and-the-future-of-global-technology" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>In the rapidly evolving landscape of artificial intelligence (AI), the emergence of transformer models has marked a significant milestone. Among these, OpenAI&amp;rsquo;s GPT-3 stands out as a groundbreaking achievement, yet its dominance raises critical questions about the concentration of power, legal ambiguities, and global technological equity. This article delves into the phenomenon of AI imperialism, exploring how Western dominance shapes the future of global technology and the implications for developing nations.&lt;/p></description></item><item><title>Visualizing Transformers and Attention</title><link>https://dasarpai.github.io/dsblog/Visualizing-transformers-and-attention/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Visualizing-transformers-and-attention/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg" alt="Visualizing transformers and attention">&lt;/p>
-&lt;h1 id="visualizing-transformers-and-attention">Visualizing Transformers and Attention&lt;a class="td-heading-self-link" href="#visualizing-transformers-and-attention" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href="../../dsblog/transformers-demystified-a-step-by-step-guide">here&lt;/a>&lt;/p></description></item><item><title>6102#Langchain Summary and Capablities</title><link>https://dasarpai.github.io/dsblog/6102%23Langchain-Summary-and-Capablities/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/6102%23Langchain-Summary-and-Capablities/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6132-6102#Langchain-Summary-and-Capablities.jpg" alt="6102#Langchain-Summary-and-Capablities">&lt;/p>
-&lt;h1 id="6102langchain-summary-and-capablities">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="6102langchain-summary-and-capablities-1">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="6102langchain-summary-and-capablities-2">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="6102langchain-summary-and-capablities-3">6102#Langchain Summary and Capablities&lt;a class="td-heading-self-link" href="#6102langchain-summary-and-capablities-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>#6102#Langchain Summary and Capablities&lt;/p>
-&lt;h1 id="langchain-summary-and-capabilities">LangChain Summary and Capabilities&lt;a class="td-heading-self-link" href="#langchain-summary-and-capabilities" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;ul>
-&lt;li>12 chat models&lt;/li>
-&lt;li>100+ document loaders&lt;/li>
-&lt;li>50+ LLM&lt;/li>
-&lt;li>Numerous Retrievers&lt;/li>
-&lt;li>Numerous Embedding Models,&lt;/li>
-&lt;li>Numerous Vector Stores&lt;/li>
-&lt;li>Numerous Tools&lt;/li>
-&lt;/ul></description></item><item><title>6104#Applications of RAG</title><link>https://dasarpai.github.io/dsblog/6104%23Applications-of-RAG/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/6104%23Applications-of-RAG/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6133-6104#Applications-of-RAG.jpg" alt="6104#Applications-of-RAG">&lt;/p>
-&lt;h1 id="6104applications-of-rag">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="6104applications-of-rag-1">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="6104applications-of-rag-2">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="6104applications-of-rag-3">6104#Applications of RAG&lt;a class="td-heading-self-link" href="#6104applications-of-rag-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>#6104#Applications of RAG&lt;/p>
-&lt;h1 id="applications-of-rag">Applications of RAG&lt;a class="td-heading-self-link" href="#applications-of-rag" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>n e-commerce company wants to empower their product-return handlers to have interactive &amp;ldquo;Chats&amp;rdquo; with policy documents to expedite refund decisions. In order to harness the power of longer contexts, they&amp;rsquo;d have to train (not merely fine-tune) models on their exclusive data. This could be very costly and time-consuming affair, even with just 2k context window.&lt;/p></description></item><item><title>Basics of Word Embedding</title><link>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</link><pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/basics-of-word-embedding/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg" alt="Basics of Word Embedding">&lt;/p>
-&lt;h1 id="basics-of-word-embedding">Basics of Word Embedding&lt;a class="td-heading-self-link" href="#basics-of-word-embedding" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="what-is-context-target-and-window">What is Context, target and window?&lt;a class="td-heading-self-link" href="#what-is-context-target-and-window" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>The &amp;ldquo;context&amp;rdquo; word is the surrounding word.&lt;/li>
-&lt;li>The &amp;ldquo;target&amp;rdquo; word is the middle word.&lt;/li>
-&lt;li>The &amp;ldquo;window distance&amp;rdquo; is number of words (including) between context words and target word. Window distance 1 means, one word surronding the target, one left side context word, one right context word. Two window distance means 2 words left and 2 words right.&lt;/li>
-&lt;/ul>
-&lt;p>Let&amp;rsquo;s take a sentence&lt;/p></description></item><item><title>ML Model Respository from Pinto0309</title><link>https://dasarpai.github.io/dsblog/ML-Model-Repository-from-Pinto0309/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/ML-Model-Repository-from-Pinto0309/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg" alt="ML Model Respository from Pinto0309">&lt;/p>
-&lt;h1 id="ml-model-repository-from-pinto0309">ML Model Repository from Pinto0309&lt;a class="td-heading-self-link" href="#ml-model-repository-from-pinto0309" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p></description></item><item><title>Comprehensive Glossary of LLM, Deep Learning, NLP, and CV Terminology</title><link>https://dasarpai.github.io/dsblog/Comprehensive-Glossary-of-LLM/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Comprehensive-Glossary-of-LLM/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg" alt="Comprehensive Glossary of LLM">&lt;/p>
-&lt;h1 id="comprehensive-glossary-of-llm">Comprehensive Glossary of LLM&lt;a class="td-heading-self-link" href="#comprehensive-glossary-of-llm" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug'23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.&lt;/p></description></item><item><title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title><link>https://dasarpai.github.io/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link><pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg" alt="Pretrained Language Models for Text Generation">&lt;/p>
-&lt;p>&lt;strong>Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong>&lt;br>
-Typer of Paper:- Survey Paper &lt;br>
-&lt;a href="https://arxiv.org/abs/2105.10311">Paper URL&lt;/a>&lt;br>
-Paper title of the citations mentioned can be found at &lt;a href="../../dsblog/aip">AI Papers with Heading&lt;/a>. Use citation code to locate.&lt;/p></description></item><item><title>NLP Tasks</title><link>https://dasarpai.github.io/dsblog/nlp-tasks/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/nlp-tasks/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6085-NLP-Tasks.jpg" alt="NLP Tasks">&lt;/p>
-&lt;h1 id="nlp-tasks">NLP Tasks&lt;a class="td-heading-self-link" href="#nlp-tasks" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction">Introduction&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Processing words of any language and driving some meaning from these is as old as the human language. Recently, AI momentum is taking on many of these language-processing tasks. Here is the summary of these NLP tasks, this list is continuously growing. Researchers keep creating a dataset for these tasks in different languages. Other researchers keep devising new ways to solve these tasks with better performance. They come up with a new architecture, a new set of hyperparameters, a new pipeline, etc. In summary, as of today, there are around 55 tasks. Hundreds of datasets and research papers exist around these. You can check on &lt;a href="https://paperswithcode.com/">PaperWithCode&lt;/a> or &lt;a href="https://huggingface.co/">Hggingface&lt;/a>&lt;/p></description></item><item><title>Embedding with FastText</title><link>https://dasarpai.github.io/dsblog/Embedding-with-FastText/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Embedding-with-FastText/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6073-Embedding-with-FastText.jpg" alt="Embedding with FastText">&lt;/p>
-&lt;h1 id="embedding-with-fasttext">Embedding with FastText&lt;a class="td-heading-self-link" href="#embedding-with-fasttext" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>&lt;a href="../../dsblog/what-is-nlp#what-is-embedding">What is Embedding?&lt;/a> &lt;br>
-&lt;a href="../../dsblog/what-is-nlp#what-are-different-embedding-types">What are Different Types of Embedding&lt;/a>&lt;/p>
-&lt;h2 id="what-is-fasttext">What is FastText?&lt;a class="td-heading-self-link" href="#what-is-fasttext" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for &lt;strong>training&lt;/strong> and &lt;strong>using word embeddings&lt;/strong>.&lt;/p></description></item><item><title>Major LLM Developers Shaping the AI Landscape</title><link>https://dasarpai.github.io/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg" alt="Major LLM Developers Shaping the AI Landscape">&lt;/p>
-&lt;h1 id="major-llm-developers-shaping-the-ai-landscape">Major LLM Developers Shaping the AI Landscape&lt;a class="td-heading-self-link" href="#major-llm-developers-shaping-the-ai-landscape" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>&lt;strong>From Text to Intelligence: Major LLM Developers Shaping the AI Landscape&lt;/strong>&lt;/p>
-&lt;h2 id="introduction">Introduction:&lt;a class="td-heading-self-link" href="#introduction" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>The world of Artificial Intelligence (AI) has experienced an exponential growth, fueled by groundbreaking research and the efforts of innovative developers. Among the key players, Large Language Model (LLM) developers have taken center stage, creating powerful language models that have revolutionized natural language processing and understanding. In this article, we delve into the major LLM developers, their key contributions.&lt;/p></description></item><item><title>A Guide to Model Fine Tuning with OpenAI API</title><link>https://dasarpai.github.io/dsblog/Model-Fine-Tuning-with-OpenAI-API/</link><pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Model-Fine-Tuning-with-OpenAI-API/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg" alt="A Guide to Model Fine Tuning with OpenAI API">&lt;/p>
-&lt;h1 id="a-guide-to-model-fine-tuning-with-openai-api">A Guide to Model Fine Tuning with OpenAI API&lt;a class="td-heading-self-link" href="#a-guide-to-model-fine-tuning-with-openai-api" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="account-setup-and-api-key-generation">Account Setup and API Key Generation&lt;a class="td-heading-self-link" href="#account-setup-and-api-key-generation" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Go to &lt;a href="https://platform.openai.com/">openai&lt;/a>, sign up there and create your account. After than you need to create an API using &lt;a href="https://platform.openai.com/account/api-keys">API Key Link&lt;/a>. You need to copy the api key and you replace the text below &amp;lt;OPENAI_API_KEY&amp;gt;. Being string the key should be within &amp;ldquo;&amp;rdquo;. Keeping security in mind it is highly recommended that you do not put the API in the code file. Keep it at some secured place and read that file to fetch the API key. OpenAI gives you USD 5 free usage. After that you need to pay. For that you need to setup your credit card details on their system. They are very fair on the charges, just keep track of your usage. If you don&amp;rsquo;t use any of their service they won&amp;rsquo;t charge anything for just having account with them. While doing any model finetuning or prediction openai tells you how much they will charge you for that particular command. My suggestion is if you are just experimenting then keep your dataset small so that you can manage your learning with USD 10-20.&lt;/p></description></item><item><title>Capabilities of AI Transformers</title><link>https://dasarpai.github.io/dsblog/Capabilities-of-AI-Transformers/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Capabilities-of-AI-Transformers/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg" alt="Capabilities of AI Transformers">&lt;/p>
-&lt;h1 id="capabilities-of-ai-transformers">Capabilities of AI Transformers&lt;a class="td-heading-self-link" href="#capabilities-of-ai-transformers" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="background">Background&lt;a class="td-heading-self-link" href="#background" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23Deep-Learning-Questions/</link><pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23Deep-Learning-Questions/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6128-#Deep-Learning-Questions.jpg" alt="#Deep-Learning-Questions">&lt;/p>
-&lt;h1 id="deep-learning-questions">#Deep Learning Questions&lt;a class="td-heading-self-link" href="#deep-learning-questions" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="deep-learning-questions-1">#Deep Learning Questions&lt;a class="td-heading-self-link" href="#deep-learning-questions-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="deep-learning-questions-2">#Deep Learning Questions&lt;a class="td-heading-self-link" href="#deep-learning-questions-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="deep-learning-questions-3">#Deep Learning Questions&lt;a class="td-heading-self-link" href="#deep-learning-questions-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##Deep Learning Questions&lt;/p>
-&lt;p>&lt;a href="https://www.projectpro.io/article/generative-adversarial-networks-gan-based-projects-to-work-on/530">https://www.projectpro.io/article/generative-adversarial-networks-gan-based-projects-to-work-on/530&lt;/a>&lt;/p>
-&lt;p>What is the difference between Machine Learning and Deep Learning?
-What is a perceptron?
-How is Deep Learning better than Machine Learning?
-What are some of the most used applications of Deep Learning?
-What is the meaning of overfitting?
-What are activation functions?
-Why is Fourier transform used in Deep Learning?
-What are the steps involved in training a perception in Deep Learning?
-What is the use of the loss function?
-What are some of the Deep Learning frameworks or tools that you have used?
-What is the use of the swish function?
-What are autoencoders?
-What are the steps to be followed to use the gradient descent algorithm?
-Differentiate between a single-layer perceptron and a multi-layer perceptron.
-What is data normalization in Deep Learning?
-What is forward propagation?
-What is backpropagation?
-What are hyperparameters in Deep Learning?
-How can hyperparameters be trained in neural networks?
-What is the meaning of dropout in Deep Learning?
-What are tensors?
-What is the meaning of model capacity in Deep Learning?
-What is a Boltzmann machine?
-What are some of the advantages of using TensorFlow?
-What is a computational graph in Deep Learning?
-What is a CNN?
-What are the various layers present in a CNN?
-What is an RNN in Deep Learning?
-What is a vanishing gradient when using RNNs?
-What is exploding gradient descent in Deep Learning?
-What is the use of LSTM?
-Where are autoencoders used?
-What are the types of autoencoders?
-What is a Restricted Boltzmann Machine?
-What are some of the limitations of Deep Learning?
-What are the variants of gradient descent?
-Why is mini-batch gradient descent so popular?
-What are deep autoencoders?
-Why is the Leaky ReLU function used in Deep Learning?
-What are some of the examples of supervised learning algorithms in Deep Learning?
-What are some of the examples of unsupervised learning algorithms in Deep Learning?
-Can we initialize the weights of a network to start from zero?
-What is the meaning of valid padding and same padding in CNN?
-What are some of the applications of transfer learning in Deep Learning?
-How is the transformer architecture better than RNNs in Deep Learning?
-What are the steps involved in the working of an LSTM network?
-What are the elements in TensorFlow that are programmable?
-What is the meaning of bagging and boosting in Deep Learning?
-What are generative adversarial networks (GANs)?
-Why are generative adversarial networks (GANs) so popular?&lt;/p></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23Ensemble-Learning/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23Ensemble-Learning/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6124-#Ensemble-Learning.jpg" alt="#Ensemble-Learning">&lt;/p>
-&lt;h1 id="ensemble-learning">#Ensemble Learning&lt;a class="td-heading-self-link" href="#ensemble-learning" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="ensemble-learning-1">#Ensemble Learning&lt;a class="td-heading-self-link" href="#ensemble-learning-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="ensemble-learning-2">#Ensemble Learning&lt;a class="td-heading-self-link" href="#ensemble-learning-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="ensemble-learning-3">#Ensemble Learning&lt;a class="td-heading-self-link" href="#ensemble-learning-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##Ensemble Learning&lt;/p>
-&lt;h1 id="what-is-decision-tree-model-and-need-of-ensemble-learning">What is Decision Tree Model and Need of Ensemble Learning&lt;a class="td-heading-self-link" href="#what-is-decision-tree-model-and-need-of-ensemble-learning" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="how-to-identify-node-for-splitting">How to identify node for splitting?&lt;a class="td-heading-self-link" href="#how-to-identify-node-for-splitting" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Gini, Entropy, Information Gain, Reduction in Varaince., Chi Square.&lt;/p></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23POS-Tagging-and-Parsing/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23POS-Tagging-and-Parsing/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6125-#POS-Tagging-and-Parsing.jpg" alt="#POS-Tagging-and-Parsing">&lt;/p>
-&lt;h1 id="pos-tagging-and-parsing">#POS Tagging and Parsing&lt;a class="td-heading-self-link" href="#pos-tagging-and-parsing" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="pos-tagging-and-parsing-1">#POS Tagging and Parsing&lt;a class="td-heading-self-link" href="#pos-tagging-and-parsing-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="pos-tagging-and-parsing-2">#POS Tagging and Parsing&lt;a class="td-heading-self-link" href="#pos-tagging-and-parsing-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="pos-tagging-and-parsing-3">#POS Tagging and Parsing&lt;a class="td-heading-self-link" href="#pos-tagging-and-parsing-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##POS Tagging and Parsing&lt;/p>
-&lt;h1 id="pos-tagging-and-parsing-4">POS Tagging and Parsing&lt;a class="td-heading-self-link" href="#pos-tagging-and-parsing-4" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="what-is-pos-tagging">What is PoS tagging&lt;a class="td-heading-self-link" href="#what-is-pos-tagging" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="universal-pos-tags-of-spacy">Universal PoS tags of Spacy&lt;a class="td-heading-self-link" href="#universal-pos-tags-of-spacy" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="hmm-model-works-for-pos-tagging">HMM model works for PoS tagging&lt;a class="td-heading-self-link" href="#hmm-model-works-for-pos-tagging" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="pos-tagging-using-spacy-library">PoS tagging using Spacy library&lt;a class="td-heading-self-link" href="#pos-tagging-using-spacy-library" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="parsing-with-spacy">Parsing with Spacy&lt;a class="td-heading-self-link" href="#parsing-with-spacy" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="spacy-library-functions">Spacy Library Functions&lt;a class="td-heading-self-link" href="#spacy-library-functions" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="references">References&lt;a class="td-heading-self-link" href="#references" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/dasarpai/NLP/blob/main/spaCy.ipynb">spaCy Python Notebook&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://analyticsindiamag.com/a-guide-to-hidden-markov-model-and-its-applications-in-nlp/">Hidden Markov Model Application in NLP&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/">Conditional Random Fields (CRM)&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23Introduction-to-Neural-Network/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23Introduction-to-Neural-Network/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6126-#Introduction-to-Neural-Network.jpg" alt="#Introduction-to-Neural-Network">&lt;/p>
-&lt;h1 id="introduction-to-neural-network">#Introduction to Neural Network&lt;a class="td-heading-self-link" href="#introduction-to-neural-network" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="introduction-to-neural-network-1">#Introduction to Neural Network&lt;a class="td-heading-self-link" href="#introduction-to-neural-network-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="introduction-to-neural-network-2">#Introduction to Neural Network&lt;a class="td-heading-self-link" href="#introduction-to-neural-network-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="introduction-to-neural-network-3">#Introduction to Neural Network&lt;a class="td-heading-self-link" href="#introduction-to-neural-network-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##Introduction to Neural Network&lt;/p>
-&lt;h1 id="introduction-to-neural-network-4">Introduction to Neural Network&lt;a class="td-heading-self-link" href="#introduction-to-neural-network-4" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="introduction-to-a-perceptron">Introduction to a Perceptron&lt;a class="td-heading-self-link" href="#introduction-to-a-perceptron" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="deep-dive-into-perceptron">Deep dive into perceptron&lt;a class="td-heading-self-link" href="#deep-dive-into-perceptron" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="input-and-outputs-of-neural-networks">Input and Outputs of Neural Networks&lt;a class="td-heading-self-link" href="#input-and-outputs-of-neural-networks" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="activation-function">Activation function&lt;a class="td-heading-self-link" href="#activation-function" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="assumptions-of-a-neural-network">Assumptions of a neural network.&lt;a class="td-heading-self-link" href="#assumptions-of-a-neural-network" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="backpropagation-using-a-simple-example">Backpropagation using a simple example&lt;a class="td-heading-self-link" href="#backpropagation-using-a-simple-example" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h2 id="simulate-a-simple-neural-network-using-tensorflow">Simulate a simple Neural Network using Tensorflow&lt;a class="td-heading-self-link" href="#simulate-a-simple-neural-network-using-tensorflow" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h3 id="what-is-keras-and-how-is-it-different-from-tf">What is keras and how is it different from Tf?&lt;a class="td-heading-self-link" href="#what-is-keras-and-how-is-it-different-from-tf" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;h3 id="what-are-dense-layers">What are Dense layers&lt;a class="td-heading-self-link" href="#what-are-dense-layers" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;h3 id="how-to-train-and-build-a-simple-nn-model-for-classification-or-regression-task">How to train and build a simple NN model for classification or regression task&lt;a class="td-heading-self-link" href="#how-to-train-and-build-a-simple-nn-model-for-classification-or-regression-task" aria-label="Heading self-link">&lt;/a>&lt;/h3></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23Partial-dependence-plots/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23Partial-dependence-plots/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6127-#Partial-dependence-plots.jpg" alt="#Partial-dependence-plots">&lt;/p>
-&lt;h1 id="partial-dependence-plots">#Partial dependence plots&lt;a class="td-heading-self-link" href="#partial-dependence-plots" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="partial-dependence-plots-1">#Partial dependence plots&lt;a class="td-heading-self-link" href="#partial-dependence-plots-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="partial-dependence-plots-2">#Partial dependence plots&lt;a class="td-heading-self-link" href="#partial-dependence-plots-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="partial-dependence-plots-3">#Partial dependence plots&lt;a class="td-heading-self-link" href="#partial-dependence-plots-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##Partial dependence plots&lt;/p>
-&lt;h1 id="partial-dependence-plots-4">Partial Dependence Plots&lt;a class="td-heading-self-link" href="#partial-dependence-plots-4" aria-label="Heading self-link">&lt;/a>&lt;/h1></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23Prompt-Engineering-for-GPT4/</link><pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23Prompt-Engineering-for-GPT4/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6117-#Prompt-Engineering-for-GPT4.jpg" alt="#Prompt-Engineering-for-GPT4">&lt;/p>
-&lt;h1 id="prompt-engineering-for-gpt4">#Prompt Engineering for GPT4&lt;a class="td-heading-self-link" href="#prompt-engineering-for-gpt4" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="prompt-engineering-for-gpt4-1">#Prompt Engineering for GPT4&lt;a class="td-heading-self-link" href="#prompt-engineering-for-gpt4-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="prompt-engineering-for-gpt4-2">#Prompt Engineering for GPT4&lt;a class="td-heading-self-link" href="#prompt-engineering-for-gpt4-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="prompt-engineering-for-gpt4-3">#Prompt Engineering for GPT4&lt;a class="td-heading-self-link" href="#prompt-engineering-for-gpt4-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##Prompt Engineering for GPT4&lt;/p>
-&lt;h1 id="what-is-prompting">What is Prompting?&lt;a class="td-heading-self-link" href="#what-is-prompting" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h2 id="trading">Trading&lt;a class="td-heading-self-link" href="#trading" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;h3 id="generate-code-for-indicator">Generate Code for Indicator&lt;a class="td-heading-self-link" href="#generate-code-for-indicator" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>Generate a pine script code to create a simple moving average of the closing price with a period of 14 days which is compatable with v5 of pine script and uses &amp;lsquo;color&amp;rsquo; dot before any color argument and &amp;rsquo;ta&amp;rsquo; before any sma argument&lt;/p></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23ChatGPT-Business-Ideas/</link><pubDate>Fri, 06 Jan 2023 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23ChatGPT-Business-Ideas/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6118-#ChatGPT-Business-Ideas.jpg" alt="#ChatGPT-Business-Ideas">&lt;/p>
-&lt;h1 id="chatgpt-business-ideas">#ChatGPT Business Ideas&lt;a class="td-heading-self-link" href="#chatgpt-business-ideas" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="chatgpt-business-ideas-1">#ChatGPT Business Ideas&lt;a class="td-heading-self-link" href="#chatgpt-business-ideas-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="chatgpt-business-ideas-2">#ChatGPT Business Ideas&lt;a class="td-heading-self-link" href="#chatgpt-business-ideas-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="chatgpt-business-ideas-3">#ChatGPT Business Ideas&lt;a class="td-heading-self-link" href="#chatgpt-business-ideas-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##ChatGPT Business Ideas&lt;/p>
-&lt;h1 id="chatgpt-business-ideas-4">ChatGPT Business Ideas&lt;a class="td-heading-self-link" href="#chatgpt-business-ideas-4" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>ChatGPT Business Ideas&lt;/p></description></item><item><title>GPT Usecases</title><link>https://dasarpai.github.io/dsblog/gpt-usecases/</link><pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/gpt-usecases/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6020-GPT-Usecases.jpg" alt="GPT Usecases">&lt;/p>
-&lt;h1 id="what-is-gpt">What is GPT?&lt;a class="td-heading-self-link" href="#what-is-gpt" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>GPT is a transformer. Don&amp;rsquo;t confuse it with your electricity transformer! In Artificial Intelligence there are different kinds of neural network architectures to perform various tasks like classification, translation, segmentation, regression, etc. One of those architectures is transformer architecture. The Foundation of this architecture is based on another two architectures called encoder architecture and decoder architecture. There are lots of other technical complexity but for the business readers I am hiding that for that the time being, we will discuss that at some other place. In nutshell, GPT is a Transformer technology developed by OpenAI and it can perform several NLP tasks. NLP stands for natural language preprocessing. NLP tasks mean tasks like sentiment analysis of the text, text classification, topic modeling, translation, named entity recognition, and dozens of other tasks.&lt;/p></description></item><item><title>ChatGPT Usecases</title><link>https://dasarpai.github.io/dsblog/chatgpt-usecases/</link><pubDate>Wed, 04 Jan 2023 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/chatgpt-usecases/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg" alt="ChatGPT Usecases">&lt;/p>
-&lt;h1 id="what-is-chatgpt">What is ChatGPT?&lt;a class="td-heading-self-link" href="#what-is-chatgpt" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>ChatGPT is &lt;strong>general purpose&lt;/strong> - &amp;ldquo;chat model&amp;rdquo; from OpenAI. It is a &lt;strong>language model&lt;/strong>, which means if you type some text then it can understand and respond to you appropriately. At this point in time, it is not accepting voice commands, neither able to process images or videos. A &lt;strong>general-purpose model&lt;/strong> means it can understand the question coming from any domain of life. A domain may be vertical or horizontal. A vertical domain means where a vendor is supplying a product or service for a specific type of customer. A horizontal domain is where a vendor supplies products or services for all types of customer. Healthcare, banking, logistic, insurance, agriculture, philosophy, history, and economics are one kind of verticals whereas
-BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accounting, Office Administration, Catering, and Entertainment are other kind of domains. A &lt;strong>general-purpose model&lt;/strong> can understand the questions from all aspects of life whether business vertical or horizontal or normal daily family or conflicts with other group members, family members, etc.&lt;/p></description></item><item><title/><link>https://dasarpai.github.io/dsblog/%23Natural-Language-Processing/</link><pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/%23Natural-Language-Processing/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6121-#Natural-Language-Processing.jpg" alt="#Natural-Language-Processing">&lt;/p>
-&lt;h1 id="natural-language-processing">#Natural Language Processing&lt;a class="td-heading-self-link" href="#natural-language-processing" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="natural-language-processing-1">#Natural Language Processing&lt;a class="td-heading-self-link" href="#natural-language-processing-1" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="natural-language-processing-2">#Natural Language Processing&lt;a class="td-heading-self-link" href="#natural-language-processing-2" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;h1 id="natural-language-processing-3">#Natural Language Processing&lt;a class="td-heading-self-link" href="#natural-language-processing-3" aria-label="Heading self-link">&lt;/a>&lt;/h1>
-&lt;p>##Natural Language Processing&lt;/p>
-&lt;h2 id="what-is-a-language-models">What is a Language Models?&lt;a class="td-heading-self-link" href="#what-is-a-language-models" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Language Models are models for predicting the next word or character in a document. Some popular transformer models are :
-BERT , RoBERTa , GPT-2 , GPT-3 , T5 , ELMo , BART , GPT , XLNet , ALBERT , mBERT , CAM , XLM-R , DistilBERT , ELECTRA , Electric , Transformer-XL , XLM , mT5 , Longformer , Performer , mBART , ULMFiT , DeBERTa , CodeBERT , ViLBERT , Sparse Transformer, PaLM , ETC , RAG , GPT-Neo , CTRL , Reformer , BigBird , Linformer , Switch Transformer, Synthesizer , Universal Transformer, Levenshtein Transformer, CodeT5 , CharacterBERT , ProphetNet , Primer , Cross-View Training, TNT , Charformer , PLATO-2 , MATE , Bort , MobileBERT , Neural , Routing Transformer, Adaptive Span Transformer, Chinchilla , VideoBERT , EGT , Compressive Transformer, DeeBERT , PMLM , GEE , TAPEX , CuBERT , Subformer , DynaBERT , TernaryBERT , Fastformer , Cross-encoder , CANINE , SHA-RNN , Nyströmformer , Gated Convolution Network, AutoTinyBERT , PermuteFormer , NormFormer , BP-Transformer , IB-BERT , MacBERT , mBARTHez , KE-MLM , SMITH , ClipBERT , I-BERT , SqueezeBERT , ERNIE-GEN , Sandwich Transformer , DeLighT , PAR Transformer , ConvBERT , ESACL , MHMA , RealFormer , Sinkhorn Transformer , SongNet , Funnel Transformer , T-D , SC-GPT , GANformer , BinaryBERT , Adaptively Sparse Transformer , Feedback Transformer&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on </title>
+    <link>https://localhost:1313/tags/nlp/</link>
+    <description>Recent content in NLP on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exploring Tokenization and Embedding in NLP</title>
+      <link>https://localhost:1313/dsblog/exploring-tokenization-and-embedding-in-nlp/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/exploring-tokenization-and-embedding-in-nlp/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6215-Exploring-Tokenization-in-AI.jpg&#34; alt=&#34;Exploring Tokenization and Embedding in NLP&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Exploring Tokenization and Embedding in NLP 
+    &lt;div id=&#34;exploring-tokenization-and-embedding-in-nlp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#exploring-tokenization-and-embedding-in-nlp&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Tokenization and embedding are key components of natural language processing (NLP) models. Sometimes people misunderstand tokenization and embedding and this article is to address those issues. This is in the question answer format and addressing following questions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>OpenAI 12 Days 2024 Announcements</title>
+      <link>https://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/OpenAI-12-Days-2024-Announcements/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6193-OpenAI-12-Days-2024-Announcements.jpg&#34; alt=&#34;OpenAI 12 Days 2024 Announcements&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;OpenAI 12 Days 2024 Announcements 
+    &lt;div id=&#34;openai-12-days-2024-announcements&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#openai-12-days-2024-announcements&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iBfQTnA2n2s&#34; target=&#34;_blank&#34;&gt;Day 1- Announcements&lt;/a&gt; 
+    &lt;div id=&#34;day-1--announcements&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#day-1--announcements&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Launch of o1 Full Version&lt;/strong&gt;: This is an upgraded model designed to be faster, smarter, and multimodal, responding better to instructions. It shows significant improvement over its predecessor, especially in coding and problem-solving tasks.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Framework for using LLM</title>
+      <link>https://localhost:1313/dsblog/Framework-for-using-LLM/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Framework-for-using-LLM/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6192-Framework-for-using-LLM.jpg&#34; alt=&#34;Framework for using LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Maximizing Your LLM Project: A Comprehensive Guide to Effective Prompt Types 
+    &lt;div id=&#34;maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#maximizing-your-llm-project-a-comprehensive-guide-to-effective-prompt-types&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;When working on a project that leverages Large Language Models (LLMs), selecting the right model and prompt type can be daunting. With thousands of models, hundreds of tasks, and numerous output formats available, it&amp;rsquo;s easy to feel overwhelmed. This article aims to simplify your decision-making process by outlining the major types of prompts you can utilize to enhance your project’s effectiveness.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>AI Imperialism: Western Dominance and the Future of Global Technology </title>
+      <link>https://localhost:1313/dsblog/AI-Imperialism/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/AI-Imperialism/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6191-AI-Imperialism.jpg&#34; alt=&#34;AI Imperialism&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;AI Imperialism: Western Dominance and the Future of Global Technology 
+    &lt;div id=&#34;ai-imperialism-western-dominance-and-the-future-of-global-technology&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ai-imperialism-western-dominance-and-the-future-of-global-technology&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;In the rapidly evolving landscape of artificial intelligence (AI), the emergence of transformer models has marked a significant milestone. Among these, OpenAI&amp;rsquo;s GPT-3 stands out as a groundbreaking achievement, yet its dominance raises critical questions about the concentration of power, legal ambiguities, and global technological equity. This article delves into the phenomenon of AI imperialism, exploring how Western dominance shapes the future of global technology and the implications for developing nations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Visualizing Transformers and Attention</title>
+      <link>https://localhost:1313/dsblog/Visualizing-transformers-and-attention/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Visualizing-transformers-and-attention/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6189-Visualizing-transformers-and-attention.jpg&#34; alt=&#34;Visualizing transformers and attention&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Visualizing Transformers and Attention 
+    &lt;div id=&#34;visualizing-transformers-and-attention&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#visualizing-transformers-and-attention&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;This is the summary note from Grant Sanderson&amp;rsquo;s talk at TNG Big Tech 2024. My earlir article on transformers can be found &lt;a href=&#34;https://localhost:1313/dsblog/transformers-demystified-a-step-by-step-guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Basics of Word Embedding</title>
+      <link>https://localhost:1313/dsblog/basics-of-word-embedding/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/basics-of-word-embedding/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6101-Basics-of-Word-Embedding.jpg&#34; alt=&#34;Basics of Word Embedding&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Basics of Word Embedding 
+    &lt;div id=&#34;basics-of-word-embedding&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#basics-of-word-embedding&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is Context, target and window? 
+    &lt;div id=&#34;what-is-context-target-and-window&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-context-target-and-window&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The &amp;ldquo;context&amp;rdquo; word is the surrounding word.&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;target&amp;rdquo; word is the middle word.&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;window distance&amp;rdquo; is number of words (including) between context words and target word. Window distance 1 means, one word surronding the target, one left side context word, one right context word. Two window distance means 2 words left and 2 words right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s take a sentence&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ML Model Respository from Pinto0309</title>
+      <link>https://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/ML-Model-Repository-from-Pinto0309/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6095-ML-Model-Repository-from-Pinto0309.jpg&#34; alt=&#34;ML Model Respository from Pinto0309&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;ML Model Repository from Pinto0309 
+    &lt;div id=&#34;ml-model-repository-from-pinto0309&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#ml-model-repository-from-pinto0309&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Using AI we can solve many kinds of tasks for this input can be text, structured data, image, video, audio, time-series, etc. To solve these problems we need to train model. These models may be computer vision, NLP, or traditional machine learning kind. There are hundreds of architectures and algorithms to solve business problems and create models. There a hundreds of different datasets that can be along with a particular architecture or algorithm to solve the problem. If you have any of these tasks then you can explore using these pre-trained models to solve your problem. There is a GitHub user &amp;ldquo;Katsuya Hyodo&amp;rdquo; with GitHub account &amp;ldquo;PINTO0309&amp;rdquo;. He has trained hundreds of models and created these pre-trained models for the community. You can scan and explore them from there. From there you can download the pre-trained models.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Comprehensive Glossary of LLM, Deep Learning, NLP, and CV Terminology</title>
+      <link>https://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Comprehensive-Glossary-of-LLM/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6089-Comprehensive-Glossary-of-LLM.jpg&#34; alt=&#34;Comprehensive Glossary of LLM&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Comprehensive Glossary of LLM 
+    &lt;div id=&#34;comprehensive-glossary-of-llm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#comprehensive-glossary-of-llm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;I am developing this Glossary slowly at my own pace. Content on this page keep changing. Better definition, better explaination are part of my learing, my evolution and advancement in the field of Deep Learning and Machine Learning. As of Aug&#39;23 the terms are not in any order therefore if you are look for any specific term you can search on the page. When I will have 50+ terms on this page then I will try to sort them on some attribute of these terms.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Paper-Summary- A Survey Paper# Pretrained Language Models for Text Generation</title>
+      <link>https://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/rps-Pretrained-Language-Models-for-Text-Generation/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6088-rps-Pretrained-Language-Models-for-Text-Generation.jpg&#34; alt=&#34;Pretrained Language Models for Text Generation&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paper Name :- Pretrained Language Models for Text Generation: A Survey&lt;/strong&gt;&lt;br&gt;
+Typer of Paper:- Survey Paper  &lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2105.10311&#34; target=&#34;_blank&#34;&gt;Paper URL&lt;/a&gt;&lt;br&gt;
+Paper title of the citations mentioned can be found at &lt;a href=&#34;https://localhost:1313/dsblog/aip&#34;&gt;AI Papers with Heading&lt;/a&gt;. Use citation code to locate.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>NLP Tasks</title>
+      <link>https://localhost:1313/dsblog/nlp-tasks/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/nlp-tasks/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6085-NLP-Tasks.jpg&#34; alt=&#34;NLP Tasks&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;NLP Tasks 
+    &lt;div id=&#34;nlp-tasks&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#nlp-tasks&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Processing words of any language and driving some meaning from these is as old as the human language. Recently, AI momentum is taking on many of these language-processing tasks. Here is the summary of these NLP tasks, this list is continuously growing. Researchers keep creating a dataset for these tasks in different languages. Other researchers keep devising new ways to solve these tasks with better performance. They come up with a new architecture, a new set of hyperparameters, a new pipeline, etc. In summary, as of today, there are around 55 tasks. Hundreds of datasets and research papers exist around these. You can check on &lt;a href=&#34;https://paperswithcode.com/&#34; target=&#34;_blank&#34;&gt;PaperWithCode&lt;/a&gt; or &lt;a href=&#34;https://huggingface.co/&#34; target=&#34;_blank&#34;&gt;Hggingface&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Embedding with FastText</title>
+      <link>https://localhost:1313/dsblog/Embedding-with-FastText/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Embedding-with-FastText/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6073-Embedding-with-FastText.jpg&#34; alt=&#34;Embedding with FastText&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Embedding with FastText 
+    &lt;div id=&#34;embedding-with-fasttext&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#embedding-with-fasttext&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://localhost:1313/dsblog/what-is-nlp#what-is-embedding&#34;&gt;What is Embedding?&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://localhost:1313/dsblog/what-is-nlp#what-are-different-embedding-types&#34;&gt;What are Different Types of Embedding&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;What is FastText? 
+    &lt;div id=&#34;what-is-fasttext&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-fasttext&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;FastText is an open-source library for efficient learning of word representations and sentence classification developed by Facebook AI Research. It is designed to handle large-scale text data and provides tools for &lt;strong&gt;training&lt;/strong&gt; and &lt;strong&gt;using word embeddings&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Major LLM Developers Shaping the AI Landscape</title>
+      <link>https://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Major-LLM-Developers-Reshaping-NLP-Advancements/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6075-Major-LLM-Developers-Reshaping-NLP-Advancements.jpg&#34; alt=&#34;Major LLM Developers Shaping the AI Landscape&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Major LLM Developers Shaping the AI Landscape 
+    &lt;div id=&#34;major-llm-developers-shaping-the-ai-landscape&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#major-llm-developers-shaping-the-ai-landscape&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;From Text to Intelligence: Major LLM Developers Shaping the AI Landscape&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>A Guide to Model Fine Tuning with OpenAI API</title>
+      <link>https://localhost:1313/dsblog/Model-Fine-Tuning-with-OpenAI-API/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Model-Fine-Tuning-with-OpenAI-API/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6068-A-Guide-to-Model-Fine-Tuning-with-OpenAI-API.jpg&#34; alt=&#34;A Guide to Model Fine Tuning with OpenAI API&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;A Guide to Model Fine Tuning with OpenAI API 
+    &lt;div id=&#34;a-guide-to-model-fine-tuning-with-openai-api&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-guide-to-model-fine-tuning-with-openai-api&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Account Setup and API Key Generation 
+    &lt;div id=&#34;account-setup-and-api-key-generation&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#account-setup-and-api-key-generation&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Go to &lt;a href=&#34;https://platform.openai.com/&#34; target=&#34;_blank&#34;&gt;openai&lt;/a&gt;, sign up there and create your account. After than you need to create an API using &lt;a href=&#34;https://platform.openai.com/account/api-keys&#34; target=&#34;_blank&#34;&gt;API Key Link&lt;/a&gt;. You need to copy the api key and you replace the text below &amp;lt;OPENAI_API_KEY&amp;gt;. Being string the key should be within &amp;ldquo;&amp;rdquo;. Keeping security in mind it is highly recommended that you do not put the API in the code file. Keep it at some secured place and read that file to fetch the API key. OpenAI gives you USD 5 free usage. After that you need to pay. For that you need to setup your credit card details on their system. They are very fair on the charges, just keep track of your usage. If you don&amp;rsquo;t use any of their service they won&amp;rsquo;t charge anything for just having account with them. While doing any model finetuning or prediction openai tells you how much they will charge you for that particular command. My suggestion is if you are just experimenting then keep your dataset small so that you can manage your learning with USD 10-20.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Capabilities of AI Transformers</title>
+      <link>https://localhost:1313/dsblog/Capabilities-of-AI-Transformers/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Capabilities-of-AI-Transformers/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6067-Capabilities-of-AI-Transformers.jpg&#34; alt=&#34;Capabilities of AI Transformers&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;Capabilities of AI Transformers 
+    &lt;div id=&#34;capabilities-of-ai-transformers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#capabilities-of-ai-transformers&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Background 
+    &lt;div id=&#34;background&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#background&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Whether GPT, ChatGPT, DALL-E, Whisper, Satablity AI or whatever significant you see in the AI worlds nowdays it is because of Transformer Architecture. Transformers are a type of neural network architecture that have several properties that make them effective for modeling data with long-range dependencies. They generally feature a combination of multi-headed attention mechanisms, residual connections, layer normalization, feedforward connections, and positional embeddings.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>GPT Usecases</title>
+      <link>https://localhost:1313/dsblog/gpt-usecases/</link>
+      <pubDate>Thu, 05 Jan 2023 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/gpt-usecases/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6020-GPT-Usecases.jpg&#34; alt=&#34;GPT Usecases&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is GPT? 
+    &lt;div id=&#34;what-is-gpt&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-gpt&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;GPT is a transformer. Don&amp;rsquo;t confuse it with your electricity transformer! In Artificial Intelligence there are different kinds of neural network architectures to perform various tasks like classification, translation, segmentation, regression, etc. One of those architectures is transformer architecture. The Foundation of this architecture is based on another two architectures called encoder architecture and decoder architecture. There are lots of other technical complexity but for the business readers I am hiding that for that the time being, we will discuss that at some other place. In nutshell, GPT is a Transformer technology developed by OpenAI and it can perform several NLP tasks. NLP stands for natural language preprocessing. NLP tasks mean tasks like sentiment analysis of the text, text classification, topic modeling, translation, named entity recognition, and dozens of other tasks.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ChatGPT Usecases</title>
+      <link>https://localhost:1313/dsblog/chatgpt-usecases/</link>
+      <pubDate>Wed, 04 Jan 2023 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/chatgpt-usecases/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6019-ChatGPT-Usecases.jpg&#34; alt=&#34;ChatGPT Usecases&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;What is ChatGPT? 
+    &lt;div id=&#34;what-is-chatgpt&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-chatgpt&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;ChatGPT is &lt;strong&gt;general purpose&lt;/strong&gt; - &amp;ldquo;chat model&amp;rdquo; from OpenAI. It is a &lt;strong&gt;language model&lt;/strong&gt;, which means if you type some text then it can understand and respond to you appropriately. At this point in time, it is not accepting voice commands, neither able to process images or videos. A &lt;strong&gt;general-purpose model&lt;/strong&gt; means it can understand the question coming from any domain of life. A domain may be vertical or horizontal. A vertical domain means where a vendor is supplying a product or service for a specific type of customer. A horizontal domain is where a vendor supplies products or services for all types of customer.  Healthcare, banking, logistic, insurance, agriculture, philosophy, history, and economics are one kind of verticals whereas
+BPO, Quality Management, Software Development, Taxation, HR, IT Security, Accounting, Office Administration, Catering, and Entertainment are other kind of domains. A &lt;strong&gt;general-purpose model&lt;/strong&gt; can understand the questions from all aspects of life whether business vertical or horizontal or normal daily family or conflicts with other group members, family members, etc.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

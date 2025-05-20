@@ -1,2 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sensitivity on Blowfish</title><link>https://dasarpai.github.io/tags/sensitivity/</link><description>Recent content in Sensitivity on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Mon, 22 Aug 2022 15:50:00 +0530</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/sensitivity/index.xml" rel="self" type="application/rss+xml"/><item><title>Confusion Matrix Bayesian Theorem</title><link>https://dasarpai.github.io/dsblog/Confusion-Matrix-Bayesian-Theorem/</link><pubDate>Mon, 22 Aug 2022 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Confusion-Matrix-Bayesian-Theorem/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg" alt="Confusion Matrix">&lt;/p>
-&lt;p>If you are like me then you must have struggled enough to understand the confusion matrix or still struggling to understand the metrics of this confusion matrix. A simple 2×2 actual vs predicted values matrix can be looked at and analyzed from different angles and hence we can have all different metrics from this. The beauty of all these metrics is different metrics are important for evaluating different kinds of models.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensitivity on </title>
+    <link>https://localhost:1313/tags/sensitivity/</link>
+    <description>Recent content in Sensitivity on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Mon, 22 Aug 2022 15:50:00 +0530</lastBuildDate><atom:link href="https://localhost:1313/tags/sensitivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Confusion Matrix Bayesian Theorem</title>
+      <link>https://localhost:1313/dsblog/Confusion-Matrix-Bayesian-Theorem/</link>
+      <pubDate>Mon, 22 Aug 2022 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Confusion-Matrix-Bayesian-Theorem/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6006-Confusion-Matrix-Bayesian-Theorem.jpg&#34; alt=&#34;Confusion Matrix&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;If you are like me then you must have struggled enough to understand the confusion matrix or still struggling to understand the metrics of this confusion matrix. A simple 2×2 actual vs predicted values matrix can be looked at and analyzed from different angles and hence we can have all different metrics from this. The beauty of all these metrics is different metrics are important for evaluating different kinds of models.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

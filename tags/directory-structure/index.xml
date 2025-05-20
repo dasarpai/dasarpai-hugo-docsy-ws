@@ -1,2 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Directory Structure on Blowfish</title><link>https://dasarpai.github.io/tags/directory-structure/</link><description>Recent content in Directory Structure on Blowfish</description><generator>Hugo</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><lastBuildDate>Mon, 20 Sep 2021 15:50:00 +0530</lastBuildDate><atom:link href="https://dasarpai.github.io/tags/directory-structure/index.xml" rel="self" type="application/rss+xml"/><item><title>Folder Structure for ML Project</title><link>https://dasarpai.github.io/dsblog/Folder-Structure-for-ML-Project/</link><pubDate>Mon, 20 Sep 2021 15:50:00 +0530</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://dasarpai.github.io/dsblog/Folder-Structure-for-ML-Project/</guid><description>&lt;p>&lt;img src="../../assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg" alt="Configuration Management">&lt;/p>
-&lt;p>&lt;strong>Directory Structure for ML Project&lt;/strong> is critical for any serious data science project. What we learn from a technology college and institution is useful in a real-world business, but the problem is that environment is completely different, and it takes proper guidance to adapt to a real business environment. Many times traveling on this path is full of frustration without any proper guidance. Sometimes guidance is there, but it is like blind is leading blind. One has already navigated a lot with struggle, so she/he is trying to guide a new person. Data-science education is not any different from this. From universities and institutions, we learn many concepts, algorithms, art, and science of developing models, etc. but when our customer or management tells us a problem with a simplistic dataset then we don’t know how to proceed. Although there are many templates and frameworks to approach, yet there is no simple cookie-cutter solution for all kinds of problems. Depending upon project duration, resources (human + machine + software), client, and his/her need, the technology available at hand we can choose different approaches.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Directory Structure on </title>
+    <link>https://localhost:1313/tags/directory-structure/</link>
+    <description>Recent content in Directory Structure on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
+    <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
+    <copyright>© 2025 Hari Thapliyaal</copyright>
+    <lastBuildDate>Mon, 20 Sep 2021 15:50:00 +0530</lastBuildDate><atom:link href="https://localhost:1313/tags/directory-structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Folder Structure for ML Project</title>
+      <link>https://localhost:1313/dsblog/Folder-Structure-for-ML-Project/</link>
+      <pubDate>Mon, 20 Sep 2021 15:50:00 +0530</pubDate>
+      <author>hari@dasarpai.com (Hari Thapliyaal)</author>
+      <guid>https://localhost:1313/dsblog/Folder-Structure-for-ML-Project/</guid>
+      <description>&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6010-Directory-Strucutre-of-ML-Project.jpg&#34; alt=&#34;Configuration Management&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Directory Structure for ML Project&lt;/strong&gt; is critical for any serious data science project. What we learn from a technology college and institution is useful in a real-world business, but the problem is that environment is completely different, and it takes proper guidance to adapt to a real business environment. Many times traveling on this path is full of frustration without any proper guidance. Sometimes guidance is there, but it is like blind is leading blind. One has already navigated a lot with struggle, so she/he is trying to guide a new person. Data-science education is not any different from this. From universities and institutions, we learn many concepts, algorithms, art, and science of developing models, etc. but when our customer or management tells us a problem with a simplistic dataset then we don’t know how to proceed. Although there are many templates and frameworks to approach, yet there is no simple cookie-cutter solution for all kinds of problems. Depending upon project duration, resources (human + machine + software), client, and his/her need, the technology available at hand we can choose different approaches.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
