@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aboutme on </title>
-    <link>https://localhost:1313/tags/aboutme/</link>
+    <link>https://dasarpai.com/tags/aboutme/</link>
     <description>Recent content in Aboutme on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.com/tags/aboutme/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>https://localhost:1313/aboutme/</link>
+      <link>https://dasarpai.com/aboutme/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/aboutme/</guid>
+      <guid>https://dasarpai.com/aboutme/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Dr. Hari Thapliyal 
     &lt;div id=&#34;dr-hari-thapliyal&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -58,7 +58,7 @@ Photo Gallery
 &lt;/ul&gt;
 &lt;p&gt;Scan Me - 
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dasarpai-qrcode.png&#34; alt=&#34;QR Code&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dasarpai-qrcode.png&#34; alt=&#34;QR Code&#34; /&gt;
       
     &lt;/figure&gt;
 {: width=&amp;ldquo;100&amp;rdquo;}&lt;/p&gt;</description>

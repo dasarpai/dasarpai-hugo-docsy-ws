@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Front Matter on </title>
-    <link>https://localhost:1313/tags/front-matter/</link>
+    <link>https://dasarpai.com/tags/front-matter/</link>
     <description>Recent content in Front Matter on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/front-matter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.com/tags/front-matter/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Front Matter</title>
-      <link>https://localhost:1313/docs/front-matter/</link>
+      <link>https://dasarpai.com/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/docs/front-matter/</guid>
+      <guid>https://dasarpai.com/docs/front-matter/</guid>
       <description>&lt;p&gt;In addition to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34; target=&#34;_blank&#34;&gt;default Hugo front matter parameters&lt;/a&gt;, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/front-matter/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dasarpai.com/docs/front-matter/featured.svg" />
     </item>
     
     <item>
       <title>Understanding Jekyll Framework</title>
-      <link>https://localhost:1313/dsblog/Understanding-Jekyll-Framework/</link>
+      <link>https://dasarpai.com/dsblog/Understanding-Jekyll-Framework/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Understanding-Jekyll-Framework/</guid>
+      <guid>https://dasarpai.com/dsblog/Understanding-Jekyll-Framework/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg&#34; alt=&#34;Understanding Jekyll Framework&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6168-Understanding-Jekyll-Framework.jpg&#34; alt=&#34;Understanding Jekyll Framework&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

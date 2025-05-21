@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors Taxonomy Listing Example on </title>
-    <link>https://localhost:1313/authors/</link>
+    <link>https://dasarpai.com/authors/</link>
     <description>Recent content in Authors Taxonomy Listing Example on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <atom:link href="https://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dasarpai.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

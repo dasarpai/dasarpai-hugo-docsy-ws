@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on </title>
-    <link>https://localhost:1313/tags/author/</link>
+    <link>https://dasarpai.com/tags/author/</link>
     <description>Recent content in Author on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <atom:link href="https://localhost:1313/tags/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dasarpai.com/tags/author/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Joshua Blais</title>
-      <link>https://localhost:1313/users/807a03786a63504a144bb3b947a2969c/</link>
+      <link>https://dasarpai.com/users/807a03786a63504a144bb3b947a2969c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/users/807a03786a63504a144bb3b947a2969c/</guid>
+      <guid>https://dasarpai.com/users/807a03786a63504a144bb3b947a2969c/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/807a03786a63504a144bb3b947a2969c/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dasarpai.com/users/807a03786a63504a144bb3b947a2969c/feature.jpg" />
     </item>
     
   </channel>

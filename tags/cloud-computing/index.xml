@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Computing on </title>
-    <link>https://localhost:1313/tags/cloud-computing/</link>
+    <link>https://dasarpai.com/tags/cloud-computing/</link>
     <description>Recent content in Cloud Computing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dasarpai.com/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Navigating the LLM Infrastructure Landscape</title>
-      <link>https://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</link>
+      <link>https://dasarpai.com/dsblog/navigating-llm-infrastructure-landscape/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/navigating-llm-infrastructure-landscape/</guid>
+      <guid>https://dasarpai.com/dsblog/navigating-llm-infrastructure-landscape/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6181-llm-infrastructure.jpg&#34; alt=&#34;Navigating the LLM Infrastructure Landscape&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -53,13 +53,13 @@
     
     <item>
       <title>GenAI Capabilities from AWS, Azure and GCP</title>
-      <link>https://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
+      <link>https://dasarpai.com/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
+      <guid>https://dasarpai.com/dsblog/GenAI-Capabilities-from-AWS&#43;GCP&#43;Azure/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6144-GenAI-Capabilities-from-AWS&amp;#43;GCP&amp;#43;Azure.jpg&#34; alt=&#34;GenAI Capabilities from AWS, Azure, and Google Cloud&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -93,13 +93,13 @@
     
     <item>
       <title>Serverless databases</title>
-      <link>https://localhost:1313/dsblog/Serverless-databases/</link>
+      <link>https://dasarpai.com/dsblog/Serverless-databases/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Serverless-databases/</guid>
+      <guid>https://dasarpai.com/dsblog/Serverless-databases/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6125-Serverless-databases.jpg&#34; alt=&#34;Serverless-databases&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -121,13 +121,13 @@
     
     <item>
       <title>Google Cloud APIs</title>
-      <link>https://localhost:1313/dsblog/Google-Cloud-APIS/</link>
+      <link>https://dasarpai.com/dsblog/Google-Cloud-APIS/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Google-Cloud-APIS/</guid>
+      <guid>https://dasarpai.com/dsblog/Google-Cloud-APIS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6082-Google-API-Services.jpg&#34; alt=&#34;Google Cloud APIs&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6082-Google-API-Services.jpg&#34; alt=&#34;Google Cloud APIs&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -161,13 +161,13 @@
     
     <item>
       <title>Database and Analytics Product Services from Google Azure AWS</title>
-      <link>https://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
+      <link>https://dasarpai.com/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
+      <guid>https://dasarpai.com/dsblog/Database-and-Analytics-Product-Services-from-Google-Azure-AWS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6079-Database-and-Analytics-Product-Services-from-Google-Azure-AWS.jpg&#34; alt=&#34;Database and Analytics Product Services from Google Azure AWS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -414,13 +414,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>AI Product and Services from Google, Azure and AWS</title>
-      <link>https://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</link>
+      <link>https://dasarpai.com/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</guid>
+      <guid>https://dasarpai.com/dsblog/AI-Product-and-Services-from-Google-Azure-and-AWS/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg&#34; alt=&#34;AI Product and Services from Google, Azure and AWS&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6078-AI-Product-and-Services-from-Google-Azure-and-AWS.jpg&#34; alt=&#34;AI Product and Services from Google, Azure and AWS&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -637,13 +637,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Introduction to ML Model Deployment</title>
-      <link>https://localhost:1313/dsblog/Introduction-to-ML-Model-deployment/</link>
+      <link>https://dasarpai.com/dsblog/Introduction-to-ML-Model-deployment/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Introduction-to-ML-Model-deployment/</guid>
+      <guid>https://dasarpai.com/dsblog/Introduction-to-ML-Model-deployment/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg&#34; alt=&#34;Introduction to AI Model Deployement&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6077-Introduction-to-ML-Model-deployment.jpg&#34; alt=&#34;Introduction to AI Model Deployement&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -716,13 +716,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>Model Garden of VertexAI</title>
-      <link>https://localhost:1313/dsblog/Model-Garden-of-VertexAI/</link>
+      <link>https://dasarpai.com/dsblog/Model-Garden-of-VertexAI/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Model-Garden-of-VertexAI/</guid>
+      <guid>https://dasarpai.com/dsblog/Model-Garden-of-VertexAI/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6065-Model-Garden-of-VertexAI.jpg&#34; alt=&#34;All Resources to Learn Data Science&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -768,13 +768,13 @@ linkedin.com/in/harithapliyal&lt;/p&gt;</description>
     
     <item>
       <title>A Comprehensive Guide to 210&#43; AWS Services</title>
-      <link>https://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</link>
+      <link>https://dasarpai.com/dsblog/AWS-Cloud-Service-Catalog/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/AWS-Cloud-Service-Catalog/</guid>
+      <guid>https://dasarpai.com/dsblog/AWS-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg&#34; alt=&#34;AWS Cloud Service Catalog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6063-AWS-Cloud-Service-Catalog.jpg&#34; alt=&#34;AWS Cloud Service Catalog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -797,13 +797,13 @@ All these services are availalbe at &lt;a href=&#34;https://us-east-1.console.aw
     
     <item>
       <title>Unlocking the Power of Azure- Exploring 300&#43; Cloud Services and Their Purposes</title>
-      <link>https://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</link>
+      <link>https://dasarpai.com/dsblog/Azure-Cloud-Service-Catalog/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Azure-Cloud-Service-Catalog/</guid>
+      <guid>https://dasarpai.com/dsblog/Azure-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg&#34; alt=&#34;Azure Cloud Service Catalog:&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6062-Azure-Cloud-Service-Catalog.jpg&#34; alt=&#34;Azure Cloud Service Catalog:&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -826,13 +826,13 @@ All these services are availalbe at &lt;a href=&#34;https://azure.microsoft.com/
     
     <item>
       <title>Google Cloud Service Catalog - A Comprehensive Overview of 250&#43; Google Cloud Services</title>
-      <link>https://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</link>
+      <link>https://dasarpai.com/dsblog/Google-Cloud-Service-Catalog/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/dsblog/Google-Cloud-Service-Catalog/</guid>
+      <guid>https://dasarpai.com/dsblog/Google-Cloud-Service-Catalog/</guid>
       <description>&lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://localhost:1313/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg&#34; alt=&#34;Google Cloud Service Catalog&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://dasarpai.com/assets/images/dspost/dsp6061-Google-Cloud-Service-Catalog.jpg&#34; alt=&#34;Google Cloud Service Catalog&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;

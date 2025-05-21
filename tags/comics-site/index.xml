@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comics Site on </title>
-    <link>https://localhost:1313/tags/comics-site/</link>
+    <link>https://dasarpai.com/tags/comics-site/</link>
     <description>Recent content in Comics Site on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <atom:link href="https://localhost:1313/tags/comics-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dasarpai.com/tags/comics-site/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>marupanda.art/marucomics</title>
-      <link>https://localhost:1313/users/6e0c28f8b70015dd35f332d927960d06/</link>
+      <link>https://dasarpai.com/users/6e0c28f8b70015dd35f332d927960d06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/users/6e0c28f8b70015dd35f332d927960d06/</guid>
+      <guid>https://dasarpai.com/users/6e0c28f8b70015dd35f332d927960d06/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/6e0c28f8b70015dd35f332d927960d06/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dasarpai.com/users/6e0c28f8b70015dd35f332d927960d06/feature.jpg" />
     </item>
     
   </channel>

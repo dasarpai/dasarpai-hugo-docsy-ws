@@ -15,7 +15,7 @@
   <meta name="keywords" content="Python, Programming, Code Style, Best Practices, Software Development, PEP 8, " />
   
   
-  <link rel="canonical" href="https://localhost:1313/dsblog/Python-Naming-Convention/" />
+  <link rel="canonical" href="https://dasarpai.com/dsblog/Python-Naming-Convention/" />
   
   
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.18e715c2f77b6a1751afc9c3b97bc2c617fac0893692332bb18601ab57df3966df25b9c61fa0cecf7c543da4b819839ea5989025c8a8a58b998060b845f126c5.css"
-    integrity="sha512-GOcVwvd7ahdRr8nDuXvCxhf6wIk2kjMrsYYBq1ffOWbfJbnGH6DOz3xUPaS4GYOepZiQJciopYuZgGC4RfEmxQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d335c1c6fee4163b424b4aa7d14752445031097c25817767a55d8a7db1621ca481e0287c82b86b87ea9c9a649f872dd80f066f485f3a8695959a63d7f01643d1.css"
+    integrity="sha512-0zXBxv7kFjtCS0qn0UdSRFAxCXwlgXdnpV2KfbFiHKSB4Ch8grhrh&#43;qcmmSfhy3YDwZvSF86hpWVmmPX8BZD0Q==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -71,7 +71,7 @@
   
   
   
-  <meta property="og:url" content="https://localhost:1313/dsblog/Python-Naming-Convention/">
+  <meta property="og:url" content="https://dasarpai.com/dsblog/Python-Naming-Convention/">
   <meta property="og:title" content="Python Naming Convention">
   <meta property="og:description" content="Python Naming Convention # UPPERCASE / UPPER_CASE_WITH_UNDERSCORES =&gt; module-level constants lowercase / lower_case_with_underscores =&gt; for variable and function name. CapitalizedWords (or CapWords, or CamelCase – so named because of the bumpy look of its letters [4]). This is also sometimes known as StudlyCaps. =&gt; CamelCase =&gt; Class Note: When using acronyms in CapWords, capitalize all the letters of the acronym. Thus HTTPServerError is better than HttpServerError. mixedCase (differs from CapitalizedWords by initial lowercase character!) Capitalized_Words_With_Underscores (ugly!) _single_leading_underscore: weak “internal use” indicator. E.g. from M import * does not import objects whose names start with an underscore. single_trailing_underscore_: used by convention to avoid conflicts with Python keyword, e.g. tkinter.Toplevel(master, class_=‘ClassName’) __double_leading_underscore: when naming a class attribute, invokes name mangling (inside class FooBar, __boo becomes _FooBar__boo; see below). _double_leading_and_trailing_underscore_: “magic” objects or attributes that live in user-controlled namespaces. E.g. _init_, _import_ or _file_. Never invent such names; only use them as documented. Never use the characters ‘l’ (lowercase letter el), ‘O’ (uppercase letter oh), or ‘I’ (uppercase letter eye) as single character variable names. Programming Recommendations # Use “is not” operator # Correct: if foo is not None: Wrong: if not foo is None: Always use a def statement # Correct: def f(x): return 2*x Wrong: f = lambda x: 2*x all try/except clauses # Correct: try: value = collection[key] except KeyError: return key_not_found(key) else: return handle_value(value) Wrong: try: # Too broad! return handle_value(collection[key]) except KeyError: # Will also catch KeyError raised by handle_value() return key_not_found(key) Context managers should be invoked through separate functions or methods # Correct: with conn.begin_transaction(): do_stuff_in_transaction(conn) Wrong: with conn: do_stuff_in_transaction(conn) Be consistent in return statements # Correct: def foo(x): if x &gt;= 0: return math.sqrt(x) else: return None def bar(x): if x &lt; 0: return None return math.sqrt(x) Wrong: def foo(x): if x &gt;= 0: return math.sqrt(x) def bar(x): if x &lt; 0: return return math.sqrt(x) startswith, endswith # Use ‘’.startswith() and ‘’.endswith() instead of string slicing to check for prefixes or suffixes. Correct: if foo.startswith(‘bar’): Wrong: if foo[:3] == ‘bar’: Object type comparisons # Correct: if isinstance(obj, int): Wrong: if type(obj) is type(1): Sequences, (strings, lists, tuples) # -For sequences, (strings, lists, tuples), use the fact that empty sequences are false:">
   <meta property="og:locale" content="en">
@@ -118,7 +118,7 @@
     
     "abstract": "\u003cp\u003e\n    \u003cfigure\u003e\n      \u003cimg class=\u0022my-0 rounded-md\u0022 loading=\u0022lazy\u0022 src=\u0022\/assets\/images\/dspost\/dsp6072-Python-Naming-Convention.jpg\u0022 alt=\u0022Python Naming Convention\u0022 \/\u003e\n      \n    \u003c\/figure\u003e\n\u003c\/p\u003e\n\n\n\u003ch1 class=\u0022relative group\u0022\u003ePython Naming Convention \n    \u003cdiv id=\u0022python-naming-convention\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#python-naming-convention\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\u003cul\u003e\n\u003cli\u003eUPPERCASE \/ UPPER_CASE_WITH_UNDERSCORES =\u0026gt; module-level constants\u003c\/li\u003e\n\u003cli\u003elowercase \/ lower_case_with_underscores =\u0026gt; for variable and function name.\u003c\/li\u003e\n\u003cli\u003eCapitalizedWords (or CapWords, or CamelCase – so named because of the bumpy look of its letters [4]). This is also sometimes known as StudlyCaps. =\u0026gt; CamelCase =\u0026gt; Class\n\u003cul\u003e\n\u003cli\u003eNote: When using acronyms in CapWords, capitalize all the letters of the acronym. Thus HTTPServerError is better than HttpServerError.\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/li\u003e\n\u003cli\u003emixedCase (differs from CapitalizedWords by initial lowercase character!)\u003c\/li\u003e\n\u003cli\u003eCapitalized_Words_With_Underscores (ugly!)\u003c\/li\u003e\n\u003cli\u003e_single_leading_underscore: weak “internal use” indicator. E.g. from M import * does not import objects whose names start with an underscore.\u003c\/li\u003e\n\u003cli\u003esingle_trailing_underscore_: used by convention to avoid conflicts with Python keyword, e.g.\ntkinter.Toplevel(master, class_=\u0026lsquo;ClassName\u0026rsquo;)\u003c\/li\u003e\n\u003cli\u003e__double_leading_underscore: when naming a class attribute, invokes name mangling (inside class FooBar, __boo becomes _FooBar__boo; see below).\u003c\/li\u003e\n\u003cli\u003e_\u003cem\u003edouble_leading_and_trailing_underscore\u003c\/em\u003e_: “magic” objects or attributes that live in user-controlled namespaces. E.g. _\u003cem\u003einit\u003c\/em\u003e_, _\u003cem\u003eimport\u003c\/em\u003e_ or _\u003cem\u003efile\u003c\/em\u003e_. Never invent such names; only use them as documented.\u003c\/li\u003e\n\u003cli\u003eNever use the characters ‘l’ (lowercase letter el), ‘O’ (uppercase letter oh), or ‘I’ (uppercase letter eye) as single character variable names.\u003c\/li\u003e\n\u003c\/ul\u003e\n\n\n\u003ch1 class=\u0022relative group\u0022\u003eProgramming Recommendations \n    \u003cdiv id=\u0022programming-recommendations\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#programming-recommendations\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\n\n\u003ch2 class=\u0022relative group\u0022\u003eUse \u0026ldquo;is not\u0026rdquo; operator \n    \u003cdiv id=\u0022use-is-not-operator\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#use-is-not-operator\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003eCorrect:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003eif\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003efoo\u003c\/span\u003e \u003cspan class=\u0022ow\u0022\u003eis\u003c\/span\u003e \u003cspan class=\u0022ow\u0022\u003enot\u003c\/span\u003e \u003cspan class=\u0022kc\u0022\u003eNone\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\u003cul\u003e\n\u003cli\u003eWrong:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003eif\u003c\/span\u003e \u003cspan class=\u0022ow\u0022\u003enot\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003efoo\u003c\/span\u003e \u003cspan class=\u0022ow\u0022\u003eis\u003c\/span\u003e \u003cspan class=\u0022kc\u0022\u003eNone\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003eAlways use a def statement \n    \u003cdiv id=\u0022always-use-a-def-statement\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#always-use-a-def-statement\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003eCorrect:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003edef\u003c\/span\u003e \u003cspan class=\u0022nf\u0022\u003ef\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e):\u003c\/span\u003e \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022mi\u0022\u003e2\u003c\/span\u003e\u003cspan class=\u0022o\u0022\u003e*\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\u003cul\u003e\n\u003cli\u003eWrong:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022n\u0022\u003ef\u003c\/span\u003e \u003cspan class=\u0022o\u0022\u003e=\u003c\/span\u003e \u003cspan class=\u0022k\u0022\u003elambda\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e \u003cspan class=\u0022mi\u0022\u003e2\u003c\/span\u003e\u003cspan class=\u0022o\u0022\u003e*\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003eall try\/except clauses \n    \u003cdiv id=\u0022all-tryexcept-clauses\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#all-tryexcept-clauses\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003eCorrect:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003etry\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022n\u0022\u003evalue\u003c\/span\u003e \u003cspan class=\u0022o\u0022\u003e=\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ecollection\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e[\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ekey\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e]\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003eexcept\u003c\/span\u003e \u003cspan class=\u0022ne\u0022\u003eKeyError\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ekey_not_found\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ekey\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003eelse\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ehandle_value\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003evalue\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\u003cul\u003e\n\u003cli\u003eWrong:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003etry\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022c1\u0022\u003e# Too broad!\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ehandle_value\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ecollection\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e[\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ekey\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e])\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003eexcept\u003c\/span\u003e \u003cspan class=\u0022ne\u0022\u003eKeyError\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022c1\u0022\u003e# Will also catch KeyError raised by handle_value()\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ekey_not_found\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ekey\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003eContext managers should be invoked through separate functions or methods \n    \u003cdiv id=\u0022context-managers-should-be-invoked-through-separate-functions-or-methods\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#context-managers-should-be-invoked-through-separate-functions-or-methods\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003eCorrect:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003ewith\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003econn\u003c\/span\u003e\u003cspan class=\u0022o\u0022\u003e.\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ebegin_transaction\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e():\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022n\u0022\u003edo_stuff_in_transaction\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003econn\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\u003cul\u003e\n\u003cli\u003eWrong:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003ewith\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003econn\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022n\u0022\u003edo_stuff_in_transaction\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003econn\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003eBe consistent in return statements \n    \u003cdiv id=\u0022be-consistent-in-return-statements\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#be-consistent-in-return-statements\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003eCorrect:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003edef\u003c\/span\u003e \u003cspan class=\u0022nf\u0022\u003efoo\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e):\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003eif\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e \u003cspan class=\u0022o\u0022\u003e\u0026gt;=\u003c\/span\u003e \u003cspan class=\u0022mi\u0022\u003e0\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e        \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003emath\u003c\/span\u003e\u003cspan class=\u0022o\u0022\u003e.\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003esqrt\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003eelse\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e        \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022kc\u0022\u003eNone\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003edef\u003c\/span\u003e \u003cspan class=\u0022nf\u0022\u003ebar\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e):\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003eif\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e \u003cspan class=\u0022o\u0022\u003e\u0026lt;\u003c\/span\u003e \u003cspan class=\u0022mi\u0022\u003e0\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e        \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022kc\u0022\u003eNone\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003emath\u003c\/span\u003e\u003cspan class=\u0022o\u0022\u003e.\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003esqrt\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\u003cul\u003e\n\u003cli\u003eWrong:\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-python\u0022 data-lang=\u0022python\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003edef\u003c\/span\u003e \u003cspan class=\u0022nf\u0022\u003efoo\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e):\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003eif\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e \u003cspan class=\u0022o\u0022\u003e\u0026gt;=\u003c\/span\u003e \u003cspan class=\u0022mi\u0022\u003e0\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e        \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003emath\u003c\/span\u003e\u003cspan class=\u0022o\u0022\u003e.\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003esqrt\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e\u003cspan class=\u0022k\u0022\u003edef\u003c\/span\u003e \u003cspan class=\u0022nf\u0022\u003ebar\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e):\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003eif\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e \u003cspan class=\u0022o\u0022\u003e\u0026lt;\u003c\/span\u003e \u003cspan class=\u0022mi\u0022\u003e0\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e:\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e        \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003e    \u003cspan class=\u0022k\u0022\u003ereturn\u003c\/span\u003e \u003cspan class=\u0022n\u0022\u003emath\u003c\/span\u003e\u003cspan class=\u0022o\u0022\u003e.\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003esqrt\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e(\u003c\/span\u003e\u003cspan class=\u0022n\u0022\u003ex\u003c\/span\u003e\u003cspan class=\u0022p\u0022\u003e)\u003c\/span\u003e\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003estartswith, endswith \n    \u003cdiv id=\u0022startswith-endswith\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#startswith-endswith\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003eUse \u0026lsquo;\u0026rsquo;.startswith() and \u0026lsquo;\u0026rsquo;.endswith() instead of string slicing to check for prefixes or suffixes.\u003c\/li\u003e\n\u003cli\u003eCorrect:\nif foo.startswith(\u0026lsquo;bar\u0026rsquo;):\u003c\/li\u003e\n\u003cli\u003eWrong:\nif foo[:3] == \u0026lsquo;bar\u0026rsquo;:\u003c\/li\u003e\n\u003c\/ul\u003e\n\n\n\u003ch2 class=\u0022relative group\u0022\u003eObject type comparisons \n    \u003cdiv id=\u0022object-type-comparisons\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#object-type-comparisons\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003eCorrect:\nif isinstance(obj, int):\u003c\/li\u003e\n\u003cli\u003eWrong:\nif type(obj) is type(1):\u003c\/li\u003e\n\u003c\/ul\u003e\n\n\n\u003ch2 class=\u0022relative group\u0022\u003eSequences, (strings, lists, tuples) \n    \u003cdiv id=\u0022sequences-strings-lists-tuples\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022\n            style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#sequences-strings-lists-tuples\u0022 aria-label=\u0022Anchor\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003e-For sequences, (strings, lists, tuples), use the fact that empty sequences are false:\u003c\/p\u003e",
     "inLanguage": "en",
-    "url" : "https:\/\/localhost:1313\/dsblog\/Python-Naming-Convention\/",
+    "url" : "https:\/\/dasarpai.com\/dsblog\/Python-Naming-Convention\/",
     "author" : {
       "@type": "Person",
       "name": "Hari Thapliyaal"
@@ -1538,7 +1538,6 @@
       
 
 
-
 <style>
   .article-content img {
     width: 100%;
@@ -1562,7 +1561,7 @@
 
   <header id="single_header" class="mt-5">
     
-    <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+      <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
   
   
     
@@ -1573,7 +1572,7 @@
     <a
       class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
       href="/"
-      >Welcome to Blowfish! :tada:</a
+      >dasarpAI</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -1599,9 +1598,11 @@
 
 
     
+
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
       Python Naming Convention
     </h1>
+
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
 
@@ -1759,8 +1760,7 @@
     </div>
 
     
-    
-    
+
     
     
 
@@ -1768,23 +1768,23 @@
 
     
       
-      
 
       
 
       
-
     
-
   </header>
-  
+
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
-     <div
-      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
-      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+    
+    
 
-         <h4>On This Page</h4>
+    
+      <div class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+        <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+          
+            <h4>On This Page</h4>
 <details open id="TOCView"
   class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
   <summary
@@ -1901,17 +1901,20 @@
 
 
 </script>
-   </div>
+
+          
+          
+          
+        </div>
       </div>
+    
+
+    <div class="min-w-0 min-h-0 max-w-fit">
       
 
-      <div class="min-w-0 min-h-0 max-w-fit">
-        
-        
 
-
-        <div class="article-content  mb-20">
-          <p>
+      <div class="article-content mb-20">
+        <p>
     <figure>
       <img class="my-0 rounded-md" loading="lazy" src="/assets/images/dspost/dsp6072-Python-Naming-Convention.jpg" alt="Python Naming Convention" />
       
@@ -2212,14 +2215,12 @@ if greeting is True:</li>
 <li><a href="https://peps.python.org/pep-0008/#programming-recommendations" target="_blank">https://peps.python.org/pep-0008/#programming-recommendations</a></li>
 </ul>
 
-          
-          
-          
-        </div>
-        
-        
 
-        <style>
+        
+        
+      </div>
+
+      <style>
  
 
 </style><div class="td-author-box"><div class="td-author-box__avatar">
@@ -2250,8 +2251,7 @@ With over three decades of experience in management and leadership, Hari has pro
 
 Hari&#39;s professional journey showcases his diverse experience in planning and executing multiple types of projects. He excels in driving stakeholders to identify and resolve business problems, consistently delivering excellent results. Beyond the professional sphere, Hari finds solace in long meditation, often seeking secluded places or immersing himself in the embrace of nature.</p></div>
   </div>
-
-        <div class="td-comments">
+      <div class="td-comments">
       <h4 class="td-comments__title">Comments:</h4>
       <script src="https://giscus.app/client.js"
               data-repo="dasarpai/dasarpai-comments"
@@ -2269,10 +2269,9 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
               async>
       </script>
     </div>
+      
 
-        
-
-        
+      
   
   <section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
     
@@ -2280,7 +2279,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;title=Python%20Naming%20Convention"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;title=Python%20Naming%20Convention"
       title="Share on LinkedIn"
       aria-label="Share on LinkedIn"
       >
@@ -2299,7 +2298,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;text=Python%20Naming%20Convention"
+      href="https://twitter.com/intent/tweet/?url=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;text=Python%20Naming%20Convention"
       title="Tweet on Twitter"
       aria-label="Tweet on Twitter"
       >
@@ -2317,7 +2316,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://api.whatsapp.com/send?text=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;resubmit=true&amp;title=Python%20Naming%20Convention"
+      href="https://api.whatsapp.com/send?text=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;resubmit=true&amp;title=Python%20Naming%20Convention"
       title="Share via WhatsApp"
       aria-label="Share via WhatsApp"
       >
@@ -2336,7 +2335,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://t.me/share/url?url=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;resubmit=true&amp;title=Python%20Naming%20Convention"
+      href="https://t.me/share/url?url=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;resubmit=true&amp;title=Python%20Naming%20Convention"
       title="Share via Telegram"
       aria-label="Share via Telegram"
       >
@@ -2355,7 +2354,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://pinterest.com/pin/create/bookmarklet/?url=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;description=Python%20Naming%20Convention"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;description=Python%20Naming%20Convention"
       title="Pin on Pinterest"
       aria-label="Pin on Pinterest"
       >
@@ -2374,7 +2373,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.facebook.com/sharer/sharer.php?u=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;quote=Python%20Naming%20Convention"
+      href="https://www.facebook.com/sharer/sharer.php?u=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;quote=Python%20Naming%20Convention"
       title="Share on Facebook"
       aria-label="Share on Facebook"
       >
@@ -2393,7 +2392,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="mailto:?body=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;subject=Python%20Naming%20Convention"
+      href="mailto:?body=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;subject=Python%20Naming%20Convention"
       title="Send via email"
       aria-label="Send via email"
       >
@@ -2412,7 +2411,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://bsky.app/intent/compose?text=Python%20Naming%20Convention&#43;https://localhost:1313/dsblog/Python-Naming-Convention/"
+      href="https://bsky.app/intent/compose?text=Python%20Naming%20Convention&#43;https://dasarpai.com/dsblog/Python-Naming-Convention/"
       title="Post on Bluesky"
       aria-label="Post on Bluesky"
       >
@@ -2430,7 +2429,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://reddit.com/submit/?url=https://localhost:1313/dsblog/Python-Naming-Convention/&amp;resubmit=true&amp;title=Python%20Naming%20Convention"
+      href="https://reddit.com/submit/?url=https://dasarpai.com/dsblog/Python-Naming-Convention/&amp;resubmit=true&amp;title=Python%20Naming%20Convention"
       title="Submit to Reddit"
       aria-label="Submit to Reddit"
       >
@@ -2448,29 +2447,25 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
   </section>
 
 
-        
-      </div>
-     
+    </div>
+
+    
       
       
         
         
-          
-          
-        
+      
+
       <script>
-        var oid = "views_dsblog\\2023-07-11-6072-Python-Naming-Convention.md"
-        var oid_likes = "likes_dsblog\\2023-07-11-6072-Python-Naming-Convention.md"
+        var oid = "views_dsblog\\2023-07-11-6072-Python-Naming-Convention.md";
+        var oid_likes = "likes_dsblog\\2023-07-11-6072-Python-Naming-Convention.md";
       </script>
       
-      
       <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
-      
-  
+    
+  </section>
 
-      
-    </section>
-  <footer class="pt-8  print:hidden">
+  <footer class="pt-8 print:hidden">
     
   
     
@@ -2536,6 +2531,7 @@ Hari&#39;s professional journey showcases his diverse experience in planning and
 
     
   </footer>
+
   <div>
     
 
@@ -3651,7 +3647,7 @@ All these …
       
     </section>
   
-  
+
   </div>
 </article>
 
@@ -3662,77 +3658,174 @@ All these …
     &uarr;
   </a>
 </div>
-    </main><footer id="site-footer" class="py-10 print:hidden">
-  
-  
-    
-    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
-      <ul class="flex flex-col list-none sm:flex-row">
-        
-        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
-          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/tags/"
-            title="Tags">
-            
-            Tags
-          </a>
-        </li>
-        
-        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
-          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/authors/"
-            title="Authors Taxonomy Listing Example">
-            
-            Authors
-          </a>
-        </li>
-        
-      </ul>
-    </nav>
-    
-  
-  <div class="flex items-center justify-between">
-
-    
-    
-    <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      &copy;
-      2025
-      Hari Thapliyaal
-    </p>
-    
-
-    
-    
-    <p class="text-xs text-neutral-500 dark:text-neutral-400">
+    </main><article><section class="footer-wrapper">
+  <footer class="td-footer container-fluid">
+    <div class="row">
       
-      
-      Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
-    </p>
-    
+      <div class="col-md-2 mb-4 mb-md-0">
+        <a href="https://dasarpai.com" target="_blank" rel="noopener">
+          <img src="https://dasarpai.com/assets/images/site-logo.png" alt="dasarpAI" width="100" style="border-radius: 12px;">
+        </a>
+      </div>
 
-  </div>
-  <script>
+      
+      <div class="col-md-10">
+        
+
+        
+        <div class="row"><div class="col-md-3 mb-4">
+                  <div class="footer-menu">
+                    <h5 class="footer-title">Key Links</h5>
+                    <ul class="list-unstyled"><li class="mb-2"><a href="/aboutme" class="text-muted">About Me</a></li><li class="mb-2"><a href="/dscourses" class="text-muted">My Data Science Courses/Services</a></li><li class="mb-2"><a href="/summary-of-al-ml-projects" class="text-muted">MyWork by Business Domain</a></li><li class="mb-2"><a href="/summary-of-my-technology-stacks" class="text-muted">MyWork by Tech Stack</a></li><li class="mb-2"><a href="/summary-of-management-projects" class="text-muted">MyWork in Project Management</a></li><li class="mb-2"><a href="/clients" class="text-muted">Clients</a></li><li class="mb-2"><a href="/testimonials" class="text-muted">Testimonial</a></li><li class="mb-2"><a href="/terms-of-service" class="text-muted">Terms &amp; Condition</a></li><li class="mb-2"><a href="/privacy" class="text-muted">Privacy Policy</a></li><li class="mb-2"><a href="/comment-policy" class="text-muted">Comment Policy</a></li></ul>
+                  </div>
+                </div><div class="col-md-3 mb-4">
+                  <div class="footer-menu">
+                    <h5 class="footer-title">My Blogs</h5>
+                    <ul class="list-unstyled"><li class="mb-2"><a href="/dsblog" class="text-muted">Data Science Blog</a></li><li class="mb-2"><a href="/booksumary" class="text-muted">Books/Interviews Blog</a></li><li class="mb-2"><a href="/news" class="text-muted">AI and Business News</a></li><li class="mb-2"><a href="/pmblog" class="text-muted">PMLOGY Blog</a></li><li class="mb-2"><a href="/pmbok6hi" class="text-muted">PMBOK6 Hindi Explorer</a></li><li class="mb-2"><a href="/wiaposts" class="text-muted">Wisdom in Awareness Blog</a></li><li class="mb-2"><a href="/samskrutyatra" class="text-muted">Samskrut Blog</a></li><li class="mb-2"><a href="/mychanting" class="text-muted">My Chantings</a></li><li class="mb-2"><a href="/quotations-blog" class="text-muted">WIA Quotes</a></li><li class="mb-2"><a href="/gk" class="text-muted">GK Blog</a></li></ul>
+                  </div>
+                </div><div class="col-md-3 mb-4">
+                  <div class="footer-menu">
+                    <h5 class="footer-title">All Resources</h5>
+                    <ul class="list-unstyled"><li class="mb-2"><a href="/datascience-tags#ds-resources" class="text-muted">DS Resources</a></li><li class="mb-2"><a href="https://aibenchmark-explorer.dasarpai.com" class="text-muted">AI Benchmark Explorer</a></li><li class="mb-2"><a href="/dsblog/ds-ai-ml-books" class="text-muted">Data Science-Books</a></li><li class="mb-2"><a href="/dsblog/data-science-cheatsheets" class="text-muted">Data Science/AI Cheatsheets</a></li><li class="mb-2"><a href="/dsblog/best-youtube-channels-for-ds" class="text-muted">Video Channels to Learn DS/AI</a></li><li class="mb-2"><a href="/dsblog/ds-ai-ml-interview-resources" class="text-muted">DS/AI Interview Questions</a></li><li class="mb-2"><a href="https://github.com/dasarpai/DAI-Datasets" class="text-muted">GitHub DAI-Datasets</a></li><li class="mb-2"><a href="/pmi-templates" class="text-muted">PMBOK6 Templates</a></li><li class="mb-2"><a href="/prince2-templates" class="text-muted">PRINCE2 Templates</a></li><li class="mb-2"><a href="/microsoft-pm-templates" class="text-muted">Microsoft PM Templates</a></li></ul>
+                  </div>
+                </div><div class="col-md-3 mb-4">
+                  <div class="footer-menu">
+                    <h5 class="footer-title">Project Management</h5>
+                    <ul class="list-unstyled"><li class="mb-2"><a href="/pmlogy-home" class="text-muted">PMLOGY Home</a></li><li class="mb-2"><a href="/pmblog" class="text-muted">PMLOGY Blog</a></li><li class="mb-2"><a href="/pmglossary" class="text-muted">PM Glossary</a></li><li class="mb-2"><a href="/pmlogy-tags" class="text-muted">PM Topics</a></li><li class="mb-2"><a href="/pmbok6-tags" class="text-muted">PMBOK6 Topics</a></li><li class="mb-2"><a href="/pmbok6-summary" class="text-muted">PMBOK6</a></li><li class="mb-2"><a href="/pmbok6" class="text-muted">PMBOK6 Explorer</a></li><li class="mb-2"><a href="/pmbok6hi-tags" class="text-muted">PMBOK6 Hindi Topics</a></li><li class="mb-2"><a href="/pmbok6hi-summary" class="text-muted">PMBoK6 Hindi</a></li><li class="mb-2"><a href="/pmbok6hi" class="text-muted">PMBOK6 Hindi Explorer</a></li></ul>
+                  </div>
+                </div></div>
+
+        
+        <div class="row"><div class="col-md-3 mb-4">
+                  <div class="footer-menu">
+                    <h5 class="footer-title">Wisdom in Awareness</h5>
+                    <ul class="list-unstyled"><li class="mb-2"><a href="/wia-home" class="text-muted">WIA Home</a></li><li class="mb-2"><a href="/wiaposts" class="text-muted">WIA Blog</a></li><li class="mb-2"><a href="/wia-tags" class="text-muted">WIA Topics</a></li><li class="mb-2"><a href="/quotations-blog" class="text-muted">WIA Quotes</a></li><li class="mb-2"><a href="/gk" class="text-muted">GK Blog</a></li><li class="mb-2"><a href="/gk-tags" class="text-muted">GK Topic</a></li></ul>
+                  </div>
+                </div><div class="col-md-3 mb-4">
+                  <div class="footer-menu">
+                    <h5 class="footer-title">Samskrutyatra</h5>
+                    <ul class="list-unstyled"><li class="mb-2"><a href="/samskrutyatra-home" class="text-muted">SamskrutYatra Home</a></li><li class="mb-2"><a href="/samskrutyatra" class="text-muted">Samskrut Blog</a></li><li class="mb-2"><a href="/samskrutyatra-tags" class="text-muted">Samskrut Topics</a></li><li class="mb-2"><a href="/mychanting" class="text-muted">My Vedic Chantings</a></li></ul>
+                  </div>
+                </div><div class="col-md-3 mb-4">
+                  <div class="footer-menu">
+                    <h5 class="footer-title">My Gallery</h5>
+                    <ul class="list-unstyled"><li class="mb-2"><a href="/gallary/slider-online-sessions1" class="text-muted">Online AI Classes 1</a></li><li class="mb-2"><a href="/gallary/slider-online-sessions2" class="text-muted">Online AI Classes 2</a></li><li class="mb-2"><a href="/gallary/slider-online-sessions3" class="text-muted">Online AI Classes 3</a></li><li class="mb-2"><a href="/gallary/slider-online-sessions4" class="text-muted">Online AI Classes 4</a></li><li class="mb-2"><a href="/gallary/slider-pm-selected-photos" class="text-muted">Management Classes</a></li><li class="mb-2"><a href="/gallary/slider-pm-workshops" class="text-muted">PM &amp; DS Workshop</a></li></ul>
+                  </div>
+                </div></div>
+      </div>
+    </div>
+
     
-    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
-      margin: 24,
-      background: 'rgba(0,0,0,0.5)',
-      scrollOffset: 0,
-    })
-    
-  </script>
+    <div class="row mt-4 pt-3 border-top">
+      <div class="col-md-4 order-2 order-md-1">
+        <ul class="td-footer__links-list">
   
+  <li class="td-footer__links-item" data-bs-toggle="tooltip" title="Slack" aria-label="Slack">
+    <a target="_blank" rel="noopener" href="https://join.slack.com/t/dasarpai/shared_invite/zt-2mg1j7ddw-0QYA9IAvFFRKw51ZBK6mkQ" aria-label="Slack">
+      <i class="fab fa-slack"></i>
+    </a>
+  </li>
   
-  <script type="text/javascript" src="/js/process.min.ee03488f19c93c2efb199e2e3014ea5f3cb2ce7d45154adb3399a158cac27ca52831db249ede5bb602700ef87eb02434139de0858af1818ab0fb4182472204a4.js" integrity="sha512-7gNIjxnJPC77GZ4uMBTqXzyyzn1FFUrbM5mhWMrCfKUoMdsknt5btgJwDvh&#43;sCQ0E53ghYrxgYqw&#43;0GCRyIEpA=="></script>
+  <li class="td-footer__links-item" data-bs-toggle="tooltip" title="User mailing list" aria-label="User mailing list">
+    <a target="_blank" rel="noopener" href="https://groups.google.com/forum/#!forum/agones-discuss" aria-label="User mailing list">
+      <i class="fa fa-envelope"></i>
+    </a>
+  </li>
   
+  <li class="td-footer__links-item" data-bs-toggle="tooltip" title="Twitter" aria-label="Twitter">
+    <a target="_blank" rel="noopener" href="https://twitter.com/dasarpai" aria-label="Twitter">
+      <i class="fab fa-twitter"></i>
+    </a>
+  </li>
   
-  <a rel="me" href="https://masto.ai/@blowfish"></a>
+  <li class="td-footer__links-item" data-bs-toggle="tooltip" title="Community Meetings" aria-label="Community Meetings">
+    <a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list=PLhkWKwFGACw2dFpdmwxOyUCzlGP2-n7uF" aria-label="Community Meetings">
+      <i class="fab fa-youtube"></i>
+    </a>
+  </li>
   
-</footer>
-<div
+</ul>
+
+      </div>
+      <div class="col-md-4 order-1 order-md-2 text-center mb-3 mb-md-0">
+        
+      </div>
+      <div class="col-md-4 order-3 text-md-end">
+        <ul class="td-footer__links-list">
+  
+  <li class="td-footer__links-item" data-bs-toggle="tooltip" title="GitHub" aria-label="GitHub">
+    <a target="_blank" rel="noopener" href="https://github.com/dasarpai/dasarpai-agones" aria-label="GitHub">
+      <i class="fab fa-github"></i>
+    </a>
+  </li>
+  
+  <li class="td-footer__links-item" data-bs-toggle="tooltip" title="Slack" aria-label="Slack">
+    <a target="_blank" rel="noopener" href="https://join.slack.com/t/dasarpai/shared_invite/zt-2mg1j7ddw-0QYA9IAvFFRKw51ZBK6mkQ" aria-label="Slack">
+      <i class="fab fa-slack"></i>
+    </a>
+  </li>
+  
+  <li class="td-footer__links-item" data-bs-toggle="tooltip" title="Community Meetings" aria-label="Community Meetings">
+    <a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list=PLhkWKwFGACw2dFpdmwxOyUCzlGP2-n7uF" aria-label="Community Meetings">
+      <i class="fab fa-youtube"></i>
+    </a>
+  </li>
+  
+</ul>
+
+      </div>
+    </div>
+  </footer>
+</section>
+</article>
+
+
+
+
+
+
+
+<style>
+.footer-wrapper {
+   
+  padding: 2rem 0;
+  margin-top: 3rem;
+}
+
+.footer-menu .footer-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.footer-menu ul {
+  padding-left: 0;
+}
+
+.footer-menu a {
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-menu a:hover {
+  color: #007bff !important;  
+}
+
+@media (min-width: 768px) {
+  .footer-menu {
+    height: 100%;
+  }
+  .footer-menu > ul {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+}
+</style><div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://localhost:1313/"
+  data-url="https://dasarpai.com/"
   style="z-index:500"
 >
   <div

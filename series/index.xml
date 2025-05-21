@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on </title>
-    <link>https://localhost:1313/series/</link>
+    <link>https://dasarpai.com/series/</link>
     <description>Recent content in Series on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <atom:link href="https://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dasarpai.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Documentation</title>
-      <link>https://localhost:1313/series/documentation/</link>
+      <link>https://dasarpai.com/series/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/series/documentation/</guid>
+      <guid>https://dasarpai.com/series/documentation/</guid>
       <description></description>
       
     </item>

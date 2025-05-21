@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on </title>
-    <link>https://localhost:1313/tags/homepage/</link>
+    <link>https://dasarpai.com/tags/homepage/</link>
     <description>Recent content in Homepage on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hari@dasarpai.com (Hari Thapliyaal)</managingEditor>
     <webMaster>hari@dasarpai.com (Hari Thapliyaal)</webMaster>
     <copyright>© 2025 Hari Thapliyaal</copyright>
-    <atom:link href="https://localhost:1313/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dasarpai.com/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Homepage Layout</title>
-      <link>https://localhost:1313/docs/homepage-layout/</link>
+      <link>https://dasarpai.com/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hari@dasarpai.com (Hari Thapliyaal)</author>
-      <guid>https://localhost:1313/docs/homepage-layout/</guid>
+      <guid>https://dasarpai.com/docs/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dasarpai.com/docs/homepage-layout/featured.svg" />
     </item>
     
   </channel>
